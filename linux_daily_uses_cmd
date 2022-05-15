@@ -1,0 +1,49 @@
+ssh username@server_addres.com //server_addres -> may be in ip format, or may be its your website domain
+sshfs username@server_addres.com:/home/username/ /home/php/mounted_projects/yourlocaldirname/ -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3
+sudo dpkg -i /tmp/code_latest_amd64.deb //install application in <i class="fa fa-linux" aria-hidden="true"></i>
+netExtender -umayank.kushwah -pRadixweb8 -dserver_name 180.211.112.179:4433
+chmod +x filname //to x for convert or give permision to executable file.
+grep -nr "stringtofind" . --exclude-dir={.svn,cache} --color
+ping mayanksinghkushwah.in
+uptime
+top
+wget <url>
+sudo apt-get install tree
+apt get update
+sudo apt-get dist-upgrade
+mv src_of_fileame desination_of_file_name
+history > history_bkp.txt
+touch filenmae
+cat filenmae
+svn diff >my_patch_file.patch
+patch --dry-run -p0 -i patchfile.patch > dryrun.txt
+patch -p0 -i patchfile.patch
+svn st | grep "? "
+svn checkout https://svn.radixweb.in/svn/enasysusa/trunk .
+svn revert --recursive images cache robots.txt sitemap.xml
+svn commit -m "refs # : Setup the intial project source code from {OPS v5.4: rev 331}";
+====================================================================================================================================
+							SVN CHECKOUT for old project
+====================================================================================================================================
+svn co https://svn.radixweb.in/svn/Project_name/trunk . 
+====================================================================================================================================
+						IMPORT EXPORT DATABASE
+====================================================================================================================================
+
+import
+gunzip <  uday_parmar9_live_migrated.gz  | mysql -uuzmarketingv5 -pdeep70 uzmarketingv5
+
+gunzip <  uzmarketingv7_69_03022021.gz  | mysql -uuzmarketing -pdeep70 uzmarketing
+
+
+export
+
+mysqldump -uuday_parmar -pdeep70 uday_parmar9 | gzip > uday_parmar9_live_migrated.gz
+--For export db structure without data
+mysqldump -umayank_kushwah -p --no-data mayank_kushwah3 > enasysusav8_schema.sql
+====================================================================================================================================
+This displays files with its permisions
+stat -c '%a - %n' directory/*
+->chmod 7777 -R directory_name/
+===================================================
+https://phoenixnap.com/kb/linux-file-permissions
