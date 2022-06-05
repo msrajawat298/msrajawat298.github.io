@@ -1,0 +1,129 @@
+SEO - Essentials
+======================
+Understanding of Google Search crawls, indexes, metatags, etc.. Also you can able know debugging SEO tools, GTM configuration
+
+This course provide understanding how Google Search crawls, indexes, and serves content is important when you're debugging issues and anticipating search behavior on your site, If you're already familiar with the beginner level SEO of maintaining a website on Google and using Search Console, this training goes into more advanced topics in managing and maintaining a website
+
+What’s Included
+
+Understanding of different SEO aspects
+How google search works
+Crawling & Indexing
+Sitemaps
+Robots.txt
+Metatags
+Page title keywords
+Structure Data
+Optimize page experience
+Page securities
+Mobile friendliness
+Web speed optimization
+Different SEO validate techniques
+Validate sitemap and robots setup correct
+Measure Page quality and speed
+Check with mobile friendly ness
+Validate structure data
+Migration from old URL structure to new URL structure
+Google feeds, Analytics and product performance
+Product Feeds
+Google Tag Manager
+Configure Analytics & Enhance ecommerce
+Configure Facebook pixel
+Custom JS Script (like LIVE Chat, Review etc.…)
+
+
+============================================================================================================================================
+Control Crawling and Indexing
+
+Learn different aspects which should make impact on SEO
+Page title and Keywords
+Sitemap
+Google to recrawl
+robots file
+Metatags
+Structure data
+Duplicate URL & Soft Delete (Header Response Code 301, 404 etc.…)
+Ref. Links
+https://developers.google.com/search/docs/advanced/guidelines/how-search-works
+https://schema.org/
+==================================
+Web Speed Optimization & Mobile Friendly
+Different techniques of Optimization (JS, CSS, Fonts & Media)
+Ref. Links
+https://web.dev/fast/
+https://developers.google.com/search/mobile-sites/get-started
+
+Expected output:
+You should able to generate and configure page title, keywords,  sitemap.xml, write and control robots and setup meta tags for Any Web Application
+You should able to recrawl and also able to control crawling rate for any site
+You should able to understand how schema markup and structure data works and impact on SEO
+You should able to understand variety of header response code and impact of it.
+
+
+Different validate techniques
+
+Validate sitemap and robots
+Learn how to validate sitemap and robots.txt files are correct or not
+Validate one level sitemap and robots file manually
+Validate sitemap using any valid third-party site
+https://support.google.com/news/publisher-center/answer/9607107?hl=en
+Validate your robots.txt using third-party validator
+https://support.google.com/webmasters/answer/6062598?hl=en
+Validate page speed and responsiveness
+Learn how to measure Page quality and speed and also suggest changes based on result
+https://pagespeed.web.dev/
+Learn how to measure responsiveness of website and suggest changes based on the results
+https://search.google.com/test/mobile-friendly
+Validate structure data and schema
+Learn how to check schema and structure date of individual page
+Learn what is fatal error and warning, also learn difference between it
+https://developers.google.com/search/docs/advanced/structured-data
+Migration from old URL to new URL structure
+How to setup 301 redirection
+Learn old URL structure of site and learn new URL structure of site
+Identify new URL against old URL
+Set redirection from old URL to new URL
+https://developers.google.com/search/docs/advanced/crawling/site-move-with-url-changes
+Expected output:
+You should able to measure security, speed, mobile friendliness with all directives and suggest changes based on result set (not generalize suggestion, it should be specific action items based on specific results).
+You should able to use different page validate techniques.
+
+Shopping Feeds and GTM
+
+Google Shopping Feeds
+Shopping Feed
+Troubleshoot shopping feeds
+Reference links
+https://support.google.com/merchants/answer/188477?hl=en&ref_topic=3163841
+https://support.google.com/merchants/answer/188476?hl=en&ref_topic=3163841
+Google Tag Manager
+Setup and install Google tag manager in Web Application
+Configure google analytics using GTM
+Configure Facebook pixel using GTM
+Configure Custom JS Script like Livechat, Review etc
+Create your custom events
+Create your own custom tags
+Create your own custom triggers
+Enhance ecommerce tracking using GTM
+Create enhance ecommerce tags and triggers for OnPrintShop standard solution or any ecommerce application.
+Preview and debug containers
+How to debug with plugins
+How to debug with GTM screen
+https://support.google.com/tagmanager/answer/6107056?hl=en
+
+
+Note
+To configure GTM you should setup the any ecommerce platform (Magento OR Shopify OR OnPrintShop) with open access URL
+
+Expected output: After finish this milestone you should able to perform below points
+Configure GTM in any ecommerce platform OR in OnPrintShop standard solution.
+Should able to create your custom events (tags and triggers)
+Should able to configure Facebook pixel in Google tag manager.
+Should able to debug data layer, tags and triggers of Google tag manager.
+
+
+
+
+
+
+

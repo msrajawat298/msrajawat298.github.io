@@ -1,0 +1,20 @@
+How to  find vurnablity if the site ?
+============================================
+https://www.hacksplaining.com/prevention/file-upload
+https://owasp.org/www-community/vulnerabilities/Unrestricted_File_Upload
+
+https://www.fireeye.com/content/dam/fireeye-www/global/en/current-threats/pdfs/rpt-behind-the-syria-conflict.pdf
+
+https://security.stackexchange.com/questions/53878/how-to-explain-buffer-overflow-to-a-layman/53884#53884
+
+https://medium.com/purple-team/embedding-malicious-codes-payloads-into-any-file-types-method-1-f001f8823ebb
+
+https://onestepcode.com/injecting-php-code-to-jpg/
+
+https://thehackernews.com/2015/06/Stegosploit-malware.html
+https://www.sentinelone.com/blog/hiding-code-inside-images-malware-steganography/
+https://systemweakness.com/attach-payload-to-an-executable-file-22465743c617
+
+https://geekflare.com/online-scan-website-security-vulnerabilities/
+
+https://cwatch.comodo.com/how-to-find-vulnerability-in-a-website.php

@@ -1,0 +1,19 @@
+learn about some popular and usefull plugin in wordpress and how to implement
+read all the documnetion online in descripting mode
+Polylang plugin
+LMS
+wp-rocket
+seo yost
+TranslatePress 
+Social Auto Poster 
+MemberPress 
+Gravity Forms
+DW Question 
+BetterDocs 
+WP Fusion
+WPForms Pro
+BuddyBoss  theme
+REHub theme
+uipress
+sliderrevolution
+https://www.uipress.co/
