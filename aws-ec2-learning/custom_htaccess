@@ -104,8 +104,6 @@
 
 # If everything is a go, it makes a substitution or action.
 
-#
-
 # Advantages of mod_rewrite : mod_rewrite is most commonly used to transform ugly, cryptic URLs into what are known as “friendly URLs” or “clean URLs. These URLs are also more search engine friendly. Consider the following example:
 
 # Not so friendly: http://example.com/user.php?id=4512
@@ -113,10 +111,6 @@
 # Much friendlier: http://example.com/user/4512/
 
 # Even better: http://example.com/user/Joe/
-
-#
-
-#
 
 # Enabling mod_rewrite on the Server:
 
@@ -126,15 +120,11 @@
 
 # LoadModule rewrite_module modules/mod_rewrite.so
 
-#
-
 # Testing for mod_rewrite
 
 # You can test if mod_rewrite is enabled/working in a number of ways. One of the simplest methods is to view the output from PHP’s phpinfo function. Create this very simple PHP page, open it in your browser, and search for “mod_rewrite” in the output.
 
 # mod_rewrite should show up in the “Loaded Modules” section of the page like so:
-
-#
 
 # For more info :
 
@@ -145,3 +135,6 @@
 # http://www.mayanksinghkushwah.in/2020/05/removeextension.html
 
 # ============================================================
+
+# Note : if your htaccess is not working then please check your appache global .cong file and change AllowOverride none -> to AllowOverride All
+# https://www.keycdn.com/support/htaccess-not-working
