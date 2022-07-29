@@ -1,0 +1,5 @@
+networking cmd::
+===========================
+Find the WiFi Password on Windows
+netsh wlan show profile name=labnol key=clear
+netsh wlan show profile name=labnol key=clear | findstr Key
