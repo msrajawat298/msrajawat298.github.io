@@ -3,3 +3,7 @@ networking cmd::
 Find the WiFi Password on Windows
 netsh wlan show profile name=labnol key=clear
 netsh wlan show profile name=labnol key=clear | findstr Key
+
+
+=========================================
+win + alt + r OR win+G (record video without any 3rd party software)
