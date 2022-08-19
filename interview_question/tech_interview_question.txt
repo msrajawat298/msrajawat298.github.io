@@ -1,0 +1,21 @@
+what is rest api ?
+Ans : A RESTful API makes it possible for remote execution of an application's capabilities by supporting standard HTTP methods, error handling, and other RESTful mechanisms.
+This competency area includes usage of the GET Request, consuming the APIs, and exploring basic functionalities.
+what is soap
+differnce between put and patch.
+what is jwt tokens and how and where to use ?
+jwt or bareer token is same?
+what is object orinted programming and why we use it ?
+write a function that output will be 0 if I pass 1 or 1 when I pass 0 without if and else or other condtions. time complexity will be 1.
+write a sql queries that will find only duplicates records.
+write a sql queries that will find 2nd max salary.
+what is having clause.
+what is sql aggeregate function and can be use in where clause?
+revrse string without strrev
+find common values of two arrays
+find position of number 4 from arrays of size 1 millions of records without use any inbuilt functions. (if u r using binary search then what happen if array is not sorted)
+differnce between excaption handling  and error handling.
+if there is variable which is undefied then it will go catch block or not ? 
+https://www.hackerrank.com/skills-directory/
+
+
