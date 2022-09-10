@@ -85,3 +85,9 @@ https://www3.ntu.edu.sg/home/ehchua/programming/#clientSide
 https://www3.ntu.edu.sg/home/ehchua/programming/howto/Unix_Basics.html
 https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html
 https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html
+https://www.free-css.com/free-css-templates (usefull)
+
+==============================================================================================================================
+                                                Other Utilites
+==============================================================================================================================
+https://cleartax.in/s/fd-calculator/
