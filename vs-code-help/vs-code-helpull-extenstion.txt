@@ -21,3 +21,6 @@ CodeSnap
 Docker
 Quokka.js
 emojisense
+
+1] vs code tab opeing issue :
+https://vscode.one/new-tab-vscode/

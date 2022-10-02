@@ -24,6 +24,13 @@
 # git branch -m <oldname> <newname> //rename the branch
 # git rm -rf --cached .
 # git add .
+# git status only modified files : git ls-files -m
+# git branch --all
+# git log
+# git log <branch_name> //for see secific branch
+# git log <branch_name> --not <master_branch_name>
+# git show a303aa90779efdd2f6b9d90693e2cbbbe4613c1d
+
 
 If you want to push the code to your online repository whether its is (git-lab, github, bit-bucket etc) need to set the remote. for example
 # git remote add origin <url of your repository>
@@ -54,3 +61,71 @@ svn update      | git pull / git fetch
 Revert in SVN is the cancel of change, but Revert in Git is the commit for negation. The meanings of Revert are different.
 Branch and tag are the same in the structure in SVN, but they are clearly different in Git
 SVN does not have the concept of local repository/remote repository, accordingly commit is directly reflected in the remote. However, Git has different reflecting methods for reflecting to the local repository and for reflecting to the remote repository.
+
+
+Best way to apply git patch.
+==============================
+https://git-scm.com/docs/git-apply
+
+Note: You can first preview what your patch will do:
+=========================================
+use full flag mostly used::
+
+--summary
+--stat
+--check
+--verbose or -v
+--reject
+--whitespace=<action> like fix, warn ,error etc.
+
+
+First the stats:
+	git apply --stat a_file.patch
+	
+Then a dry run to detect errors:
+	git apply --check a_file.patch
+
+you can also use this cmd this will give you more details	
+git apply --verbose step-1-4over_product_setup.diff > cheffile.txt
+
+if result is shown as you need the you can run this cmd	
+git apply name-of-file.patch (if any white space is found or line is missing then patch is not apply by default but we need to apply the patch and any error found then reject the file and create other rej. file for refrence then you can use below command)
+git apply --reject --whitespace=fix 4over_code_v91.patch
+
+Show all branch ::
+git branch --all
+
+Step to delete Branch from github ::
+================================================
+	git push origin --delete test_branch
+
+Step to delete Branch from Local ::
+=================================================
+	git branch -d <local-branch>
+		or
+	git branch --delete test_branch
+		or
+	git branch -D <local-branch> (-D force deletion of the branch, even if it contains unmerged / unpushed commits. )
+
+Q. How-to-change-the-commit-author-for-one-specific-commit
+
+	git commit -m "commit message --amend --author="Mayank singh Kushwah <email@address.com>" --no-edit
+
+Q.	How to name and retrieve a stash by name in git?
+	git stash push -m "my_stash"
+
+Q.	How-can-i-merge-two-commits-into-one
+	git reset --soft "HEAD~n" (where n is any number merge recent last comit up to 1,20)
+
+If you want to rename a branch while pointed to any branch, do:
+=================================================
+git branch -m <oldname> <newname>
+If you want to rename the current branch, you can do:
+
+git branch -m <newname>
+If you want to push the local branch and reset the upstream branch:
+
+git push origin -u <newname>
+And finally if you want to Delete the remote branch:
+
+git push origin --delete <oldname>
