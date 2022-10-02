@@ -17,7 +17,7 @@ Debugger for Chrome
 Prettier - Code formatter
 Code Runner
 Blockman - Highlight Nested Code Blocks
-lorem.space
-Lorem.gen
+CodeSnap
 Docker
 Quokka.js
+emojisense
