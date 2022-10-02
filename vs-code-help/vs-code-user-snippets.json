@@ -170,10 +170,35 @@
     "description": "get_defined_constants"
   },
   "_debug_backtrace": {
-    "prefix": "_get_defined_constants",
+    "prefix": "_debug",
     "body": [
       "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> debug_backtrace :: '; print_r(debug_backtrace()); echo '</pre>'; exit;"
     ],
     "description": "debug_backtrace"
+  },
+  "_backtrace_function": {
+    "prefix": "_backtrace_function",
+    "body": [
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> whereFucntionExist :: '; print_r(whereFucntionExist('your_function_name')); echo '</pre>'; exit;"
+    ],
+    "description": "debug_backtrace"
+  },
+  "whereFucntionExist": {
+    "prefix": "_whereFucntionExist",
+    "body": [
+      "function whereFucntionExist($$function_name=''){",
+      "if(empty($$function_name)) return false;",
+      "   $$reflFunc = new ReflectionFunction($$function_name);",
+      "   return $$reflFunc->getFileName() . ':' . $$reflFunc->getStartLine();",
+      "}"
+    ],
+    "description": "The code checks if the value is countable and returns a count of the value."
+  },
+  "debugDumpParams": {
+    "prefix": "_sqldebug",
+    "body": [
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> data :: '; print_r($$Object->debugDumpParams()); echo '</pre>'; exit;"
+    ],
+    "description": "_sqldebug"
   }
 }

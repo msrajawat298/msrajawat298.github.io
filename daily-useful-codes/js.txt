@@ -179,3 +179,18 @@ Learn About Advanced JavaScript
 * JS Browser BOM
 * JS HTML DOM
 * JavaScript Window Navigator
+use full functions ::
+--------------------------
+encodeURI
+encodeURIComponent
+https://github.com/postmanlabs/postman-app-support/issues/2517
+https://developer.mozilla.org/en-US/docs/Web/API/URL/createObjectURL
+
+==================================================================
+LEARN MORE (JS LIB)
+==================================================================
+WebGL
+jQuery jExcel Plugin 
+(https://www.jqueryscript.net/table/jQuery-Plugin-For-Dynamic-Spreadsheet-like-Data-Grid-jExcel.html)
+(https://www.jqueryscript.net/demo/jQuery-Plugin-For-Dynamic-Spreadsheet-like-Data-Grid-jExcel/)
+

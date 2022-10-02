@@ -30,6 +30,9 @@ sshfs username@server_addres.com:/home/username/ /home/php/mounted_projects/your
 
 scp -r source_folder destination_folder
 
+scp -i "<private key>" -P <port> <source file> <destination host>:<path> (SCP with port and private key)
+
+
 sudo dpkg -i /tmp/code_latest_amd64.deb //install application in <i class="fa fa-linux" aria-hidden="true"></i>
 
 netExtender -umayank.kushwah -pRadixweb8 -dserver_name 180.211.112.179:4433
@@ -46,13 +49,15 @@ sudo apt-get install tree
 apt get update
 sudo apt-get dist-upgrade
 mv src_of_fileame desination_of_file_name
-history > history_bkp.txt
+history > history_bkp.txt (https://www.cyberciti.biz/faq/clear-the-shell-history-in-ubuntu-linux/)
+
 touch filenmae
 cat filename
 grep -Po '^sudo.+:\K.*$' /etc/group //How to know sudo user ? 
 du -h --max-depth=1 //it will show size of dir
 df
 find . -printf "%h\n" | cut -d/ -f-2 | sort | uniq -c | sort -rn
+find . -type f  -name '*.rej' -printf '%TY-%Tm-%Td %TT %p\n' | sort //it will return all file list which extension .rej
 
 import : gunzip < impordb_filename.gz  | mysql -uREPLACE_DB_USERNAME -pdeep70 dbname
 
@@ -72,10 +77,33 @@ How to edit file inside linux terminal without vim
 ======================================================
 RUN sed -i '/SSLCertificateFile.*snakeoil\.pem/c\SSLCertificateFile \/etc\/ssl\/certs\/mycert.crt' /etc/apache2/sites-available/default-ssl.conf
 
+Learn More :: https://linuxize.com/post/how-to-back-up-and-restore-mysql-databases-with-mysqldump/
+---------------------------------------------------------------------------------------------------
 networking cmd::
 ===========================
 
 
+===========================
+terminal welcome message ( figlet )
+===========================
+https://www.guru99.com/the-vi-editor.html
+https://www.xmodulo.com/display-change-welcome-message-linux-terminal.html#:~:text=It%20is%20extremely%20easy%20to,of%20the%20script%20as%20follows
+https://www.tecmint.com/create-ascii-text-banners-in-linux-terminal/
+https://www.geeksforgeeks.org/cool-custom-welcome-messages-linux-terminal/
+
+https://gist.github.com/LunaCodeGirl/6707775
+vi ~/.bashrc
+
+figlet -f 3d -c Radixweb | lolcat
+figlet -w $(tput cols) -c Radixweb
+-f to select a font file.
+-d to change the directory for fonts.
+-c centers the output.
+-l left-aligns the output.
+-r right-aligns the output.
+-t sets the output width to the terminal width.
+-w specifies a custom output width.
+-k enables kerning, printing each letter of the message individually, instead of merged into the adjacent letters.
 
 
 
