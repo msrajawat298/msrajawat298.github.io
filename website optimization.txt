@@ -1,0 +1,29 @@
+=======================================
+Read about How to optimize website...
+* Reduce the page weight jQuery.Lazy();
+* images are resized on browser side
+	* if the early loading of some of these images is justified, although they are not immediately visible, you can add the attribute loading="eager" to them, which clearly specifies   this behavior. (HTML <img> loading Attribute)
+		* <img src="image.jpg" alt="my image" loading="lazy" width="50" height="50" > 
+	* If your images are larger than their display area, the browser will download unnecessary data (and perform unsupervised resizing).
+		* <img src="image.jpg" alt="my image" loading="eager" width="50" height="50" >
+
+* Set a lang for your page
+* The Content Security Policy is missing
+* robots.txt file should be defined
+* Optimize your images
+* Minify JavaScript
+* SSL Certificate
+* Use <noscript> tag When a web page uses scripts, it is advised to set at least one noscript tag. It is required to display a message when JavaScript is disabled by the user.
+* Define only one <meta> 'description'
+* Your <img> tags use an alt attribute
+* This page defines <h1> and <h2> tags
+We recommend putting page keywords in at least the h1 and h2 tags. Search engines use the h1, h2, and h3 tags for SEO purposes.
+This page contains:
+1 <h1> element(s)
+15 <h2> element(s)
+25 <h3> element(s)
+
+* This page specifies a <title> tag
+* do not use query strings in the URL 
+	A URL should be as readable as possible. For instance, http://example.com?userId=332&group=MyGroup is less readable than http://example.com/mygroup/me.
+

@@ -1,0 +1,112 @@
+=====================================================================================================================================================================================================
+Q. What is MetaData Api in Salesoforce
+
+=====================================================================================================================================================================================================
+
+- You cannot access child record information using only a standard controller. You need to use a controller extension.  
+- Cross-object formula fields cannot access child records, only the parent fields.  
+- A controller extension is the way to query the Review child records while keeping the standard controller functionality.  
+- StandardSetControllers have built-in pagination that helps reduce the number of records displayed on the page.  
+- The StandardSetController does not enforce field-level security.  
+- The StandardSetController class also contains a prototype object. This is a single sObject contained within the StandardSetController class. If the prototype object's fields are set, those values are used during the save action, meaning that the values are applied to every record in the set controller's collection. This is useful for writing pages that perform mass updates.  
+- Controller extension classes are the ones that extend the functionality of a standard or custom controller.  
+- You can use related merged fields to get the data from the parent record. The relative fields are prepended to __r.  
+- A component bundle contains a component or an app and all its related resources, including documentation and Helper.  
+	Adobe and Apex class is not part of Lighthing Componenet.
+
+Q. What is a benefit of the Lightning Component framework?  
+- The Lightning Component framework has out-of-the-box components that function seamlessly with mobile devices.  
+- The Lightning Component framework has a different look and feel called Salesforce Lightning Design System (SLDS).  
+- The Lightning Component framework does not provide a better integration with Sites.  
+- In the Lightning Component framework, most of the logic is performed in the front end.  
+
+Q. Lightning components are available in what three products? 
+- Salesforce Mobile App, Communities, and Lightning Experience.
+
+Q. What is the suffix for a Lightning Component resource?  
+- .cmp
+Q. Which two types of code represent the controller in model-view-controller (MVC) architecture on the Lightning Platform?
+- The MVC architecture on the Lightning Platform splits the Controller into two parts. 
+  They both do operations and execute the logic. 
+  One takes care of the client side, and the other handles the server side.  
+- Static resources provide the View in the MVC architecture.  
+- JavaScript when used to manipulate the display of menu items is included in the View in the MVC architecture.  
+- The MVC architecture on the Lightning Platform splits the Controller into two parts. 
+  They both do operations and execute the logic. 
+  One takes care of the client side, and the other handles the server side.  
+
+Q. An important consideration when developing in a multitenant environment .
+Ans. Governor limits.
+
+Q.Which three declarative methods help ensure quality data? Validation Rules, Lookup filters, Workflow Alerts, Page Layouts or Exception Handling 
+Ans. Validation Rules, Lookup filters, Page Layouts 
+
+Q. A developer is creating an application to track engines and their parts. An individual part can be used in different types of engines. Which data model should the developer use to track the data and to prevent orphan records?  
+Ans. A junction object should be created because an engine has many parts and a component can be part of many engines. A master-detail relationship will prevent orphan records.  	
+     A lookup relationship has no effect on object deletion and will not prevent orphan records, and it will only allow a part to be related to one engine or an engine to have only one part.  
+     A master-detail relationship will prevent orphan records. However, a one-to-many relationship will only allow a part to be related to one engine, or an engine to have only one part.
+
+
+
+Q. A company wants a recruiting app and data model for job candidates and interviews, with the following requirements: Display the total number of interviews on each candidate record.  Define security on interview records that’s independent from the security on candidate records.  Which two things should a developer do to accomplish this? (Select two answers.)  
+Ans. Create a lookup relationship between the Candidate and Interview objects, bcz The security of the interview records needs to be defined independently of the candidate records, so you must use a lookup relationship. 
+Create a trigger on the Interview object that updates a field on the Candidate object.  Since you have to use a lookup relationship, you cannot define a rollup summary field and a trigger is needed.  
+https://trailhead.salesforce.com/content/learn/modules/platform-developer-i-certification-prep-fundamentals-and-database-modeling/pd1-1-data-modeling-and-management
+Q. On which object can an administrator create a roll-up summary field?  
+Ans .:: Any object that is on the master side of a master-detail relationship. A roll-up summary field is created by showing a value from the master record that comes from field values within the detail record. The detail record should have a master-detail relationship with the master in order to calculate the values from related records.  
+
+Q. A developer needs to create a new custom object, Invoice, to track customer invoices related to Accounts. How should Invoice and Account be related to ensure that all invoices associated with an Account are visible to anyone with access to the Account? 
+Ans ::Invoice should have a master-detail relationship to Account. 
+explantion::- 
+Sharing for the detail record is inherited from the master record. A master-detail relationship, in which Account is the master and Invoice is the detail, ensures that all associated Invoices for an Account are visible to anyone with access to that Account.  
+A lookup relationship can share details between two objects.
+Sharing for the detail record is inherited from the master record, however the detail side of a master-detail relationship must be a custom object. 
+
+
+
+Q.A Which three statements are true regarding cross-object formula fields?
+Ans.::
+
+
+
+
+
+
+
+
+
+
+
+Salesforce Important links ::
+---------------------------------------
+https://trailhead.salesforce.com/content/learn/modules/developer_console?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-platform-developer-i-credential
+https://developer.salesforce.com/docs/component-library/overview/components
+https://developer.salesforce.com/docs/atlas.en-us.232.0.pages.meta/pages/pages_intro_what_is_it.htm
+https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_learning_apex.htm
+
+prepare for interview topics and add Inside CV
+===============================================
+Data structure & algorithm
+Knowldge about opps concepts like class, object, constructor, inheritance, polymorohishm, 
+knowldge about working of functions ,
+
+How to create Simple web Component  using html ,css and js in salesforce
+https://trailhead.salesforce.com/content/learn/modules/lightning-web-components-basics
+https://webcomponents.dev/ (imporatant link to practice code
+https://developer.salesforce.com/docs/component-library/documentation/en/lwc/lwc.create_components_introduction)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
