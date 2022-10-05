@@ -41,7 +41,7 @@ chmod +x filname //to x for convert or give permision to executable file.
 
 grep -nr "stringtofind" . --exclude-dir={.svn,cache} --color
 
-ping REPLACE_DB_USERNAMEkushwah.in
+ping mayanksinghkushwah.in (replace your IP address or domain name)
 uptime
 top
 wget <url>
@@ -105,8 +105,14 @@ figlet -w $(tput cols) -c Radixweb
 -w specifies a custom output width.
 -k enables kerning, printing each letter of the message individually, instead of merged into the adjacent letters.
 
+How to create zip file in linux ::
+------------------------------------
+zip –r filename.zip directory_name
 
-
+How to Get the Size of a Directory in Linux
+--------------------------------------------
+du -h /var/ | sort -rh | head -5  (learn More https://linuxize.com/post/how-get-size-of-file-directory-linux/)
+Find Large Files in Linux : https://linuxize.com/post/find-large-files-in-linux/
 
 
 
