@@ -19,4 +19,6 @@ OCR - Image Reader
 send-anywhere for gmail 
 https://www.wordtune.com/
 Chromebook Recovery Utility (Download Chrome OS)
-
+Sound Booster Plus
+Touch VPN
+Save image as Type
