@@ -106,7 +106,7 @@ http://clickasnap.com/getpaid/ (sell your images)
 https://www.classcentral.com/
 
 https://app.loopcv.pro/signup
-https://beta.openai.com/docs/introduction
+https://beta.openai.com/playground
 https://rytr.me/
 
 https://www.eldalab.in/
