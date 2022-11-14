@@ -22,3 +22,4 @@ Chromebook Recovery Utility (Download Chrome OS)
 Sound Booster Plus
 Touch VPN
 Save image as Type
+Scribe — Documentation, SOPs & Screenshots //best extension to create Documentation of step by step  explain on browser. 
