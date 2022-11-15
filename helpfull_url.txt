@@ -23,8 +23,7 @@ https://studio.tailorbrands.com/business/98122331/wizard/logos/598952425?selecte
 #create online resume
 https://www.smartr.me/me/mr.mayanksingh.kushwah 
 renderforest
-canva
-vertex 3D icon 
+vertex 3D icon
 Wordtune - AI-powered Writing Companion
 www.classcentral.com
 https://denigma.app/#demo
@@ -150,3 +149,7 @@ https://cursa.app/
 export Data :
 LinkedIn : https://www.linkedin.com/psettings/member-data
 
+https://gingersauce.co/
+https://txtmoji.com/ (Encrypt text into emoji)
+
+https://chloromaps.com/ (Develop and Ship Choropleth Maps Faster https://dpnkr.in/)
