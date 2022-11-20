@@ -17,3 +17,5 @@ REHub theme
 uipress
 sliderrevolution
 https://www.uipress.co/
+WP phpMyAdmin
+xyz scripting or (php code snippet)
