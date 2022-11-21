@@ -153,4 +153,5 @@ https://gingersauce.co/
 https://txtmoji.com/ (Encrypt text into emoji)
 
 https://chloromaps.com/ (Develop and Ship Choropleth Maps Faster https://dpnkr.in/)
-https://ownid.com/pricing.html (web user-fingerprint authication)
+https://ownid.com/pricing.html (web user-fingerprint authentication)
+https://codebeautify.org/
