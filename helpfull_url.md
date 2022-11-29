@@ -155,5 +155,7 @@ Learn More ::
 *   [https://txtmoji.com/ (Encrypt text into emoji)](https://txtmoji.com/)
 *   [https://chloromaps.com/ (Develop and Ship Choropleth Maps Faster https://dpnkr.in/)](https://chloromaps.com/)
 *   [https://ownid.com/pricing.html (web user-fingerprint authentication)](https://ownid.com/pricing.html)
-*   [https://codebeautify.org/](https://codebeautify.org/)
 
+Frequently uses site ::
+-------------
+[All one site | all type of html , text converter ](https://codebeautify.org/)
