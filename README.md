@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mayank singh Kushwah</h1>
-<h3 align="center">Software Engineer at Radixweb</h3>
+<h3 align="center">Software Engineer at EagleView</h3>
 <img src="https://raw.githubusercontent.com/MSRAJAWAT298/msrajawat298/main/images/background-images/msrajawat298_bg-min.png" title="Mr. Mayank singh kushwah software  engineer"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrajawat298&label=Profile%20views&color=0e75b6&style=flat" alt="msrajawat298" /> </p>
 <p align="left"><img  style="width:100%" src="https://github-profile-trophy.vercel.app/?username=msrajawat298&flat" alt="msrajawat298" /></p>
 
-- 🔭 I’m currently working on [onprintshop](https://www.onprintshop.com/)
-
 - 👨‍💻 All of my projects are available at [https://github.com/MSRAJAWAT298](https://github.com/MSRAJAWAT298)
 
-- 📝 I write articles on [https://www.mayanksinghkushwah.in/](https://www.mayanksinghkushwah.in/)
+- 📝 I write articles on [Click me to Know more](https://www.mayanksinghkushwah.in/)
 
 - 📫 How to reach me **https://msrajawat298.business.site/**
 
