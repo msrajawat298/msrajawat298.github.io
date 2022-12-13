@@ -9,6 +9,7 @@ Best AI website to help your Productivity
 *   [https://www.myheritage.com/ //Your animated photo is ready!](https://www.myheritage.com/)
 *   [https://www.useblackbox.io/search](https://www.useblackbox.io/search )
 *   [bigspeak.ai/](https://bigspeak.ai/ )
+*   [chatgpt](https://openai.com/blog/chatgpt/ )
 
 Get free
 --------
@@ -97,7 +98,8 @@ Gaming sites ::
 Website Resources
 -----------------
 
-*   [Website resources](https://darrelwilson.com/website-resources/ // )
+*   [Website resources](https://darrelwilson.com/website-resources/)
+*   [illustrations](https://undraw.co/illustrations)
 
 Other Utilities
 ---------------
@@ -189,6 +191,7 @@ Learn More ::
 *   [online-tools](https://eternitech.com/online-tools/)
 *   [tinywow](https://tinywow.com/)
 *   [opensourcealternative](https://www.opensourcealternative.to/) 
+*   [android kit](https://www.imobie.com/droidkit/) 
 
 Frequently uses site ::
 -------------
