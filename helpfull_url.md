@@ -97,6 +97,7 @@ Gaming sites ::
 *   [webcam game](https://webcam.sulat.net/ )
 *   [https://drafterleo.github.io/schulte/](https://drafterleo.github.io/schulte/ )
 *   [https://schultetable.ru/training/en/](https://schultetable.ru/training/en/ )
+*   [B games](https://www.bgames.com/ )
 
 Website Resources
 -----------------
@@ -169,6 +170,8 @@ Virtual System::
 *   [https://neverinstall.com/](https://neverinstall.com/ )
 *   [Replit](https://replit.com/@MayankKushwah)
 *   [https://www.sweethome3d.com/](https://www.sweethome3d.com/ )
+*   [onworks](https://www.onworks.net/)
+
 
 Learn More ::
 -------------
@@ -200,3 +203,10 @@ Frequently uses site ::
 -------------
 [All one site | all type of html , text converter ](https://codebeautify.org/)
 [Check Online Sh script ](https://www.shellcheck.net/)
+[Create Github custom profile ](https://gprm.itsvg.in/)
+[Bring children's drawings to life, by animating characters to move around! ](https://sketch.metademolab.com/)
+[offline ](https://offline.pcskill.in/course-topics/)
+[beatsnoop ](https://www.beatsnoop.com/)
+
+
+
