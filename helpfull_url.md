@@ -32,7 +32,13 @@ Online Resume create
 
 Video Editing online
 -------------------------
+There are many free video editing software options available for both Windows and Mac. Some popular options include:
 
+Windows: VSDC Free Video Editor, Shotcut, OpenShot, Lightworks
+Mac: iMovie, Blender, DaVinci Resolve, Avidemux
+You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge or edit videos.
+
+*   [clipchamp](https://clipchamp.com/en/pricing/ )
 *   [clipchamp](https://clipchamp.com/en/ )
 *   [runwayml](https://runwayml.com/ )
 *   [123apps](https://123apps.com/ )
