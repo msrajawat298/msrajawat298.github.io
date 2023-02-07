@@ -1,5 +1,6 @@
 vs-code helpful extension that will help you to increase your productivity.
 ===========================================================================
+Code GPT
 power mode
 Turbo Console Log (Pressing ctrl + alt + L (Windows) or ctrl + option + L (Mac))
 Code Spell Checker
