@@ -4,3 +4,4 @@ todo-code
 .git
 .vs-code
 .vscode
+node_modules

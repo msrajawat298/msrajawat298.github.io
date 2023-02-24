@@ -4,7 +4,7 @@ function* foo() {
   yield 'c';
 }
 
-var str = "";
+var str = '';
 for (let val of foo()) {
   str = str + val;
 }

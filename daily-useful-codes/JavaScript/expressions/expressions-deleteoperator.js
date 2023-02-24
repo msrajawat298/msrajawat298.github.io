@@ -1,7 +1,7 @@
 var Employee = {
-  firstname: "John",
-  lastname: "Doe"
-}
+  firstname: 'John',
+  lastname: 'Doe',
+};
 
 console.log(Employee.firstname);
 // expected output: "John"

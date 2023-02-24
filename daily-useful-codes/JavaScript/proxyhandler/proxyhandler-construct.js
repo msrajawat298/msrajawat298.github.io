@@ -8,7 +8,7 @@ const handler1 = {
     // expected output: "monster1 constructor called"
 
     return new target(...args);
-  }
+  },
 };
 
 const proxy1 = new Proxy(monster1, handler1);

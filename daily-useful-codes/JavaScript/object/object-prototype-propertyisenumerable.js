@@ -1,4 +1,4 @@
-    const object1 = {};
+const object1 = {};
 const array1 = [];
 object1.property1 = 42;
 array1[0] = 42;

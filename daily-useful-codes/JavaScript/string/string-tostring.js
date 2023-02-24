@@ -1,4 +1,4 @@
-var stringObj = new String("foo");
+var stringObj = new String('foo');
 
 console.log(stringObj);
 // expected output: String { "foo" }

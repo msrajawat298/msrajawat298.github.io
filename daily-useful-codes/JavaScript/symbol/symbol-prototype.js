@@ -1,6 +1,6 @@
-Symbol.prototype.toString = function() {
-  return ('SYMBOL');
-}
+Symbol.prototype.toString = function () {
+  return 'SYMBOL';
+};
 
 var symbol1 = Symbol('foo');
 

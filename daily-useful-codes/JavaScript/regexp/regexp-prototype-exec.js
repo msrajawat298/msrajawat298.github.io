@@ -1,4 +1,4 @@
-var regex1 = RegExp('foo*','g');
+var regex1 = RegExp('foo*', 'g');
 var str1 = 'table football, foosball';
 var array1;
 

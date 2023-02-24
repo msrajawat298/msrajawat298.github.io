@@ -2,8 +2,8 @@ var language = {
   set current(name) {
     this.log.push(name);
   },
-  log: []
-}
+  log: [],
+};
 
 language.current = 'EN';
 language.current = 'FA';

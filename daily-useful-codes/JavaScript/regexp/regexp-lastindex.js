@@ -1,4 +1,4 @@
-var regex1 = new RegExp( "foo", "g" );
+var regex1 = new RegExp('foo', 'g');
 var str1 = 'table football, foosball';
 
 regex1.test(str1);
