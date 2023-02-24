@@ -99,12 +99,12 @@ Alternatively, you can use an editor plugin that integrates with `prettier` to f
 
 ### Reference Link
 
--   [Youtube Video Link](https://www.youtube.com/watch?v=ny0xLzhvADk&list=PLitlfQssIkZcS438Or_bwAITthNdB_Fj7)
--   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/ )
--   [Customizing-Git-Git-Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
--   [Git-Hooks](https://www.git-scm.com/docs/githooks)
--   [Git-Hooks by atlassian](https://www.atlassian.com/git/tutorials/git-hooks)
--   [Git-Hooks Example](https://github.com/mohokh67/git-hooks-example)
--   #Commit like a PRO with conventional commit
--   #Git hooks docs: 
--   #How to Validate File Name Before Commit like file name does not contained any space , use Capitalization
+- [Youtube Video Link](https://www.youtube.com/watch?v=ny0xLzhvADk&list=PLitlfQssIkZcS438Or_bwAITthNdB_Fj7)
+- [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Customizing-Git-Git-Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+- [Git-Hooks](https://www.git-scm.com/docs/githooks)
+- [Git-Hooks by atlassian](https://www.atlassian.com/git/tutorials/git-hooks)
+- [Git-Hooks Example](https://github.com/mohokh67/git-hooks-example)
+- #Commit like a PRO with conventional commit
+- #Git hooks docs:
+- #How to Validate File Name Before Commit like file name does not contained any space , use Capitalization
