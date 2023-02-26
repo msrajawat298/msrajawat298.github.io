@@ -37,8 +37,11 @@ https://hub.docker.com/r/thumbsupgallery/thumbsup/
 
 
 https://blog.vitabletech.in/feed/
+https://msrajawat298.github.io/msrajawat298/
+https://github.com/gautamkrishnar/blog-post-workflow
 
 https://github.com/msrajawat298/msrajawat298/deployments
+https://stackoverflow.com/feeds/user/9578353
 
 
 Need to Learn more and revised :
@@ -47,3 +50,7 @@ Git
 Github
 Github Actions
 Github Pages
+what is Marketplace in github
+
+https://developers.google.com/youtube/youtube_subscribe_button
+https://github.com/Dexters-Hub/Dexters-Hub
