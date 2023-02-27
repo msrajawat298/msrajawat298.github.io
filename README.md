@@ -165,7 +165,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [10 Life-Saving Shell Scripts to Automate Your Daily Tasks and Boost Productivity](https://blog.vitabletech.in/10-life-saving-shell-scripts-to-automate-your-daily-tasks-and-boost-productivity/)
-- [Mastering Shell Scripts: A Beginner’s Guide to Automate Tasks and Boost Productivity](https://blog.vitabletech.in/mastering-shell-scripts-a-beginners-guide-to-automate-tasks-and-boost-productivity/)
+- [Shell Scripts: Automate Tasks and Boost Productivity](https://blog.vitabletech.in/mastering-shell-scripts-a-beginners-guide-to-automate-tasks-and-boost-productivity/)
 - [A Guide to Updating OpenStreetMap &lpar;OSM&rpar; Data in PostgreSQL/PostGIS Database Using osm2pgsql](https://blog.vitabletech.in/a-guide-to-updating-openstreetmap-osm-data-in-postgresql-postgis-database-using-osm2pgsql/)
 - [Code with Superpowers: Free Path to Top Software Development](https://blog.vitabletech.in/code-with-superpowers-free-path-to-top-software-development/)
 - [Is ChatGPT going to make SQL obsolete?](https://blog.vitabletech.in/is-chatgpt-going-to-make-sql-obsolete/)
