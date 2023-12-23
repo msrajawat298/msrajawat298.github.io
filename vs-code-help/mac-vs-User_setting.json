@@ -43,7 +43,7 @@
   "editor.fontSize": 13,
   "editor.lineHeight": 24,
   "editor.fontWeight": "600",
-  "editor.fontFamily": "Victor Mono, Fira Code",
+  "editor.fontFamily": "Victor Mono, Fira Code, Hack Nerd font",
   "editor.fontLigatures": true,
   "editor.tokenColorCustomizations": {
     "textMateRules": [
@@ -152,5 +152,9 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "editor.cursorBlinking": "expand"
+  "editor.cursorBlinking": "expand",
+  "tabnine.experimentalAutoImports": true,
+  "files.associations": {
+    "*.code-snippets": "json"
+}
 }
