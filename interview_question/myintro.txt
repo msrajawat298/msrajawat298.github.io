@@ -1,0 +1,89 @@
+
+First of all, I would like to thank you for considering me for this opportunity. 
+It's a pleasure to meet with you.
+
+Let me start by introducing myself.
+I am Currently working as a Software Engineer at EagleView, and my responsibility to maintain lagacy application, develop new features, and handle the prod support.
+
+Over 5 years of experience delivering secure, high-quality applications using agile methodologies.
+
+I hold a Master & Bachelor's degree in Computer Science. 
+I belong to gwalior Madhya Pradesh.
+
+I received awards during the work in the eagleview, first Above and Beyond Award and SOAR award. My Senior manager told and appricated me that I can do any work anytime whether it is new or old does not matter, and manager told I am thinking or work as out of the box.
+
+I have experience in breaking down large scale projects and guiding team members through modular stories. Through defining best practices and mentoring colleagues, I multiply my impact across organizations.
+
+I was selected for two times for train the new joinee as a Technical trainer.
+I have also experience to guide and lead the juniors.
+
+Well, coming to my skill set I've Hands-on experience in php and other web development technologies like reactjs, myssql, Aws, jfrog, Docker, SonarQube, kibana, git, CI/CD there are lots of other than this.
+
+With robust full-stack development skills coupled with adaptability across domains and roles, I deliver tangible value through every phase of rapidly evolving initiatives.
+
+I am passionate about identifying creative solutions to complex problems that arise from ambiguity and scale.
+
+Equipped with analytical and leadership abilities, I can guide decisions, execution, and growth for organizations seeking to sustain modern development capabilities.
+
+
+
+
+
+
+
+
+
+
+
+First of all, I would like to thank you for considering me for this opportunity. 
+It's a pleasure to meet with you.
+
+Let me start by introducing myself.
+I am Currently working as a Software Engineer at EagleView, and my responsibility to maintain php based lagacy application, develop new features, and handle the prod support. 
+Over 5 years of experience delivering secure, high-quality applications using agile methodologies.
+
+I hold a Master & Bachelor's degree in Computer Science. 
+I belong to gwalior Madhya Pradesh.
+
+I received awards during the work in the eagleview, first Above and Beyond Award for my exlicance work and SOAR award for out of box work.
+
+I have work on diffrent domains,   based on php project like ecomerce, logistics, printing, and Currently working on gis.
+
+Currently I am working on php upgrade features where my responsibility to upgrade php 5.5 to php 8.2
+
+I have implemented on spl_autoload function, SSO login, REST API, cron job webhooks, also developed script in php similar to laravel artisan, in previous company frameworks, and I also recided the one apprication award for that.
+
+Havig experience in lampstack also,
+I have migrate LAMP stack, where I have to upgrade php and apache version.
+Having experience on apache configuration customization.
+I have published on php package https://packagist.org/packages/stuff/utilities
+https://github.com/vitabletech/Utilites/blob/main/composer.json
+I know about complete process form development to deployement process.
+
+
+I have experience in breaking down large scale projects and guiding team members through modular stories. Through defining best practices and mentoring colleagues, I multiply my impact across organizations.
+
+I was selected for two times for train the new joinee as a php Technical trainer.
+I have also experience to guide and lead the juniors.
+
+Well, coming to my skill set I've Hands-on experience in php and other web development technologies like SonarQube reactjs, myssql, Aws, jfrog, Docker, SonarQube, kibana, git, CI/CD there are lots of other than this.
+
+
+apart from that I also contribute open source project and stackoverflow
+With robust full-stack development skills coupled with adaptability across domains and roles, I deliver tangible value through every phase of rapidly evolving initiatives.
+
+I am passionate about identifying creative solutions to complex problems that arise from ambiguity and scale.
+
+Equipped with analytical and leadership abilities, I can guide decisions, execution, and growth for organizations seeking to sustain modern development capabilities.
+
+
+https://climbtheladder.com/cron-job-interview-questions/
+
+
+
+https://www.web-technology-experts-notes.in/2015/04/php-problem-solving-interview-questions-and-answers-for-fresher-and-experienced.html
+
+https://phptherightway.com/#language_highlights
+https://phptherightway.com/
+https://climbtheladder.com/cron-job-interview-questions/
+https://climbtheladder.com/search/content/?query=php

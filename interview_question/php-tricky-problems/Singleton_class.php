@@ -9,8 +9,8 @@ final class UserFactory {
      *
      * @return UserFactory
      */
-    public static
-    function Instance() {
+    public static function Instance() {
+
         static $inst = null;
         if ($inst === null) {
             $inst = new UserFactory();
@@ -22,8 +22,9 @@ final class UserFactory {
      * Private ctor so nobody else can instantiate it
      *
      */
-    private
-    function __construct() {
-
+    private function __construct() {
+        
     }
 }
+
+$result = UserFactory::Instance();

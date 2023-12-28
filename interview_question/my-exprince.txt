@@ -1,0 +1,73 @@
+Describe a time when you had to solve a problem without managerial input. How did you handle it, and what was the result?
+I had done hotfix in the night without manger permission due to critical issues, and manger was not available that time, as result production was up and running after hotfix, so my manger appricated me but they also suggest me before fix any issue, try to understand why was the issue happend? so and then consult with team members and TPM and they will decide with director and stack holders after that do any fix.
+Because without know the what was the issue and we have fixed the there will be chance to getting same issues again.
+
+
+Once upon a time my senior was not available during the release process due to medical emergency and I was working same project. Bassicly, I am working as frontend side and my senior was working on backend side, this was his responsibility to release the application in production env., so they called me and told I forget the today is relase and I have to go so could you do for me, so that time I had taken the responsibility to release the application.
+
+
+I suggest to team to upgrade the application to latest php version.
+They accept and they want to upgrade application php5.5 to php5.6 so, I suggest to upgrade php latest version 8.2 because lots of we have to rework and to upgrade php version again.
+
+
+As I take the responsibility to upgrade the application to latest php version, so its my responsibility to take care all the things how to upgrade, how much it will take time, how will it possible to jump php 5.5 to latest php version.
+
+So, I accepted that challenge and ask 5 pointer in sprint for ROC and POC.
+
+This is not big deal for me for upgrade the php version because its not a new things for me.
+but I got challenge here was how to upgrade the connect application which was very large application and to replace every deprecated function manually its too much difficult task, and it will take a long time. so , I had done some more research so I got know about one tool name rector https://getrector.com/documentation that will help to modified the code according to the define php version.
+So, I had convey this solutions to my manager and they like this solutions and they we have finally discussed with the director and after his approval, we had decided to opt the rector.
+
+
+One More suggestion, I had given to my manager to replace vm box with the docker.
+
+
+During the production issue, manager called me two time in the late night for checking the issue. its mostly happened when my senior is not available. So that time I was there, to lead our team.
+
+once upon a time the issue related to aws sdk package issue due to php incapability. So that I had research late night done the hotfix.
+One issue related to db cluster issue , so i had check the cloud watch and aws cloud stack it is stopped don't know why but after restart service started working.
+
+
+once the issue related to saranc application issue was due to high load server not able to serve the service. So that time I give the solution to prod support to increase the instance count during peak time.
+
+
+A Guide to Updating OpenStreetMap (OSM) Data in PostgreSQL/PostGIS Database Using osm2pgsql
+Once upon time I got a POC task, where I have to research about OpenStreetMap, and that time I have no idea and team members also not, so It opportunity and challenge for me. I was happy when I have done this task and my team members also appricated to me.
+
+
+I had to upload a one package on jfrog artifice, it was new for me and my team members no one have no idea about it.
+Its little bit challenge work for me, but I again accepted the challenge and prove that I can do.
+
+
+One more critical features, and I got the chance the work dirctly on production env. 
+I had worked on Arcgis components its Bassicly ESRI product which is use to host map layers.
+There was lots of challenge I got, like how to configure after installtion all the arcgis components, Actully, Arcgis having 3 components
+server, portal and datastores. if you are install all the things in same machine then it was easy to configure, Actully we can say that no need to do anything to configure.
+So for that I had to mail to ESRI support and ESRI support not porvided the service IST time so, I was taking the call at late night. and support also not giveing the proper solution same time they ask some time and just told we will connect tomarrow like this. And that because of the reason our features was in the risk, so, in mean time I was also trying to searching and reading all the docs and blogs for the soltuion and also trying to self learning by hit and try the functionality, you know I got the solution by my self my R&D worked here.
+
+Again one more issue happend in the that production url should be public ops its too long story, How I can explain all the things in short.
+
+
+Issue with Redirecting Public Domain to IP Address Arcgis server and portal
+
+challenge, where to store the server data ?
+
+
+Sendgrid stop giving support php older version, so email service was break down not able to send email like forget password, so temp, found the issue and inform to team and give the soultion to use ssl instead of TLS and in mean time we will upgrade php version. 
+TLS 1.2+
+
+Connect Sandbox Environment Setup inside the Docker
+
+Vagrant Environment Setup , how to create vbox file.
+
+Step-by-step instructions to configure Amazon FSx for Windows Server on an existing Windows Server instance
+
+Framework 10 migration from fwdev to Jfrog  : https://eagleviewcorp.atlassian.net/wiki/x/BoBRm
+
+[Explore & Finalize Shared Network Storage Options for ArcGIS Server on AWS](https://eagleviewcorp.atlassian.net/wiki/x/DICPpw)
+Todo something new : https://eagleviewcorp.atlassian.net/wiki/x/ZoAOsQ
+
+https://eagleviewcorp.atlassian.net/wiki/search?contributors=6350f10159c794184bc8c186
+
+How do you determine when to solve a problem on your own or ask for help?
+When faced with a problem, I first evaluate its complexity and impact on the project or task at hand. If it’s within my capabilities and doesn’t significantly hinder progress, I take the initiative to solve it on my own. However, if the problem is complex or could have a significant impact, I believe in seeking help from relevant team members or subject matter experts. Collaboration often leads to more comprehensive and effective solutions.”
