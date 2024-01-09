@@ -50,5 +50,5 @@ Here is a list of some useful VS Code extensions that can help improve your prod
 47. [Blackbox](https://www.useblackbox.io/search): This extension helps you code faster by providing shortcuts and commands to automate repetitive tasks.
 48. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log): This extension helps you quickly add console log statements to your code by pressing a keyboard shortcut.
 49. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): This extension allows you to easily navigate and view CSS definitions in your code.
-
+50. [javascript booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
     Overall, these extensions can help you write better code, work more efficiently, and have more fun while doing it. Give them a try and see how they can improve your productivity in VS Code!
