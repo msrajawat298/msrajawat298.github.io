@@ -26,13 +26,14 @@ To begin your React.js learning journey, follow the official [React.js documenta
 - What setupTests.js file
 
 ## Best Practices
-
-- Keep components small and focused.
-- Follow DRY (Don't Repeat Yourself) principles.
-- Organize code and folder structure effectively.
-- Use tools like Husky, lint, prettier, and SonarQube for better code quality.
-- If using core React.js, utilize webpack for JS minification.
-- Implement React unit tests.
+* Recommend Don’t use pure react CRA (Create React App) (https://react.dev/learn/start-a-new-react-project)
+* If you are using core react js then you can use webpack for minify your js, css etc.
+* Implement module bundler like webpack or vite similar type of pacakge we can use
+* Keeping components small and focused.
+* DRY (Don't Repeat Yourself) principles.
+* Code organization and folder structure.
+* Use Husky, lint, prettier, sonarqube. These tools help maintain code quality and formatting standards.
+* Implement React unit test, snapshots etc.
 
 ## Common Pitfalls and Solutions
 
@@ -50,6 +51,7 @@ To begin your React.js learning journey, follow the official [React.js documenta
 
 - Use `console.trace()`
 - Learn how to test packages locally without releasing them
+- How to check code coverage in local system before pushing the code?
 
 ## VS Code Extensions
 
@@ -80,3 +82,6 @@ To begin your React.js learning journey, follow the official [React.js documenta
 - [Jest Documentation](https://jestjs.io/docs/tutorial-react)
 - [DOM Testing Library Cheatsheet](https://testing-library.com/docs/dom-testing-library/cheatsheet)
 - [running-tests](https://create-react-app.dev/docs/running-tests/)
+- [vite vs webpack](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*vmJC9y5GRk_ZYS0GbI_w7Q.png)
+- [vite-crash-course](https://www.traversymedia.com/blog/vite-crash-course)
+- [Some more usefull features in vite: ](https://www.youtube.com/watch?v=89NJdbYTgJ8&ab_channel=Traversy)
