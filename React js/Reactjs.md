@@ -61,6 +61,7 @@
   
   ```yarn/npm install react-router-dom```
 - [React Redux](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&ab_channel=Codevolution)
+  -[React Redux Toolkit in Hindi](https://www.youtube.com/watch?v=fxT54eRIsc4&ab_channel=PiyushGarg)
   - React is a library used to build user interfaces
   - Redux is a library for managing state in a predictable way in JavaScript applications
   - React-redux is a library that provides bindings to use React and Redux together in an application
