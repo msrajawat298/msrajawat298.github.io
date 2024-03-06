@@ -53,7 +53,6 @@ NLP, or Natural Language Processing, is a field of artificial intelligence that 
 
 NLP is used in a variety of applications, including search engines, voice assistants, sentiment analysis, machine translation, and text summarization.
 
-
 ## What Pre-trained pipeline?
 - A pre-trained pipeline refers to a pre-built and pre-trained model that combines multiple natural language processing (NLP) tasks into a single pipeline. 
 - These tasks can include tokenization, part-of-speech tagging, named entity recognition, sentiment analysis, and more. 
@@ -82,3 +81,18 @@ There are several popular libraries and frameworks used for Natural Language Pro
 2. **Stemming or lemmatization:** Both stemming and lemmatization are techniques used to reduce words to their base or root forms. Stemming involves chopping off prefixes or suffixes to achieve this, while lemmatization involves mapping words to their dictionary form (lemma). This helps in reducing the dimensionality of the data and consolidating similar words. [Stemming and Lemmatization](https://youtu.be/HHAilAC3cXw?si=WUaLXMN4FU-uHXeo)
 
 3. **Text normalization:** This encompasses various techniques to standardize text, such as converting all letters to lowercase, removing punctuation marks, and handling special characters or numbers in a consistent manner. Normalization ensures that variations in text representation are minimized, leading to more effective vectorization.
+
+## [Hugging Face ](https://huggingface.co/docs/hub/index)
+- Hugging Face is a company and a popular platform in the field of natural language processing (NLP). - They are known for their open-source libraries and pre-trained models that facilitate various NLP tasks, such as text classification, language translation, and text generation. 
+- One of their most famous contributions is the Transformers library, which provides a collection of state-of-the-art pre-trained models and tools for building, training, and deploying NLP models. 
+- Hugging Face also offers an online platform where users can access these models, collaborate on projects, and deploy models into production environments. 
+- Overall, Hugging Face has played a significant role in advancing the accessibility and usability of NLP technology.
+- https://youtu.be/_j7JEDWuqLE?si=9ByQge6J8UpkSCbT
+
+## Transformer in NLP
+- Transformers have revolutionized NLP by achieving state-of-the-art results in various tasks, such as language translation, text generation, and sentiment analysis.
+- The key innovation of transformers lies in their attention mechanism, which allows the model to focus on different parts of the input sequence when processing it. 
+- This attention mechanism enables transformers to capture long-range dependencies in text data more effectively compared to traditional recurrent neural networks (RNNs) or convolutional neural networks (CNNs).
+- The transformer architecture consists of multiple layers of self-attention mechanisms and feedforward neural networks. 
+- Each layer processes the input sequence independently and passes its output to the next layer. 
+- Through this hierarchical processing, transformers can learn complex patterns and relationships within the input data.
