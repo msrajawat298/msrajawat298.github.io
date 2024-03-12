@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#71](https://github.com/vitabletech/SnippetMaster/pull/71) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-2. 💪 Opened PR [#71](https://github.com/vitabletech/SnippetMaster/pull/71) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-3. 🚀 Published release [release-v1.5.3](https://github.com/vitabletech/SnippetMaster/releases/tag/v1.5.3) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-4. 🎉 Merged PR [#70](https://github.com/vitabletech/SnippetMaster/pull/70) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-5. 💪 Opened PR [#70](https://github.com/vitabletech/SnippetMaster/pull/70) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+1. ❌ Closed PR [#4](https://github.com/msrajawat298/react-app-template/pull/4) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
+2. 💪 Opened PR [#4](https://github.com/msrajawat298/react-app-template/pull/4) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
+3. 🎉 Merged PR [#71](https://github.com/vitabletech/SnippetMaster/pull/71) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+4. 💪 Opened PR [#71](https://github.com/vitabletech/SnippetMaster/pull/71) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+5. 🚀 Published release [release-v1.5.3](https://github.com/vitabletech/SnippetMaster/releases/tag/v1.5.3) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
