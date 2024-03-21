@@ -295,3 +295,10 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 
 [sqliteonline](https://sqliteonline.com)
 [sqlserver](https://onecompiler.com/sqlserver)
+
+
+## New Stuffs
+[Collection of free tools for developers](https://soliddevtools.com/)
+[You can visualize different data structures or algorithms to understand them better](https://visualgo.net)
+[Allows you to learn Git and Github in an interactive way](https://learngitbranching.js.org/)
+
