@@ -24,27 +24,27 @@ This is a guide on how to set up a pre-commit hook using `husky` and `commitlint
 
 1. Initialize a new npm project with default settings:
 
-   npm init --yes
+   ```npm init --yes```
 
 2. Install the required dependencies:
 
-   npm install --save-dev @commitlint/{config-conventional,cli} npm install husky --save-dev
+   ```npm install --save-dev @commitlint/{config-conventional,cli} npm install husky --save-dev```
 
 3. Set up `husky`:
 
-   npx husky install
+   ```npx husky install```
 
 4. Create a `commitlint.config.js` file in the root directory and set its content to the following:
 
-   module.exports = {extends: ['@commitlint/config-conventional']};
+   ```module.exports = {extends: ['@commitlint/config-conventional']};```
 
 You can do this using the following command:
 
-    echo "module.exports = {extends: ['@commitlint/config-conventional']};" > commitlint.config.js
+    ```echo "module.exports = {extends: ['@commitlint/config-conventional']};" > commitlint.config.js```
 
 5. Add a git hook that will run `commitlint` before each commit message:
 
-   npx husky add .husky/commit-msg 'npx --no -- commitlint --edit ${1}'
+   ```npx husky add .husky/commit-msg 'npx --no -- commitlint --edit ${1}'```
 
 This will create a `.husky/commit-msg` file and add the command to run `commitlint` to it. 
 
@@ -55,7 +55,7 @@ This will create a `.husky/commit-msg` file and add the command to run `commitli
 #### How to Validate File Name Before Commit
 
 To validate file names before committing, you can use a pre-commit hook that runs a script to check the names of the files being committed. Here's an example script that checks for files with `.txt` extension:
-
+```
     #!/bin/sh
 
     files=$(git diff --cached --name-only --diff-filter=ACM | grep '\.txt$')
@@ -64,18 +64,18 @@ To validate file names before committing, you can use a pre-commit hook that run
         echo "No text files found. Aborting commit."
         exit 1
     fi
-
+```
 Save this script in a file with a `.sh` extension and make it executable:
 
-    chmod +x script.sh
+    ```chmod +x script.sh```
 
 Then, add a git hook that runs this script before each commit:
 
-    npx husky add .husky/pre-commit './script.sh'
+    ```npx husky add .husky/pre-commit './script.sh'```
 
 ## Note: To validate multiple file types in the pre-commit hook script, you can modify the grep command to include all the file extensions you want to check. For example, to check for .txt, .html, .css, and .js files, you can modify the script as follows
 
-        files=$(git diff --cached --name-only --diff-filter=ACM | grep -E '\.(txt|html|css|js)$')
+        ```files=$(git diff --cached --name-only --diff-filter=ACM | grep -E '\.(txt|html|css|js)$')```
 
 **The -E option enables extended regular expressions, and the | character separates the different file extensions. Save this modified script in a file with a .sh extension and make it executable as shown in the previous answer.**
 
@@ -85,15 +85,15 @@ To validate file format before committing or format files after saving, you can 
 
 For example, to use `prettier` as a pre-commit hook, you can install it as a dev dependency:
 
-    npm install prettier --save-dev
+    ```npm install prettier --save-dev````
 
 Then, create a `.prettierrc` file in the root directory and set its content to your preferred formatting options. For example:
 
-    { "singleQuote": true, "trailingComma": "es5" }
+    ```{ "singleQuote": true, "trailingComma": "es5" }```
 
 Add a git hook that runs `prettier` before each commit:
 
-    npx husky add .husky/pre-commit 'npx --no -- prettier --write "**/*.{js,jsx,ts,tsx,,md,html,,s,yml,yaml,graphql}"'
+    ```npx husky add .husky/pre-commit 'npx --no -- prettier --write "**/*.{js,jsx,ts,tsx,,md,html,,s,yml,yaml,graphql}"'```
 
 This will run `prettier` on all the supported files in your repository.
 
