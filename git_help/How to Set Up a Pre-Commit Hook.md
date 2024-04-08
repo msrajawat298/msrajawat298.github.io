@@ -46,7 +46,9 @@ You can do this using the following command:
 
    npx husky add .husky/commit-msg 'npx --no -- commitlint --edit ${1}'
 
-This will create a `.husky/commit-msg` file and add the command to run `commitlint` to it. 6. Now, whenever you make a commit, `commitlint` will validate your commit message against the conventional commit format.
+This will create a `.husky/commit-msg` file and add the command to run `commitlint` to it. 
+
+6. Now, whenever you make a commit, `commitlint` will validate your commit message against the conventional commit format.
 
 ### Additional Tips
 
