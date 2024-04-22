@@ -152,11 +152,11 @@
 # <a href="https://stackoverflow.com/users/9578353/msrajwat298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msrajwat298" height="30" width="40" /></a> StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [How to stop displaying New file as an menu list in expo router?](https://stackoverflow.com/questions/78361461/how-to-stop-displaying-new-file-as-an-menu-list-in-expo-router)
 - [Can Someone Help me here? I want to know about size from where it&#39;s value set?](https://stackoverflow.com/questions/78309323/can-someone-help-me-here-i-want-to-know-about-size-from-where-its-value-set)
 - [eslint Throwing the error: Do not define components during render](https://stackoverflow.com/questions/78304804/eslint-throwing-the-error-do-not-define-components-during-render)
 - [Unable to install zmq using npm in centos7](https://stackoverflow.com/questions/77317033/unable-to-install-zmq-using-npm-in-centos7)
 - [Answer by msrajwat298 for Error loading SSO Token: The SSO access token has either expired or is otherwise invalid](https://stackoverflow.com/questions/77131798/error-loading-sso-token-the-sso-access-token-has-either-expired-or-is-otherwise/77134964#77134964)
-- [Error loading SSO Token: The SSO access token has either expired or is otherwise invalid](https://stackoverflow.com/questions/77131798/error-loading-sso-token-the-sso-access-token-has-either-expired-or-is-otherwise)
 <!-- STACKOVERFLOW:END -->
   <br/>
 
