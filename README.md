@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [release-2.0.0](https://github.com/vitabletech/node-express-api-bootstrap/releases/tag/v2.0.0) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
-2. 🎉 Merged PR [#7](https://github.com/vitabletech/node-express-api-bootstrap/pull/7) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
-3. 💪 Opened PR [#7](https://github.com/vitabletech/node-express-api-bootstrap/pull/7) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
-4. 🎉 Merged PR [#6](https://github.com/vitabletech/node-express-api-bootstrap/pull/6) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
-5. 💪 Opened PR [#6](https://github.com/vitabletech/node-express-api-bootstrap/pull/6) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+1. 🚀 Published release [releases-3.0.0](https://github.com/vitabletech/node-express-api-bootstrap/releases/tag/v3.0.0) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+2. 🎉 Merged PR [#9](https://github.com/vitabletech/node-express-api-bootstrap/pull/9) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+3. 💪 Opened PR [#9](https://github.com/vitabletech/node-express-api-bootstrap/pull/9) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+4. 🎉 Merged PR [#8](https://github.com/vitabletech/node-express-api-bootstrap/pull/8) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+5. 💪 Opened PR [#8](https://github.com/vitabletech/node-express-api-bootstrap/pull/8) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
    <!--END_SECTION:activity-->
    <br/>
 
