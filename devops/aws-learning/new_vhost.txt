@@ -1,0 +1,28 @@
+# Virtual Hosts
+#
+<VirtualHost *:80>
+  ServerName localhost
+  ServerAlias localhost
+  DocumentRoot "${INSTALL_DIR}/www/public_html"
+  <Directory "${INSTALL_DIR}/www/public_html">
+    Options +Indexes +Includes +FollowSymLinks +MultiViews
+    AllowOverride All
+    Require local
+  </Directory>
+</VirtualHost>
+
+<VirtualHost *:80>
+    ServerName localhost
+    ServerAlias *.localhost *.localhostname
+    DocumentRoot "${INSTALL_DIR}/www/public_html"
+    <Directory ${INSTALL_DIR}/www/*/public_html>
+		Options +Indexes +Includes +FollowSymLinks +MultiViews
+		Allow from all
+        AllowOverride All Options=ExecCGI,Includes,IncludesNOEXEC,Indexes,MultiViews,SymLinksIfOwnerMatch
+        Require all granted
+		AllowOverride All
+		Require local
+    </Directory>
+    UseCanonicalName off
+    VirtualDocumentRoot ${INSTALL_DIR}/www/%-2/public_html
+</VirtualHost>  
