@@ -1,9 +1,0 @@
-Data Structure Visualizations
-==============================
-https://www.cs.usfca.edu/~galles/visualization/Algorithms.html
-https://github.com/Algorithm-archive/Learn-Data_Structure-Algorithm-by-PHP
-https://phptherightway.com/
-https://www.freecodecamp.org/learn
-https://www.bigocheatsheet.com/
-https://twostraws.gumroad.com/l/hwp-book-pack
-https://algs4.cs.princeton.edu/
