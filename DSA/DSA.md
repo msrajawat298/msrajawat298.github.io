@@ -69,3 +69,21 @@ grpc vs rest
 https://bytebytego.com/
 https://neetcode.io/roadmap
 [20 System Design Concepts ](https://www.youtube.com/watch?v=i53Gi_K3o7I&list=PLot-Xpze53le35rQuIbRET3YwEtrcJfdt)
+https://www.youtube.com/@codestorywithMIK
+
+Sorting ->
+Time complexity -> O(nlogn)
+Space complexity -> O(n)
+
+Binary Search -> Should be done on the sorted array
+Time complexity -> O(logn)
+
+Min/Max OR linear search -> Should be done on the unsorted array
+Time complexity -> O(n)
+
+
+
+
+
+Graph:: 
+https://www.youtube.com/watch?v=5JGiZnr6B5w&list=PLpIkg8OmuX-LZB9jYzbbZchk277H5CbdY&pp=iAQB
