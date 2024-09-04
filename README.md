@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Walking Robot Simulation | Detailed Simulation | Leetcode 874](https://blog.vitabletech.in/walking-robot-simulation-detailed-simulation-leetcode-874/)
 - [Planning Made Easy with Planner Buddy](https://blog.vitabletech.in/planning-made-easy-with-planner-buddy/)
 - [How Planner Buddy Simplifies Event Management](https://blog.vitabletech.in/how-planner-buddy-simplifies-event-management/)
 - [Simplify Your Event Planning with Planner Buddy](https://blog.vitabletech.in/simplify-your-event-planning-with-planner-buddy/)
 - [Boosting Security for Your WordPress Website: 11 Essential Techniques](https://blog.vitabletech.in/getting-unwavering-security-for-your-wordpress-website-top-techniques-and-approaches/)
-- [Launched First Website to Enhance Development](https://blog.vitabletech.in/launched-first-website-to-enhance-development/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
