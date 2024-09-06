@@ -2,12 +2,19 @@
 
 Here is a list of some useful VS Code extensions that can help improve your productivity:
 
-1.  [New Tab VS Code](https://vscode.one/new-tab-vscode/): vs code tab opeing issue solution.
-1.  [Aws Cli](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
-1.  [Codium AI](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
-1.  [javascript booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
-1.  [Ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible)
-1.  [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode): This extension adds fun and engaging animations to your typing experience in VS Code.
+1. [New Tab VS Code](https://vscode.one/new-tab-vscode/): vs code tab opeing issue solution.
+1. [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
+1. [CSV to Markdown Table](https://marketplace.visualstudio.com/items?itemName=phoihos.csv-to-md-table)
+1. [Edit csv](https://marketplace.visualstudio.com/items?itemName=janisdd.vscode-edit-csv)
+1. [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer)
+1. [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph)
+1. [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+1. [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf)
+1. [Aws Cli](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode)
+1. [Codium AI](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
+1. [javascript booster](https://marketplace.visualstudio.com/items?itemName=sburg.vscode-javascript-booster)
+1. [Ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible)
+1. [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode): This extension adds fun and engaging animations to your typing experience in VS Code.
 1.  [Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 1.  [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): This extension checks your spelling and grammar as you type in VS Code, helping you catch errors and improve readability.
 1.  [VS Code ES7+ React/Redux/React-Native/JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
@@ -53,5 +60,6 @@ Here is a list of some useful VS Code extensions that can help improve your prod
 1. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): This extension allows you to easily navigate and view CSS definitions in your code.
 1. [Figma vscode extension](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension)
 1. [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
+
 
     Overall, these extensions can help you write better code, work more efficiently, and have more fun while doing it. Give them a try and see how they can improve your productivity in VS Code!
