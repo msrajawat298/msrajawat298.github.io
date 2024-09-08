@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [POTD: LEET CODE – 725. &lpar;Split Linked List in Parts&rpar;](https://blog.vitabletech.in/potd-leet-code-725-split-linked-list-in-parts/)
 - [Converting Between Number Systems in JavaScript: A Complete Guide](https://blog.vitabletech.in/converting-between-number-systems-in-javascript-a-complete-guide/)
 - [An Extensive Guide to Different Types of Coffee and Tea Beverages](https://blog.vitabletech.in/an-extensive-guide-to-different-types-of-coffee-and-tea-beverages/)
 - [POTD: Leet Code 1367 &lpar;Linked List in Binary Tree&rpar;](https://blog.vitabletech.in/potd-leet-code-1367-linked-list-in-binary-tree/)
 - [POTD-Leet Code 3217 &lpar;Delete Nodes From Linked List Present in Array&rpar; in JS](https://blog.vitabletech.in/potd-leet-code-3217-delete-nodes-from-linked-list-present-in-array/)
-- [Leet Code POTD – 2028. Find Missing Observations | in JS](https://blog.vitabletech.in/leet-code-potd-2028-find-missing-observations/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
