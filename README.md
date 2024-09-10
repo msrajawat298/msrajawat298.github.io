@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Leet Code POTD: 2807. Insert Greatest Common Divisors in Linked List](https://blog.vitabletech.in/leet-code-potd-2807-insert-greatest-common-divisors-in-linked-list/)
 - [LEET CODE POTD:  2326. Spiral Matrix IV](https://blog.vitabletech.in/leet-code-potd-2326-spiral-matrix-iv/)
 - [POTD: LEET CODE – 725. &lpar;Split Linked List in Parts&rpar;](https://blog.vitabletech.in/potd-leet-code-725-split-linked-list-in-parts/)
 - [Converting Between Number Systems in JavaScript: A Complete Guide](https://blog.vitabletech.in/converting-between-number-systems-in-javascript-a-complete-guide/)
 - [An Extensive Guide to Different Types of Coffee and Tea Beverages](https://blog.vitabletech.in/an-extensive-guide-to-different-types-of-coffee-and-tea-beverages/)
-- [POTD: Leet Code 1367 &lpar;Linked List in Binary Tree&rpar;](https://blog.vitabletech.in/potd-leet-code-1367-linked-list-in-binary-tree/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
