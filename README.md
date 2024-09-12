@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [POTD Leet Code – 1684. Count the Number of Consistent Strings in JavaScript](https://blog.vitabletech.in/potd-leet-code-1684-count-the-number-of-consistent-strings-in-javascript/)
 - [Problem: Minimum Bit Flips to Convert Number &lpar;LeetCode Problem 2220&rpar;](https://blog.vitabletech.in/problem-minimum-bit-flips-to-convert-number-leetcode-problem-2220/)
 - [Leet Code POTD: 2807. Insert Greatest Common Divisors in Linked List](https://blog.vitabletech.in/leet-code-potd-2807-insert-greatest-common-divisors-in-linked-list/)
 - [LEET CODE POTD:  2326. Spiral Matrix IV](https://blog.vitabletech.in/leet-code-potd-2326-spiral-matrix-iv/)
 - [POTD: LEET CODE – 725. &lpar;Split Linked List in Parts&rpar;](https://blog.vitabletech.in/potd-leet-code-725-split-linked-list-in-parts/)
-- [Converting Between Number Systems in JavaScript: A Complete Guide](https://blog.vitabletech.in/converting-between-number-systems-in-javascript-a-complete-guide/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
