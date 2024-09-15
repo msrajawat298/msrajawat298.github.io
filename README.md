@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [POTD Leetcode : 1371. Find the Longest Substring Containing Vowels in Even Counts](https://blog.vitabletech.in/potd-leetcode-1371-find-the-longest-substring-containing-vowels-in-even-counts/)
 - [POTD Leet Code -1310. XOR Queries of a Subarray](https://blog.vitabletech.in/potd-leet-code-1310-xor-queries-of-a-subarray/)
 - [POTD Leet Code – 1684. Count the Number of Consistent Strings in JavaScript](https://blog.vitabletech.in/potd-leet-code-1684-count-the-number-of-consistent-strings-in-javascript/)
 - [Problem: Minimum Bit Flips to Convert Number &lpar;LeetCode Problem 2220&rpar;](https://blog.vitabletech.in/problem-minimum-bit-flips-to-convert-number-leetcode-problem-2220/)
 - [Leet Code POTD: 2807. Insert Greatest Common Divisors in Linked List](https://blog.vitabletech.in/leet-code-potd-2807-insert-greatest-common-divisors-in-linked-list/)
-- [LEET CODE POTD:  2326. Spiral Matrix IV](https://blog.vitabletech.in/leet-code-potd-2326-spiral-matrix-iv/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
