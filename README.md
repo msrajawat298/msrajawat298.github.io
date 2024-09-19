@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PODT Leet Code: 241. Different Ways to Add Parentheses in JS](https://blog.vitabletech.in/podt-leet-code-241-different-ways-to-add-parentheses-in-js/)
 - [POTD: Minimum Time Difference &lpar;LeetCode 539&rpar;](https://blog.vitabletech.in/potd-minimum-time-difference-leetcode-539/)
 - [POTD Leetcode : 1371. Find the Longest Substring Containing Vowels in Even Counts](https://blog.vitabletech.in/potd-leetcode-1371-find-the-longest-substring-containing-vowels-in-even-counts/)
 - [POTD Leet Code -1310. XOR Queries of a Subarray](https://blog.vitabletech.in/potd-leet-code-1310-xor-queries-of-a-subarray/)
 - [POTD Leet Code – 1684. Count the Number of Consistent Strings in JavaScript](https://blog.vitabletech.in/potd-leet-code-1684-count-the-number-of-consistent-strings-in-javascript/)
-- [Problem: Minimum Bit Flips to Convert Number &lpar;LeetCode Problem 2220&rpar;](https://blog.vitabletech.in/problem-minimum-bit-flips-to-convert-number-leetcode-problem-2220/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
