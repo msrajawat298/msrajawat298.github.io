@@ -193,7 +193,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#13](https://github.com/vitabletech/node-express-api-bootstrap/issues/13) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+1. ❗ Opened issue [#73](https://github.com/vitabletech/SnippetMaster/issues/73) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
 2. 🚀 Published release [releases-3.1.0](https://github.com/vitabletech/node-express-api-bootstrap/releases/tag/v3.1.0) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
 3. 🎉 Merged PR [#12](https://github.com/vitabletech/node-express-api-bootstrap/pull/12) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
 4. 💪 Opened PR [#12](https://github.com/vitabletech/node-express-api-bootstrap/pull/12) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
