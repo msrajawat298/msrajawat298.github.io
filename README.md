@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [POTD: 386. Lexicographical Numbers](https://blog.vitabletech.in/potd-386-lexicographical-numbers/)
+- [POTD:  440. K-th Smallest in Lexicographical Order](https://blog.vitabletech.in/podt-440-k-th-smallest-in-lexicographical-order/)
 - [PODT: Understanding the Shortest Palindrome Problem and Solution](https://blog.vitabletech.in/podt-understanding-the-shortest-palindrome-problem-and-solution/)
-- [PODT Leet Code: 241. Different Ways to Add Parentheses in JS](https://blog.vitabletech.in/podt-leet-code-241-different-ways-to-add-parentheses-in-js/)
+- [POTD Leet Code: 241. Different Ways to Add Parentheses in JS](https://blog.vitabletech.in/podt-leet-code-241-different-ways-to-add-parentheses-in-js/)
 - [POTD: Minimum Time Difference &lpar;LeetCode 539&rpar;](https://blog.vitabletech.in/potd-minimum-time-difference-leetcode-539/)
-- [POTD Leetcode : 1371. Find the Longest Substring Containing Vowels in Even Counts](https://blog.vitabletech.in/potd-leetcode-1371-find-the-longest-substring-containing-vowels-in-even-counts/)
-- [POTD Leet Code -1310. XOR Queries of a Subarray](https://blog.vitabletech.in/potd-leet-code-1310-xor-queries-of-a-subarray/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
