@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-npx --no -- prettier --write "**/*.{js,jsx,ts,tsx,json,md,html,css,scss,yml,yaml,graphql}" --ignore-path .prettierignore
+# npx --no -- prettier --write "**/*.{js,jsx,ts,tsx,json,md,html,css,scss,yml,yaml,graphql}" --ignore-path .prettierignore

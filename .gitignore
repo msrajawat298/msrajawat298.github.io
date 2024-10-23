@@ -5,3 +5,4 @@ todo-code
 .vs-code
 .vscode
 node_modules
+.DS_Store
