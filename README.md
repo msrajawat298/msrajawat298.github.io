@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Add a GIF as Preloader on WordPress Without a Plugin: 5 Simple Steps](https://blog.vitabletech.in/how-to-add-a-gif-as-preloader-on-wordpress-without-a-plugin-5-simple-steps/)
 - [14 Functions to Supercharge For WordPress Developers with the Latest VS Code Extension!](https://blog.vitabletech.in/14-functions-to-supercharge-for-wordpress-developers-with-the-latest-vs-code-extension/)
 - [Upgrading PHP 5.5 to PHP 5.6: A Step-by-Step Guide to Update Base Images](https://blog.vitabletech.in/upgrading-php-5-5-to-php-5-6-a-step-by-step-guide-to-update-base-images/)
 - [Debunking the Myth: Is PI Planning Really a Waste of Time](https://blog.vitabletech.in/debunking-the-myth-is-pi-planning-really-a-waste-of-time/)
 - [How to Check the Version of ArcGIS Server](https://blog.vitabletech.in/how-to-check-the-version-of-arcgis-server/)
-- [Running a PHP Project with a Custom Domain on Localhost using XAMPP](https://blog.vitabletech.in/running-a-php-project-with-a-custom-domain-on-localhost-using-xampp/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
