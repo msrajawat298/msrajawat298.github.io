@@ -12,7 +12,8 @@
 <br />
 
 <p align="center">
-  <img style="width:50%" src="https://github-readme-stackoverflow.vercel.app/?userID=9578353" alt="msrajawat298" /><br/>
+  <a href="https://app.daily.dev/msrajawat298"><img style="width:50%" src="https://api.daily.dev/devcards/b5ab065999d747239184aa801c548039.png?r=a9p" width="400" alt="MAYANK SINGH KUSHWAH's Dev Card"/></a>
+  <img style="width:50%" height="" src="https://github-readme-stackoverflow.vercel.app/?userID=9578353" alt="msrajawat298" /><br/>
 <!--Random Jokes Card -->
 <img style="width:100%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </p>

@@ -42,4 +42,7 @@ Here is a list of some useful VS Code extensions that can help improve your prod
 38. [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense): This extension provides auto-completion for file paths in your code, making it easier to navigate and find files.
 39. [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock): This extension allows you to customize the color of your VS Code workspace, helping you to quickly identify and switch between different environments or projects.
 40. [jsdoc](https://marketplace.visualstudio.com/items?itemName=lllllllqw.jsdoc): This extension provides JSDoc syntax highlighting and intellisense for JavaScript files in VS Code. It can be useful for developers who work with JSDoc comments in their code to document their functions, methods, and classes. The extension also includes a feature to automatically generate JSDoc comments for a function or method based on its parameter list and return type.
+41. [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode): SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.
+
+
     Overall, these extensions can help you write better code, work more efficiently, and have more fun while doing it. Give them a try and see how they can improve your productivity in VS Code!

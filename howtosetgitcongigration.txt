@@ -1,9 +1,0 @@
-ssh-keygen -t rsa -b 4096 -C "msrajawat298@gmail.com"
-cd ~/.ssh (by default ssh key save here)
-after generate the ssh key  need to copy ssh .pub key in git hub repo deploye key inside steeing tab.
-
-Launch Terminal / Git Bash. Type :: ssh -T git@github.com
-Connection is established if you are prompted with the following message:
-Hi {username}! You’ve successfully authenticated, but GitHub does not provide shell access.
-
-git clone git@github.com:MSRAJAWAT298/msrajawat298.git //to clone the repo...
