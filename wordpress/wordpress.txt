@@ -23,7 +23,9 @@ REHub theme
 uipress
 sliderrevolution
 https://www.uipress.co/
+https://wordpress.org/plugins/ai-engine/
 
+ai for wordpress plugin
 
 https://kinsta.com/blog/wordpress-version-control/
 https://wppusher.com/

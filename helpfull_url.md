@@ -19,6 +19,11 @@
 - [List of all AI toos](https://lachief.io/)
 - [Turn text into videos with AI voices](https://fliki.ai/)
 - [The Only AI Tool To Create Animation Videos Using Text](https://www.steve.ai/)
+- [Kaiber AI is an innovative and user-friendly video generation engine](https://kaiber.ai/)
+- [wonder dynamics ai](https://wonderdynamics.com/)
+- [Edit your Screenshots](https://app.uizard.io/)
+- [imagetocaption Find the Perfect Instagram Caption](https://www.imagetocaption.ai/)
+- [This Al tool helps you to generate SEO-friendly blog titles and engaging headlines.](https://simplified.com/)
 
 ## Get free
 
@@ -115,6 +120,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 
 - [Website resources](https://darrelwilson.com/website-resources/)
 - [illustrations](https://undraw.co/illustrations)
+- [wepik](https://wepik.com/)
 
 ## Other Utilities
 
@@ -125,6 +131,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [https://theinpaint.com/](https://theinpaint.com/)
 - [https://www.sejda.com/watermark-pdf](https://www.sejda.com/watermark-pdf)
 - [https://www.canva.com/](https://www.canva.com/)
+- [Alternative of canva](https://studio.polotno.com/) ***Hack : Just download the design from these site and use at canva 
 - [https://regexr.com/](https://regexr.com/)
 - [https://barcode.tec-it.com/en/Code39?data=ABC-1234](https://barcode.tec-it.com/en/Code39?data=ABC-1234)
 - [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft.com/en-us/free/students/)
@@ -277,6 +284,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 * GitBook: A modern documentation platform for teams to write and collaborate on content.
 * [typeset.io](https://typeset.io/)
 * [Document you python code](https://www.sphinx-doc.org/en/master/)
+* [Document using Asto code](https://docs.astro.build/en/getting-started/)
 
 
 ## Password Recovery
