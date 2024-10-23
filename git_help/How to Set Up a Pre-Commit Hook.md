@@ -105,6 +105,7 @@ Alternatively, you can use an editor plugin that integrates with `prettier` to f
 - [Git-Hooks](https://www.git-scm.com/docs/githooks)
 - [Git-Hooks by atlassian](https://www.atlassian.com/git/tutorials/git-hooks)
 - [Git-Hooks Example](https://github.com/mohokh67/git-hooks-example)
+- [Husky setup Example](https://www.freecodecamp.org/news/how-to-add-commit-hooks-to-git-with-husky-to-automate-code-tasks/)
 - #Commit like a PRO with conventional commit
 - #Git hooks docs:
 - #How to Validate File Name Before Commit like file name does not contained any space , use Capitalization
