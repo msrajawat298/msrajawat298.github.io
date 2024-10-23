@@ -2,10 +2,7 @@
 <h3 align="center">Software Engineer at Radixweb</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrajawat298&label=Profile%20views&color=0e75b6&style=flat" alt="msrajawat298" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msrajawat298&row=2&column=3&margin-w=15&margin-h=15" alt="msrajawat298" /></a> </p>
-
-<img  style="width:100%" src="https://github-profile-trophy.vercel.app/?username=msrajawat298&flat" alt="msrajawat298" />
-
+<p align="left"><img  style="width:100%" src="https://github-profile-trophy.vercel.app/?username=msrajawat298&flat" alt="msrajawat298" /></p
 
 - 🔭 I’m currently working on [onprintshop](https://www.onprintshop.com/)
 
