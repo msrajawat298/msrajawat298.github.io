@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/msrajawat298/react-app-template/pull/2) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
-2. 💪 Opened PR [#2](https://github.com/msrajawat298/react-app-template/pull/2) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
-3. 🎉 Merged PR [#1](https://github.com/msrajawat298/react-app-template/pull/1) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
-4. 💪 Opened PR [#1](https://github.com/msrajawat298/react-app-template/pull/1) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
-5. ❗ Opened issue [#1166](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1166) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+1. 🎉 Merged PR [#3](https://github.com/msrajawat298/react-app-template/pull/3) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
+2. 💪 Opened PR [#3](https://github.com/msrajawat298/react-app-template/pull/3) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
+3. 🎉 Merged PR [#2](https://github.com/msrajawat298/react-app-template/pull/2) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
+4. 💪 Opened PR [#2](https://github.com/msrajawat298/react-app-template/pull/2) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
+5. 🎉 Merged PR [#1](https://github.com/msrajawat298/react-app-template/pull/1) in [msrajawat298/react-app-template](https://github.com/msrajawat298/react-app-template)
    <!--END_SECTION:activity-->
    <br/>
 
