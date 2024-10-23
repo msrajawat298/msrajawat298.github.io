@@ -152,11 +152,11 @@
 # <a href="https://stackoverflow.com/users/9578353/msrajwat298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msrajwat298" height="30" width="40" /></a> StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by msrajwat298 for eslint Throwing the error: Do not define components during render](https://stackoverflow.com/questions/78304804/eslint-throwing-the-error-do-not-define-components-during-render/78464281#78464281)
+- [How to know layer name from anyone of files map.dbf map.prj map.shp map.shx using go](https://stackoverflow.com/questions/78461213/how-to-know-layer-name-from-anyone-of-files-map-dbf-map-prj-map-shp-map-shx-usin)
 - [Answer by msrajwat298 for React Native Paper FAB.Group Icon stays on screen after navigating to another screen using react-native-navigator](https://stackoverflow.com/questions/74546492/react-native-paper-fab-group-icon-stays-on-screen-after-navigating-to-another-sc/78429454#78429454)
 - [Answer by msrajwat298 for Cannot connect to the Docker daemon on macOS](https://stackoverflow.com/questions/44084846/cannot-connect-to-the-docker-daemon-on-macos/78394213#78394213)
 - [Unable to run docker container throw error bash: line 1: ./setup.sh: cannot execute: required file not found](https://stackoverflow.com/questions/78391368/unable-to-run-docker-container-throw-error-bash-line-1-setup-sh-cannot-exec)
-- [How to stop displaying New file as an menu list in expo router?](https://stackoverflow.com/questions/78361461/how-to-stop-displaying-new-file-as-an-menu-list-in-expo-router)
-- [Can Someone Help me here? I want to know about size from where it&#39;s value set?](https://stackoverflow.com/questions/78309323/can-someone-help-me-here-i-want-to-know-about-size-from-where-its-value-set)
 <!-- STACKOVERFLOW:END -->
   <br/>
 
