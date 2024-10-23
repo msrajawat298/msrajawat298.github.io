@@ -2,6 +2,8 @@
 
 This repository contains various Terraform modules for AWS infrastructure. Explore the modules and find documentation for each one.
 
+ # Must visit once : [Terraform AWS Examples by msrajawat298](https://github.com/msrajawat298/Terraform-aws-examples)
+
 ## Useful Links
 
 - [Terraform AWS Modules Repository](https://github.com/terraform-aws-modules)
@@ -13,13 +15,11 @@ This repository contains various Terraform modules for AWS infrastructure. Explo
 
 1. [Introduction to Terraform AWS Modules](https://www.youtube.com/watch?v=jv_LqNir4ak&list=PLiH9_MU-6RjLfyuiWRz_9MLoEYf18jwMx&index=6&ab_channel=Pythoholic)
 
-2. [Terraform AWS Examples by msrajawat298](https://github.com/msrajawat298/Terraform-aws-examples)
+2. [Terraform Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=iRaai1IBlB0&pp=ygUWdGVycmFmb3JtIGZyZWVjb2RlY2FtcA%3D%3D&ab_channel=freeCodeCamp.org)
 
-3. [Terraform Tutorial by freeCodeCamp.org](https://www.youtube.com/watch?v=iRaai1IBlB0&pp=ygUWdGVycmFmb3JtIGZyZWVjb2RlY2FtcA%3D%3D&ab_channel=freeCodeCamp.org)
+3. [Infrastructure as Code with Terraform - freeCodeCamp.org](https://www.youtube.com/watch?v=SLB_c_ayRMo&ab_channel=freeCodeCamp.org)
 
-4. [Infrastructure as Code with Terraform - freeCodeCamp.org](https://www.youtube.com/watch?v=SLB_c_ayRMo&ab_channel=freeCodeCamp.org)
-
-5. [Terraform AWS Tutorial by TechnicalGuftgu](https://www.youtube.com/watch?v=BequsOVM2aA&ab_channel=TechnicalGuftgu)
+4. [Terraform AWS Tutorial by TechnicalGuftgu](https://www.youtube.com/watch?v=BequsOVM2aA&ab_channel=TechnicalGuftgu)
 
 ### Visual Studio Code Extension
 
@@ -125,5 +125,9 @@ This repository provides Visual Studio Code snippets for common Terraform comman
   - Prefix: `_terraform_refresh`
   - Command: `terraform refresh`
   - Description: Update the state file to match the real-world resources. Useful when changes are made outside of Terraform.
+
+if you need to apply the changes to an existing resource, you can use the -target option to specify which resource to apply the changes to. For example:
+
+terraform apply -target=aws_instance.example_instance_myk
 
 Feel free to contribute, raise issues, or explore the modules for your AWS infrastructure needs!
