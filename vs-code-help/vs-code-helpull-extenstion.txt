@@ -24,3 +24,6 @@ emojisense
 JSON Crack
 1] vs code tab opeing issue :
 https://vscode.one/new-tab-vscode/
+
+Blackbox — Code as fast as you think
+https://www.useblackbox.io/search
