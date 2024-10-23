@@ -1,15 +1,17 @@
 wordpress useful plugin ::
 ----------------------------
-Better Search Replace
+Category Slider for WooCommerce
+xyz scripting or (php code snippet)
+WP phpMyAdmin
+seo yost
+Ninja Forms
+TranslatePress
 wp-rocket
+Better Search Replace
 wppusher
 BetterDocs 
-WP phpMyAdmin
-xyz scripting or (php code snippet)
 Polylang plugin
 LMS
-seo yost
-TranslatePress 
 Social Auto Poster 
 MemberPress 
 Gravity Forms
