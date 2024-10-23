@@ -1,10 +1,44 @@
+Refrence Link ::
+===================================================
+https://help.ubuntu.com/community/UsingTheTerminal
+https://help.ubuntu.com/community/AptGet/Howto?action=show&redirect=AptGetHowto
+https://linuxize.com/post/grep-exclude/
+https://linuxize.com/post/understanding-linux-file-permissions/
+===================================================
+
+=============================================================================================
+======================== Mount remote directory in linux ====================================
+=============================================================================================
+* Step 1st install sshfs
+	-sudo apt-get install sshfs
+
+* Step 2nd create a diretory where your project save
+	e.g: mkdir /your-cool-path/dir-name  =>>/home/php/mounted_projects
+
+* Step 3rd sshfs username@hostname:/path/to/foo /your-cool-path/dir-name 
+	e.g: php@PC0542:~$ sshfs project_userName@mayanksinghkushwah.com:/home/project_userName/public_html /home/php/mounted_projects/project_userName_69/
+
+For unmounted folder
+---------------------
+fusermount -u /home/php/mounted_projects
+
+ssh://mayank.kushwah@opsusers.com
+
 ssh username@server_addres.com //server_addres -> may be in ip format, or may be its your website domain
+
 sshfs username@server_addres.com:/home/username/ /home/php/mounted_projects/yourlocaldirname/ -o reconnect,ServerAliveInterval=15,ServerAliveCountMax=3
+
+scp -r source_folder destination_folder
+
 sudo dpkg -i /tmp/code_latest_amd64.deb //install application in <i class="fa fa-linux" aria-hidden="true"></i>
+
 netExtender -umayank.kushwah -pRadixweb8 -dserver_name 180.211.112.179:4433
+
 chmod +x filname //to x for convert or give permision to executable file.
+
 grep -nr "stringtofind" . --exclude-dir={.svn,cache} --color
-ping mayanksinghkushwah.in
+
+ping REPLACE_DB_USERNAMEkushwah.in
 uptime
 top
 wget <url>
@@ -14,43 +48,29 @@ sudo apt-get dist-upgrade
 mv src_of_fileame desination_of_file_name
 history > history_bkp.txt
 touch filenmae
-cat filenmae
-svn diff >my_patch_file.patch
-patch --dry-run -p0 -i patchfile.patch > dryrun.txt
-patch -p0 -i patchfile.patch
-svn st | grep "? "
-svn checkout https://svn.radixweb.in/svn/enasysusa/trunk .
-svn revert --recursive images cache robots.txt sitemap.xml
-svn commit -m "refs # : Setup the intial project source code from {OPS v5.4: rev 331}";
-====================================================================================================================================
-							SVN CHECKOUT for old project
-====================================================================================================================================
-svn co https://svn.radixweb.in/svn/Project_name/trunk . 
-====================================================================================================================================
-						IMPORT EXPORT DATABASE
-====================================================================================================================================
-
-import
-gunzip <  uday_parmar9_live_migrated.gz  | mysql -uuzmarketingv5 -pdeep70 uzmarketingv5
-
-gunzip <  uzmarketingv7_69_03022021.gz  | mysql -uuzmarketing -pdeep70 uzmarketing
-
-
-export
-
-mysqldump -uuday_parmar -pdeep70 uday_parmar9 | gzip > uday_parmar9_live_migrated.gz
---For export db structure without data
-mysqldump -umayank_kushwah -p --no-data mayank_kushwah3 > enasysusav8_schema.sql
-====================================================================================================================================
-This displays files with its permisions
-stat -c '%a - %n' directory/*
-->chmod 7777 -R directory_name/
-# sudo chown typeuruser:typeuruser filenmae/directory_name 
-===================================================
-https://phoenixnap.com/kb/linux-file-permissions
-
+cat filename
+grep -Po '^sudo.+:\K.*$' /etc/group //How to know sudo user ? 
+du -h --max-depth=1 //it will show size of dir
+df
 find . -printf "%h\n" | cut -d/ -f-2 | sort | uniq -c | sort -rn
 
+import : gunzip < impordb_filename.gz  | mysql -uREPLACE_DB_USERNAME -pdeep70 dbname
+
+export : mysqldump -uREPLACE_DB_USERNAME -pdeep70 DB_NAME | gzip > EXPORT_FILENAME.gz
+
+export db structure without data : mysqldump -uREPLACE_DB_USERNAME -pdeep70 --no-data DB_NAME > EXPORT_FILENAME.gz
+
+How to kill process in Linux:: sudo kill -9 `sudo lsof -t -i:3000`
+
+
+stat -c '%a - %n' directory/* //This displays files with its permissions
+->chmod 7777 -R directory_name/
+# sudo chown typeuruser:typeuruser filenmae/directory_name  (know more https://phoenixnap.com/kb/linux-file-permissions)
+
+
+How to edit file inside linux terminal without vim
+======================================================
+RUN sed -i '/SSLCertificateFile.*snakeoil\.pem/c\SSLCertificateFile \/etc\/ssl\/certs\/mycert.crt' /etc/apache2/sites-available/default-ssl.conf
 
 networking cmd::
 ===========================

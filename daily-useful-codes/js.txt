@@ -1,0 +1,181 @@
+**How to diplay table in Console**
+
+var table=[{state: "Texas"},{state: "New York"},{state: "Chicago"}]
+
+console.table(table)
+
+**Multi-line String or multiline with variable Shorthand :**
+
+const data = `abc abc abc abc abc ${variable} abc test test,test test test test`;
+
+**Short-Circuit Evaluation : return (foo || []).length;**
+
+Let’s say we want to return the length of a variable, but we don’t know the variable type. : 
+
+- Quick Powers : console.log(2 ** 3); // Result: 8
+- Quick Float to Integer : console.log(23.9 | 0);  // Result: 23
+- Remove Last Digits from number :  console.log(1553 / 10   | 0) // Result: 155
+- Convert to String : const val = 1 + "";
+- Object.entries() : (convert the object to an array of objects)
+- Object.values()
+- Remove values from array Array :
+let array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+console.log(array); // Result: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+array.length = 4;
+console.log(array); // Result: [0, 1, 2, 3]
+
+-  Get the Last Item(s) in an Array : 
+let array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];
+console.log(array.slice(-1)); // Result: [9]
+console.log(array.slice(-2)); // Result: [8, 9]
+console.log(array.slice(-3)); // Result: [7, 8, 9]
+
+- Filter arrary:
+const array = [1, 0, false, "", 2, null, 3]
+const farray = array.filter(Boolean)
+console.log(farray) // [1, 2, 3]
+
+- Convert string to array:
+const str = "Test"
+const arr = [...str] // application of the spread operator ...// arr = ["T", "e", "s", "t"]
+- Convert to Int :
+Method 1st:
+    let int = "15";
+    int = +int;
+Method 2nd:
+    const int = ~~"15"
+    console.log(int); // Result: 15
+    console.log(typeof int); Result: "number"
+
+There may be contexts where the + will be interpreted as the concatenation operator rather than the addition operator. When that happens (and you want to return an integer, not a float) you can instead use two tildes: ~~ .
+
+- Filter Unique Values :
+The Set object type was introduced in ES6, and along with ..., the ‘spread’ operator, we can use it to create a new array with only the unique values.
+const array = [1, 1, 2, 3, 5, 5, 1]
+const uniqueArray = [...new Set(array)];
+console.log(uniqueArray); // Result: [1, 2, 3, 5]
+
+-Don't do this
+if (this.state.data) {
+    return this.state.data;
+} else {
+    return 'Fetching Data';
+}
+use :: 	  return this.state.data || 'Fetching Data';
+
+-Merging Multiple Objects : 
+let obj1 = {
+    'id': 'S129',
+    'name': 'Haider',
+    'age': 22,
+    'addr': 'USA'
+}
+let obj2 = {
+    'title': 'Software Engineer',
+    'location': 'Canada'
+}
+// merging them into one object
+// using spread operator
+    let merge = {...obj1, ...obj2};
+    console.log('Final Merged', merge);
+
+
+- Simple Swapping using Destructing or swap without 3rd operator: 
+let x = 5;
+let y = 9;
+console.log(x, y); // 5 9
+[x, y] = [y, x]; //swaping
+console.log(x, y); // 9 5
+
+
+- How Check Performance in js
+function something()
+{
+    for(let i=0;i<10000; i++);
+}
+const firstTime = performance.now();
+something();
+const secondTime = performance.now();
+console.log(`The something function took ${secondTime - firstTime} milliseconds.`);
+
+- Null, Undefined, Empty Checks: let second = first|| '';
+- foreach Loop Shorthand :  for (let i in testData) or  for (let i of testData)
+- Short function calling :(test3 === 1? function1:function2)();
+- Switch shorthand : 	
+var data = {
+    1: test1,
+    2: test2,
+    3: test
+};
+
+data[anything] && data[anything]();
+
+- Convert Decimal to Hexa and Binary
+const deci = 500
+console.log(deci.toString(2)) // 111110100
+console.log(deci.toString(16)) // 1f4
+console.log(deci.toString(8)) // 764
+- Sum all the values from an array : 
+let numbers = [2,52,55,5]
+let sum = numbers.reduce((x,y) => return x+y)
+console.log(sum) //17
+
+
+Learn About Advanced JavaScript
+===================================
+* Read about keyword var, let, const
+* Arrow Functions (most important very useful function)
+* for/of statement loops is like for each in php
+* JavaScript Classes (Use the keyword class to create a class. and Always add a method named constructor())
+* JavaScript Promises (A Promise is a JavaScript object that links "Producing Code" and "Consuming Code". "Producing Code" can take some time and "Consuming Code" must wait for the result.)
+* The Symbol Type :  Using Symbol() to create a unique identifiers
+* Function Rest Operator(...) : The rest Operator/parameter (...) allows a function to treat an indefinite number of arguments as an array: function sum(...args) {}
+* Function Spread Operator(...) : at the time of passing array argumnet in funtion where Rest operator is used.
+* Array.find()
+* Array.findIndex()
+* Template String or Template Literals
+* Object Literals
+* Destructuring Array
+* Destructuring Object
+* Modules
+* Promise
+* Promise.all
+* Fetch()
+* Iterators
+* Generators
+* Strict Mode 
+* New Math Methods
+
+====================================
+* Web History API (The Web History API provides easy methods to access the windows.history object. The window.history object contains the URLs (Web Sites) visited by the user.)
+* Web Workers
+* JavaScript HTML DOM (https://www.w3schools.com/js/js_htmldom.asp)
+	* document.cookie (display the cookie of the server that loaded this document)
+	* document.domain (display the domain name of the server that loaded this document)
+	* document.lastModified (get document was last modified)
+	* document.title (give title of the file)
+	* document.URL (full URL of document or file)
+	* window.open()
+	* document.open()
+	* document.write()
+	* document.close()
+	* document.getElementById
+	* document.getElementsByName
+	* document.getElementsByTagName
+	* document.anchors
+	* document.links
+	* document.forms
+	* document.images
+	* window.scrollBy
+	* window.scrollTo
+	* window.moveTo()
+	* window.resizeTo()
+* Button Object
+* Form Object
+* Option and Select Objects
+* JS Events
+* JavaScript Browser Objects 
+* JavaScript HTML DOM Events
+* JS Browser BOM
+* JS HTML DOM
+* JavaScript Window Navigator

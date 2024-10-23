@@ -12,3 +12,113 @@ docker image rm test-image 	    //  use for rm image from localy
 
 https://www.edureka.co/blog/docker-commands/
 https://docs.docker.com/engine/reference/commandline/docker/
+
+
+docker exec MY-webserver sh -c 'mysql -hops -uroot -pdeep70 ops < /var/www/html/'${PWD##*/}'/database/sql/test.sql'
+docker exec MY-webserver sh -c mysql -hdatabase -uroot -pdeep70 ops < test.gz
+docker exec MY-webserver sh -c 'gunzip <  test.gz  | mysql -hdatabase -uroot -pdeep70 ops'
+
+
+docker ps
+docker ps --all
+docker rm 73e20462a8d4
+docker ps
+docker images
+docker run --name=node-docker -d -v $(pwd):/usr/src/app -p 5000:3000 msrajawat298/node-tool:node-tool-v16
+docker build -f /path/to/a/Dockerfile .
+sudo docker cp 1558f73eb3d4:usr/src/app/ /
+docker exec -it node-docker sh -c "bash"
+docker container run  1558f73eb3d4
+docker container run msrajawat298/node-tool:node-tool-v16
+docker exec -it node-docker sh -c "bash"
+
+docker rm 002dc09315cf
+docker stop 002dc09315cf
+
+docker run --name=node-docker -d -v $(pwd):/usr/src/app -p 5000:3000 msrajawat298/node-tool:node-tool-v16
+docker run --rm --name=node-docker -d -v $(pwd):/usr/src/app -p 5000:3000 msrajawat298/node-tool:node-tool-v1
+docker run --rm --it --name=node-docker -d -v $(pwd):/usr/src/app -p 5000:3000 msrajawat298/node-tool:node-tool-v16
+docker run --rm -it --name=node-docker -d -v $(pwd):/usr/src/app -p 5000:3000 msrajawat298/node-tool:node-tool-v16
+
+docker images
+docker-compose up
+docker-compose down
+docker node:latest
+docker run node:latest
+docker images
+docker image inspect node:latest
+docker volume
+
+docker container run     --rm     --detach     --publish 3000:3000     --name hello-dock-dev     --volume $(pwd):/home/node/app     --volume /home/node/app/node_modules clear
+docker restartOPS-phpmyadmin OPS-webserver OPS-database
+docker restart OPS-phpmyadmin OPS-webserver OPS-database
+docker exec -it OPS-phpmyadmin  sh -c "bash"
+docker exec -it OPS-webserver  sh -c "bash"
+service apache2 reload
+docker exec -it OPS-webserver sh -c "bash"
+=================================================================================================================================================
+other examples::
+
+docker exec OPS-webserver sh -c 'php $(pwd)/opsv91/4over-php8.1/database/forover_patch.php'
+docker exec OPS-webserver sh -c 'gunzip <  $(pwd)/opsv91/4over-php8.1/4over91_step1.sql.gz | mysql -hdatabase -uroot -pdeep70  ops_core'
+
+
+
+
+
+Containers
+=============================
+docker container my_command
+create — Create a container from an image.
+start — Start an existing container.
+run — Create a new container and start it.
+ls — List running containers.
+inspect — See lots of info about a container.
+logs — Print logs.
+stop — Gracefully stop running container.
+kill —Stop main process in container abruptly.
+rm— Delete a stopped container.
+
+
+
+Images
+=============================
+docker image my_command
+build — Build an image.
+push — Push an image to a remote registry.
+ls — List images.
+history — See intermediate image info.
+inspect — See lots of info about an image, including the layers.
+rm — Delete an image.
+
+
+
+Misc
+=============================
+docker version — List info about your Docker Client and Server versions.
+docker login — Log in to a Docker registry.
+docker system prune — Delete all unused containers, unused networks, and dangling images.
+
+Containers
+=============================================
+Container Beginnings
+
+docker container create my_repo/my_image:my_tag — Create a container from an image.
+I’ll shorten my_repo/my_image:my_tag to my_image for the rest of the article.
+docker container start my_container — Start an existing container.
+
+
+For more ref :
+https://towardsdatascience.com/15-docker-commands-you-should-know-970ea5203421
+https://towardsdatascience.com/12-essential-docker-commands-you-should-know-c2d5a7751bb5
+
+
+
+Steps to get new webserver image and use it
+
+
+
+1. docker pull onprintshop/php-fpm:apache (From any location in terminal)
+2. go to your lamp directory and run below commands (cd to your lamp)
+3. docker-compose down
+4. docker-compose up -d
