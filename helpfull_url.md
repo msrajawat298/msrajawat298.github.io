@@ -1,5 +1,7 @@
 ## Best AI website to help your Productivity
 
+- [https://chat.forefront.ai](https://chat.forefront.ai/)
+- [ora.sh](https://ora.sh)
 - [voice.ai](https://voice.ai/)
 - [chatgpt](https://openai.com/blog/chatgpt/)
 - [https://denigma.app/#demo](https://denigma.app/#demo)
@@ -253,6 +255,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [Enhance voice recordings for free](https://podcast.adobe.com/enhance)
 - [Font style](https://www.atipofoundry.com/)
 - [Free stack image](https://pixabay.com/)
+- [Share data from mobile to pc](https://www.android.com/better-together/nearby-share-app/)
 
 ### Free Publish site ::
 - [surge.sh](https://surge.sh/pricing)
@@ -261,3 +264,15 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [github page](https://pages.github.com/)
 - [vercel](https://vercel.com/)
 - [cloudflare pages](https://pages.cloudflare.com/)
+
+## Documentation
+
+* Docusaurus: A markdown website generator for building documentation websites. Visit [https://docusaurus.io/docs](https://docusaurus.io/docs) for more information.
+* Retype: A documentation generator with built-in themes and templates.
+* GitBook: A modern documentation platform for teams to write and collaborate on content.
+* [typeset.io](https://typeset.io/)
+
+
+## Password Recovery
+
+* LostMyPass: A website that can recover lost or forgotten passwords for various accounts. Visit [https://www.lostmypass.com/](https://www.lostmypass.com/).

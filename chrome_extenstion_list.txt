@@ -40,3 +40,4 @@ Casper AI
 Careerflow LinkedIn Optimization
 Online Monitor for WhatsApp
 WARocket Sender - WA Sender
+* Anori: A Chrome extension that can help you take and organize notes. Visit [https://chrome.google.com/webstore/detail/anori/ddeaekifelikgnaacipabpmjpffgifek](https://chrome.google.com/webstore/detail/anori/ddeaekifelikgnaacipabpmjpffgifek).
