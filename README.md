@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#1](https://github.com/vitabletec/SnippetMaster/pull/1) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-2. ❗️ Opened issue [#6](https://github.com/msrajawat298/web-development-practice/issues/6) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
-3. ❗️ Opened issue [#5](https://github.com/msrajawat298/web-development-practice/issues/5) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
-4. 🎉 Merged PR [#7](https://github.com/vitabletec/general-js-toolkit/pull/7) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-5. 💪 Opened PR [#7](https://github.com/vitabletec/general-js-toolkit/pull/7) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
+1. 🎉 Merged PR [#1](https://github.com/vitabletec/SnippetMaster/pull/1) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+2. 💪 Opened PR [#1](https://github.com/vitabletec/SnippetMaster/pull/1) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+3. ❗️ Opened issue [#6](https://github.com/msrajawat298/web-development-practice/issues/6) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
+4. ❗️ Opened issue [#5](https://github.com/msrajawat298/web-development-practice/issues/5) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
+5. 🎉 Merged PR [#7](https://github.com/vitabletec/general-js-toolkit/pull/7) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
    <!--END_SECTION:activity-->
    <br/>
 
