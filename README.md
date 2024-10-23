@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#2943](https://github.com/PHPMailer/PHPMailer/issues/2943) in [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
-2. 🗣 Commented on [#2943](https://github.com/PHPMailer/PHPMailer/issues/2943#issuecomment-1674510957) in [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
-3. ❗ Opened issue [#2943](https://github.com/PHPMailer/PHPMailer/issues/2943) in [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
-4. 🎉 Merged PR [#56](https://github.com/vitabletech/SnippetMaster/pull/56) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-5. 💪 Opened PR [#56](https://github.com/vitabletech/SnippetMaster/pull/56) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+1. ❗ Opened issue [#1166](https://github.com/cotes2020/jekyll-theme-chirpy/issues/1166) in [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+2. 🔒 Closed issue [#2943](https://github.com/PHPMailer/PHPMailer/issues/2943) in [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
+3. 🗣 Commented on [#2943](https://github.com/PHPMailer/PHPMailer/issues/2943#issuecomment-1674510957) in [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
+4. ❗ Opened issue [#2943](https://github.com/PHPMailer/PHPMailer/issues/2943) in [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
+5. 🎉 Merged PR [#56](https://github.com/vitabletech/SnippetMaster/pull/56) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
