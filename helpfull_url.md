@@ -1,15 +1,15 @@
 ## Best AI website to help your Productivity
 
-- [chatgpt](https://openai.com/blog/chatgpt/)
-- [https://denigma.app/#demo](https://denigma.app/#demo)
-- [https://beta.openai.com/playground](https://beta.openai.com/playground)
-- [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check)
-- [https://rytr.me/](https://rytr.me/)
-- [https://app.movio.la/](https://app.movio.la/)
-- [https://www.myheritage.com/ //Your animated photo is ready!](https://www.myheritage.com/)
-- [https://www.useblackbox.io/search](https://www.useblackbox.io/search)
-- [bigspeak.ai/](https://bigspeak.ai/)
-- [tinywow](https://tinywow.com/)
+*   [chatgpt](https://openai.com/blog/chatgpt/ )
+*   [https://denigma.app/#demo](https://denigma.app/#demo )
+*   [https://beta.openai.com/playground](https://beta.openai.com/playground )
+*   [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check )
+*   [https://rytr.me/](https://rytr.me/ )
+*   [https://app.movio.la/](https://app.movio.la/ )
+*   [https://www.myheritage.com/ //Your animated photo is ready!](https://www.myheritage.com/)
+*   [https://www.useblackbox.io/search](https://www.useblackbox.io/search )
+*   [bigspeak.ai/](https://bigspeak.ai/ )
+*   [tinywow](https://tinywow.com/ )
 
 ## Get free
 
@@ -97,7 +97,8 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [https://schultetable.ru/training/en/](https://schultetable.ru/training/en/)
 - [B games](https://www.bgames.com/)
 
-## Website Resources
+*   [Website resources](https://darrelwilson.com/website-resources/)
+*   [illustrations](https://undraw.co/illustrations)
 
 - [Website resources](https://darrelwilson.com/website-resources/)
 - [illustrations](https://undraw.co/illustrations)
@@ -191,7 +192,15 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [opensourcealternative](https://www.opensourcealternative.to/)
 - [android kit](https://www.imobie.com/droidkit/)
 
-## Frequently uses site ::
+Frequently uses site ::
+-------------
+[All one site | all type of html , text converter ](https://codebeautify.org/)
+[Check Online Sh script ](https://www.shellcheck.net/)
+[Create Github custom profile ](https://gprm.itsvg.in/)
+[Bring children's drawings to life, by animating characters to move around! ](https://sketch.metademolab.com/)
+[offline ](https://offline.pcskill.in/course-topics/)
+[beatsnoop ](https://www.beatsnoop.com/)
+[Get Free all stuff like image/video/song with non copyright ](https://pixabay.com/)
 
 - [All one site | all type of html , text converter ](https://codebeautify.org/)
 - [Check Online Sh script ](https://www.shellcheck.net/)
