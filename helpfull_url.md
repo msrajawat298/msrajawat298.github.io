@@ -8,16 +8,32 @@ Best AI website to help your Productivity
 *   [https://app.movio.la/](https://app.movio.la/ )
 *   [https://www.myheritage.com/ //Your animated photo is ready!](https://www.myheritage.com/)
 *   [https://www.useblackbox.io/search](https://www.useblackbox.io/search )
+*   [bigspeak.ai/](https://bigspeak.ai/ )
 
 Get free
 --------
 
 *   [Get online free certificates](https://cursa.app/ )
 
+Create Online App with no coding
+---------------------------------
+
+*   [zorp.one](https://www.zorp.one/pricing )
+*   [appsgeyser](https://appsgeyser.com/ )
+*   [mobiroller](https://www.mobiroller.com/ )
+
 Online Resume create
 --------------------
 
 *   [https://www.overleaf.com/](https://www.overleaf.com/ )
+
+Video Editing online
+-------------------------
+
+*   [clipchamp](https://clipchamp.com/en/ )
+*   [runwayml](https://runwayml.com/ )
+*   [123apps](https://123apps.com/ )
+
 
 Online Image edit tools :
 -------------------------
@@ -28,15 +44,31 @@ Online Image edit tools :
 *   [https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/ )
 *   [https://unsplash.com/@msrajawat298](https://unsplash.com/@msrajawat298 )
 *   [https://unsplash.com/developers](https://unsplash.com/developers )
+*   [magicstudio](https://magicstudio.com/magiceraser )
 
 Earn money
 ----------
 
 *   [http://clickasnap.com/getpaid/ (sell your images)](http://clickasnap.com/getpaid/)
 
+Logo Generator
+----------
+*   [https://app.logo.com/ideas](https://app.logo.com/ideas )
+*   [https://www.freelogoservices.com/step2](https://www.freelogoservices.com/step2 )
+*   [https://howtostartanllc.com/logo-maker/results](https://howtostartanllc.com/logo-maker/results )
+*   [https://www.freelogodesign.org/manager/showcase/](https://www.freelogodesign.org/manager/showcase/ )
+*   [https://www.brandcrowd.com/maker/logo/pixel-global-company-122070?text=mayank%20singh](https://www.brandcrowd.com/maker/logo/pixel-global-company-122070?text=mayank%20singh )
+*   [https://studio.tailorbrands.com/business/98122331/wizard/logos/598952425?selectedBrandVersionId=7196698749](https://studio.tailorbrands.com/business/98122331/wizard/logos/598952425?selectedBrandVersionId=7196698749 )
+*   [https://www.smartr.me/me/mr.mayanksingh.kushwah](https://www.smartr.me/me/mr.mayanksingh.kushwah )
+*   [renderforest](https://www.renderforest.com/ )
+
+*   [Create online dance logo | Animated Logo](https://dancelogo.com/upload)
+
 TECHNICAL
 ---------
 
+*   [Dummy All In one API](https://docs.rapidapi.com/docs )
+*   [hacking Plaining](https://www.hacksplaining.com/ )
 *   [https://app.codility.com/programmers/](https://app.codility.com/programmers/ )
 *   [https://wtools.io/javascript-to-php-converter](https://wtools.io/javascript-to-php-converter )
 *   [https://www3.ntu.edu.sg/home/ehchua/programming/](https://www3.ntu.edu.sg/home/ehchua/programming/ )
@@ -44,7 +76,14 @@ TECHNICAL
 *   [https://www3.ntu.edu.sg/home/ehchua/programming/howto/Unix\_Basics.html](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Unix_Basics.html )
 *   [https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git\_HowTo.html](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html )
 *   [https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL\_Beginner.html](https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html )
-*   [https://www.free-css.com/free-css-templates (usefull)](https://www.free-css.com/free-css-templates (usefull) )
+*   [free-css-templates](https://www.free-css.com/free-css-templates )
+
+All IN one CODE Generator ::
+----------------
+*   [shapedivider](https://www.shapedivider.app/ )
+*   [cssportal](https://www.cssportal.com/css-generators.php )
+*   [meta tag data generator](https://webcode.tools/generators/meta-tags )
+*   [html-code-generator](https://www.html-code-generator.com/ )
 
 Gaming sites ::
 ---------------
@@ -74,14 +113,6 @@ Other Utilities
 *   [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft.com/en-us/free/students/ )
 *   [https://mention.com/en/email-signature-generator/](https://mention.com/en/email-signature-generator/ )
 *   [https://www.mail-signatures.com/signature-generator/#/user-social-media](https://www.mail-signatures.com/signature-generator/#/user-social-media )
-*   [https://app.logo.com/ideas](https://app.logo.com/ideas )
-*   [https://www.freelogoservices.com/step2](https://www.freelogoservices.com/step2 )
-*   [https://howtostartanllc.com/logo-maker/results](https://howtostartanllc.com/logo-maker/results )
-*   [https://www.freelogodesign.org/manager/showcase/](https://www.freelogodesign.org/manager/showcase/ )
-*   [https://www.brandcrowd.com/maker/logo/pixel-global-company-122070?text=mayank%20singh](https://www.brandcrowd.com/maker/logo/pixel-global-company-122070?text=mayank%20singh )
-*   [https://studio.tailorbrands.com/business/98122331/wizard/logos/598952425?selectedBrandVersionId=7196698749](https://studio.tailorbrands.com/business/98122331/wizard/logos/598952425?selectedBrandVersionId=7196698749 )
-*   [https://www.smartr.me/me/mr.mayanksingh.kushwah](https://www.smartr.me/me/mr.mayanksingh.kushwah )
-*   [renderforest](https://www.renderforest.com/ )
 *   [vertex 3D icon](https://vertex.im/)
 *   [Wordtune - AI-powered Writing Companion](https://www.wordtune.com/)
 *   [www.classcentral.com](www.classcentral.com )
@@ -89,8 +120,6 @@ Other Utilities
 *   [receivesms](receivesms )
 *   [www.synthesia.io](www.synthesia.io )
 *   [https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html](https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html )
-*   [https://docs.rapidapi.com/docs](https://docs.rapidapi.com/docs )
-*   [https://www.hacksplaining.com/](https://www.hacksplaining.com/ )
 *   [https://pixabay.com/](https://pixabay.com/ )
 *   [https://getfirebug.com/](https://getfirebug.com/ )
 *   [https://filetransfer.io/](https://filetransfer.io/ )
@@ -141,7 +170,8 @@ Learn More ::
 *   [https://www.phpdeveloper.org.uk/](https://www.phpdeveloper.org.uk/ )
 *   [https://www.classcentral.com/](https://www.classcentral.com/ )
 *   [https://app.loopcv.pro/signup](https://app.loopcv.pro/signup )
-[https://www.eldalab.in/](https://www.eldalab.in/ )*   [https://scribehow.com/](https://scribehow.com/ )
+*   [https://www.eldalab.in/](https://www.eldalab.in/ )
+*   [https://scribehow.com/](https://scribehow.com/ )
 *   [https://printify.com/](https://printify.com/ )
 *   [https://www.franklywearing.com/](https://www.franklywearing.com/ )
 *   [https://untools.co/](https://untools.co/ )
@@ -155,6 +185,9 @@ Learn More ::
 *   [https://txtmoji.com/ (Encrypt text into emoji)](https://txtmoji.com/)
 *   [https://chloromaps.com/ (Develop and Ship Choropleth Maps Faster https://dpnkr.in/)](https://chloromaps.com/)
 *   [https://ownid.com/pricing.html (web user-fingerprint authentication)](https://ownid.com/pricing.html)
+*   [online-tools](https://eternitech.com/online-tools/)
+*   [tinywow](https://tinywow.com/)
+*   [opensourcealternative](https://www.opensourcealternative.to/) 
 
 Frequently uses site ::
 -------------
