@@ -1,0 +1,56 @@
+# git init       // use to intiate git repo
+# rm -rf .git   //use to remove .git
+# git config --global user.email "email@gmail.com"
+# git config --global user.name "your username"
+# git config --global user.password "password"
+# git config -l //to check all the config is set or not
+# git status
+# git add <filename seprate with space>
+# "git restore <file>..." to discard changes in working directory
+# git commit -m "commit message"
+# git reset HEAD *.txt (for revert file from stage to unstage)
+# git reset HEAD yourfilename
+# git rm filename 
+# git branch new_branch // how to create branch
+# git checkout -b ＜new-branch＞ //this cmd also use to create a branch and it will also switch the branch after create
+# git branch -d branch_name  //use to delte branch from local
+# git pull <url>
+# git ls-files -m //git status only modified files
+# git branch --all
+# git log
+# git log <branch_name> //for see secific branch
+# git log <branch_name> --not <master_branch_name>
+# git show a303aa90779efdd2f6b9d90693e2cbbbe4613c1d
+# git branch -m <oldname> <newname> //rename the branch
+# git rm -rf --cached .
+# git add .
+
+If you want to push the code to your online repository whether its is (git-lab, github, bit-bucket etc) need to set the remote. for example
+# git remote add origin <url of your repository>
+Note : if your repository is private then need to be pass the token url or ssh key
+LIKE :: https://username:access_token@github.com/username/repo_name.git
+For check what remote url is set use 
+# git remote -v
+# git remote set-url origin "REPO URL" // used to update remote origin
+# git clone <repository url> //used to download the online repository code in local
+
+Git vs SVN commands
+==================================
+      svn       |      git
+================|=======================
+svn checkout    | git clone
+svn commit      | git commit then git push // to publish local commit to remote repo.
+svn cat         | git show
+svn status      | git status
+svn diff        | git diff
+svn log         | git log
+svn add         | git add
+svn mv          | git mv
+svn rm          | git rm
+svn merge       | git merge
+svn update      | git pull / git fetch
+.svnignore      | gitignore
+
+Revert in SVN is the cancel of change, but Revert in Git is the commit for negation. The meanings of Revert are different.
+Branch and tag are the same in the structure in SVN, but they are clearly different in Git
+SVN does not have the concept of local repository/remote repository, accordingly commit is directly reflected in the remote. However, Git has different reflecting methods for reflecting to the local repository and for reflecting to the remote repository.

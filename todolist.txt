@@ -1,0 +1,38 @@
+create a modal file for index db which having all the function like CRUD operation , searching pagination etc
+
+update own webiste 
+add in section 
+what you can do like
+api development
+payment method integration
+wordpress development
+shipping method integration
+php cli application
+google map customization
+google api
+zoho API
+web services like client stroage index db 	 
+web api
+etc...  
+https://github.com/adhocore/php-cli
+php cli application source code
+php command line application
+https://codeengineered.com/blog/building-cli-applications-in-php/
+https://medium.com/geekculture/building-a-command-line-app-in-php-35441506e97c
+https://dev.to/erikaheidi/bootstrapping-a-cli-php-application-in-vanilla-php-4ee
+
+*Manage and build overall email marketing strategy.
+*Create various email lists and campaigns
+*Create and design various CTAs and email templates.
+*Test every campaigns success.
+*Determine email marketing KPIs.
+*Develop and present reports on a weekly basis.
+*Develop a lead generation strategy.
+*Create smart email list.
+*Analyse data to get smart insights.
+*A/B tests, and promotions that succeed through email.
+
+
+
+manage or create email template for email marketing campaigns
+email template for ecommerce site

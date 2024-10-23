@@ -1,0 +1,38 @@
+https://howi.in/answer/31/how-to-auto-backup-mysql-database-using-php-script
+
+https://www.youtube.com/watch?v=OyhTBHqLkwo&ab_channel=ProgrammingwithVishal
+https://www.youtube.com/playlist?list=PLWCLxMult9xfY_dsYicKGcCLhlZ6YXFMh
+https://github.com/ifsnop/mysqldump-php
+https://severalnines.com/blog/handling-large-data-volumes-mysql-and-mariadb
+
+mysqldump -u user_name -p name-of-database >file_to_write_to.sql
+
+I need to handle millions of records per day in MySQL. What is the perfect way to handle that much amount of data efficiently?
+https://www.quora.com/I-need-to-handle-millions-of-records-per-day-in-MySQL-What-is-the-perfect-way-to-handle-that-much-amount-of-data-efficiently
+Apart from a good server with great ram & cpu you also need to do some database level
+optimisation.Use a good mysql engine like innodb which doesn't lock the table while writes happening & also crash-safe.
+
+Optimize basic mysql variables like:-
+
+innodb_buffer_pool_size
+thread_cache_size
+max_connections
+query_cahce
+innodb_log_trx_commit
+
+Use proper technique for setting these values otherwise performance may be degrade.
+
+If your load is too much on the server then you can also use some load balancing techniques like mysql proxy ,mysql clustering
+
+You can setup replication & divide the load accordingly.
+
+
+
+How do I insert a million records in MySQL?
+
+LOAD DATA INFILE 'data.txt' INTO TABLE db2.my_table
+https://it-qa.com/can-mysql-handle-millions-of-records/
+https://serverfault.com/questions/181175/how-to-manage-a-mysql-table-with-over-2-million-records
+https://askinglot.com/can-mysql-handle-millions-of-records
+
+

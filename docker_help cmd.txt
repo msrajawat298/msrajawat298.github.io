@@ -1,0 +1,14 @@
+docker images
+docker login
+docker logout 
+docker image rm msrajawat298/node-tool:node-tool-v16
+docker container
+docker push <hub-user>/<repo-name>:<tag>
+docker push msrajawat298/node-tool:node-tool-v16
+docker ps
+docker ps --all	
+docker container rm 4ca6d09c1103 // use for rm running image from container if any image is running then you can't remove that image
+docker image rm test-image 	    //  use for rm image from localy 
+
+https://www.edureka.co/blog/docker-commands/
+https://docs.docker.com/engine/reference/commandline/docker/

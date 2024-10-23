@@ -45,5 +45,7 @@ mysqldump -umayank_kushwah -p --no-data mayank_kushwah3 > enasysusav8_schema.sql
 This displays files with its permisions
 stat -c '%a - %n' directory/*
 ->chmod 7777 -R directory_name/
+# sudo chown typeuruser:typeuruser filenmae/directory_name 
 ===================================================
 https://phoenixnap.com/kb/linux-file-permissions
+

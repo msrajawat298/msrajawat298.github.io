@@ -1,0 +1,17 @@
+If required, test, debug, clean the code and review the code written by other team members.
+To develop and deploy new features, modules and write bug free code for the web-based applications.
+To optimize pre-written PHP Code and MySQL queries bringing efficiency to the overall project.
+Might need to communicate, discuss & propose the correct solution according to our requirement.
+Might need to learn new technologies based on company requirements.
+Should be able to deliver end results.
+Suggest improvements to existing technical systems in the organization.
+Provide code contribution to the platform, particularly where high degree of complexity is involved.
+Provide high quality technical input to your team members and engineers of user-facing product teams.
+Requirement understanding and elicitation.
+Solution and System Design.
+Work breakdown and Estimations.
+Managing the team responsible for building software products and further enhancements.
+Communicating status of project to respective stakeholder.
+Facilitating product development from initiation and planning through completion.
+Participate in internal and external meetings.
+Documentation, Test Cases & Code Review.
