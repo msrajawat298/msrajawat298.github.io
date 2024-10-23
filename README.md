@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **https://msrajawat298.business.site/**
 
-- 📄 Know about my experiences [https://github.com/MSRAJAWAT298/about_mayank_singh_kushwah/raw/main/Resume-Mr.-MAYANK-SINGH-KUSHWAH.pdf](https://github.com/MSRAJAWAT298/about_mayank_singh_kushwah/raw/main/Resume-Mr.-MAYANK-SINGH-KUSHWAH.pdf)
+- 📄 Know about my experiences [My Resume](https://github.com/MSRAJAWAT298/msrajawat298/blob/main/Resume-Mr.-MAYANK-SINGH-KUSHWAH.pdf)
 
 - ⚡ Hobbies **There are lot's of hobbies like Learning Something New, Listening music, Explore or ovserve things, Traveling, watching cricket, playing batminton so on. As my hobbies Like Learning Some thing new I things thats why I have some knowldge of varites of technolgies like Android studio , java (core), c, c++, SalesForce, Server Architure, Sub-version control (like Svn and GIT) and there tools like github, gitlab, and bit bucket, I have also know about Docker and many more. 
 Listening of music which help me to relax and Increase my Productivity.
