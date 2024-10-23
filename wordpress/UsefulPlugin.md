@@ -7,7 +7,6 @@
 
 ## Plugins:
 
-* Blocksy Companion
 * Category Slider for WooCommerce
 * Click to Chat
 * Elementor
@@ -21,5 +20,5 @@
 * woo-inquire-us-and-disable-add-to-cart-button
 * WooCommerce
 * Duplicate Page and Post
-
+* Blocksy Companion
 Feel free to explore and utilize these themes and plugins for your WordPress site.
