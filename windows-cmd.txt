@@ -9,3 +9,91 @@ netsh wlan show profile name=labnol key=clear | findstr Key
 win + alt + r OR win+G (record video without any 3rd party software)
 
 winget upgrade --all
+
+Here's a table comparing some useful Windows and Linux commands for daily use:
+
+| Task/Command         | Windows Command   | Linux Command                |
+|----------------------|-------------------|------------------------------|
+| File Navigation      | `cd`              | `cd`                         |
+| List Files           | `dir`             | `ls`                         |
+| Make Directory       | `mkdir`           | `mkdir`                      |
+| Remove Directory     | `rmdir`           | `rmdir` or `rm -r`           |
+| Copy Files/Directories | `copy`         | `cp`                         |
+| Move/Rename Files    | `move` or `ren`   | `mv` or `mv oldname newname` |
+| Delete Files         | `del`             | `rm`                         |
+| View File Content    | `type`            | `cat`                        |
+| Clear Terminal       | `cls`             | `clear`                      |
+| Display System Info  | `systeminfo`      | `uname -a`                   |
+| List Running Processes| `tasklist`       | `ps`                         |
+| Kill a Process       | `taskkill`        | `kill` or `killall`          |
+| View/Edit Text Files | `notepad`         | `nano`, `vi`, or `gedit`    |
+| Disk Usage           | `fsutil` or `dir` | `df` or `du`                 |
+| Search for Files     | `find`            | `find` or `grep`             |
+| Shutdown/Restart     | `shutdown`        | `shutdown` or `reboot`       |
+| User Management      | `net user`        | `useradd`, `passwd`, `userdel`|
+| Package Management   | N/A               | `apt`, `yum`, `dnf`, `pacman`|
+| File Permissions            | `icacls`                 | `chmod`, `chown`, `chgrp`        |
+| File Compression            | `compress`               | `gzip`, `tar`, `zip`, `unzip`     |
+| File Transfer (FTP)         | `ftp`                    | `ftp`, `sftp`, `scp`              |
+| Network Diagnostics         | `ping`, `tracert`        | `ping`, `traceroute`             |
+| IP Configuration            | `ipconfig`, `netsh`      | `ifconfig`, `ip`, `netstat`      |
+| Text Search                 | `findstr`                | `grep`                           |
+| File Comparison             | `fc`, `comp`             | `diff`                           |
+| Disk Partitioning           | `diskpart`               | `fdisk`, `parted`, `gparted`     |
+| System Information          | `systeminfo`             | `lscpu`, `lsblk`, `free`, `top`  |
+| Mount/Unmount Drives        | `mountvol`               | `mount`, `umount`                |
+| Network Configuration       | `netsh`                  | `ifconfig`, `iwconfig`            |
+| Shutdown/Reboot with Timer  | `shutdown`               | `shutdown`, `reboot`             |
+| Text Editing (GUI)          | `notepad`                | `gedit`, `kate`, `pluma`         |
+| Remote Desktop              | `mstsc`                  | `ssh -X`, `VNC`                  |
+| User Information            | `net user`, `whoami`     | `id`, `who`, `w`, `finger`       |
+| Disk Usage (Detailed)       | `fsutil`, `chkdsk`       | `df`, `du`, `ncdu`, `dus`        |
+| System Logs                 | `eventvwr`, `wevtutil`   | `/var/log/`, `journalctl`        |
+| System Services             | `sc`, `net start`        | `systemctl`, `service`           |
+| Task Scheduler              | `schtasks`               | `cron`, `at`, `systemd timers`   |
+| Clipboard Management        | `clip`                   | `xclip`, `xsel`                  |
+| File Permissions (GUI)      | Right-click -> Properties| `nautilus`, `thunar`, `pcmanfm`  |
+| System Monitor              | Task Manager (`taskmgr`) | `htop`, `top`, `iotop`           |
+| Disk Cleanup                | `cleanmgr`               | `bleachbit`, `ncdu`              |
+| File Renaming (Batch)       | `ren`                    | `rename`                         |
+| Environment Variables       | `set`                    | `env`, `export`                  |
+| List Hardware Info          | `dxdiag`                 | `lspci`, `lsusb`, `hwinfo`       |
+| Open File Explorer          | `explorer`               | `nautilus`, `thunar`, `pcmanfm`  |
+| Sleep/Wait                  | `timeout`, `sleep`       | `sleep`, `usleep`                |
+| Text to PDF Conversion      | `printtopdf`             | `pdftk`, `convert`               |
+| Archive Extraction          | `expand`                 | `unrar`, `7z`, `unzip`           |
+| File Permissions (Numeric)  | N/A                      | `chmod 755 file`                 |
+| Network Configuration (GUI) | Control Panel            | Network Manager, `nmtui`         |
+| System Information (GUI)    | Control Panel            | `hardinfo`, `lshw-gtk`           |
+| Date/Time                  | `date`, `time`            | `date`, `timedatectl`            |
+| System Reboot (Immediate)   | `shutdown /r /f`         | `reboot`, `shutdown -r now`      |
+| List USB Devices            | `wmic diskdrive`          | `lsusb`, `usb-devices`           |
+| Process Priority            | `wmic process`           | `nice`, `renice`                 |
+| System Control Panel        | `control`                | `gnome-control-center`, `kde-systemsettings` |
+| Clipboard History           | N/A                      | `clipman`, `copyq`               |
+| Network Info (Specific)     | `netstat -ano`           | `ss`, `netstat -tuln`            |
+| File Ownership              | `takeown`                | `chown`, `chgrp`                 |
+| Disk Cleanup (GUI)          | Disk Cleanup Utility     | N/A                              |
+| File Association            | `assoc`, `ftype`         | N/A                              |
+| List Installed Programs     | `wmic product`           | `dpkg -l`, `rpm -qa`             |
+| System Locale               | `control intl.cpl`       | `localectl`, `locale`            |
+| File Timestamp Modification | `touch`                  | `touch`                          |
+| List System Variables       | `set`                    | `printenv`, `set`                |
+| Network Interface Up/Down   | `netsh interface set`    | `ifconfig`, `ip link set`        |
+| Remote File Transfer (SFTP) | N/A                      | `sftp`, `scp`                    |
+| Shutdown (GUI)             | Start Menu -> Shutdown   | `gnome-session-quit`, `shutdown -h now` |
+| List Environment Variables | `set`                    | `env`, `printenv`                |
+| Zip Compression            | `compress`               | `zip`, `unzip`                   |
+| List File Size             | `dir /s`                 | `du -sh`, `ls -lh`               |
+| File Type                  | `file`                   | `file`                           |
+| File Concatenation         | `copy /b`                | `cat`                            |
+| File Permissions (Octal)   | N/A                      | `chmod 755 file`                 |
+| File Shredding             | `cipher`                 | `shred`, `wipe`                  |
+| Show Hidden Files          | `dir /a`                 | `ls -a`, `ls -A`                 |
+| Archive Creation           | `makecab`                | `tar`, `zip`, `7z`               |
+| Group Management           | `net localgroup`         | `groupadd`, `groupdel`, `usermod -aG` |
+| User Password Change       | `net user username *`    | `passwd`, `chpasswd`             |
+| Disk Cleanup (GUI)         | Disk Cleanup Utility     | N/A                              |
+| Hostname                   | `hostname`               | `hostnamectl`, `hostname`        |
+| Network Route              | `route`                  | `ip route`, `route`              |
+| List Startup Programs      | `msconfig`, `regedit`   
