@@ -12,3 +12,5 @@ Knowledge of Searching (such as Elasticsearch) be an advantage
 Strong analytical and problem-solving skills
 Understanding of code versioning tools, such as Git
 Good troubleshooting skills
+Integrate zoho crm and zoho book
+web storage
