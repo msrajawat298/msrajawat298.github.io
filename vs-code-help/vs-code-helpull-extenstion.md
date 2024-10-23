@@ -2,15 +2,15 @@
 
 Here is a list of some useful VS Code extensions that can help improve your productivity:
 
-1. [New Tab VS Code](https://vscode.one/new-tab-vscode/): vs code tab opeing issue solution.
-2. [Blackbox](https://www.useblackbox.io/search): This extension helps you code faster by providing shortcuts and commands to automate repetitive tasks.
-3. [PHPDoc Generator](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker): This extension helps you write PHPDoc comments for your code, which can improve documentation and readability.
-4. [GitHub Copilot](https://copilot.github.com/): This AI-powered extension can help you write code faster by suggesting code snippets and completing lines of code.
-5. [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode): This extension adds fun and engaging animations to your typing experience in VS Code.
-6. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log): This extension helps you quickly add console log statements to your code by pressing a keyboard shortcut.
-7. [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): This extension checks your spelling and grammar as you type in VS Code, helping you catch errors and improve readability.
-8. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): This extension allows you to easily navigate and view CSS definitions in your code.
-9. [Format Files](https://marketplace.visualstudio.com/items?itemName=lamartire.format-files): This extension provides a quick and easy way to format your code files with a single command.
+1.  [New Tab VS Code](https://vscode.one/new-tab-vscode/): vs code tab opeing issue solution.
+2.  [Aws Cli](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) 
+3.  [Codium AI](https://marketplace.visualstudio.com/items?itemName=Codium.codium)
+4.  [Ansible](https://marketplace.visualstudio.com/items?itemName=redhat.ansible)
+5.  [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode): This extension adds fun and engaging animations to your typing experience in VS Code.
+6.  [Terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
+7.  [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker): This extension checks your spelling and grammar as you type in VS Code, helping you catch errors and improve readability.
+8.  [VS Code ES7+ React/Redux/React-Native/JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+9.  [Format Files](https://marketplace.visualstudio.com/items?itemName=lamartire.format-files): This extension provides a quick and easy way to format your code files with a single command.
 10. [Lorem Ipsum](https://marketplace.visualstudio.com/items?itemName=Tyriar.lorem-ipsum): This extension generates placeholder text to help with layout and design.
 11. [PHP Debug](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-debug): This extension allows you to debug PHP code within VS Code.
 12. [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client): This extension provides advanced PHP language support, including code completion, diagnostics, and refactoring.
@@ -45,6 +45,10 @@ Here is a list of some useful VS Code extensions that can help improve your prod
 41. [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode): SonarLint is an IDE extension that helps you detect and fix quality issues as you write code in C, C++, Java, JavaScript, PHP, Python, HTML and TypeScript.
 42. [Path IntelliSense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 43. [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=styled-components.vscode-styled-components)
-44. [VS Code ES7+ React/Redux/React-Native/JS snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
+44. [PHPDoc Generator](https://marketplace.visualstudio.com/items?itemName=neilbrayfield.php-docblocker): This extension helps you write PHPDoc comments for your code, which can improve documentation and readability.
+46. [GitHub Copilot](https://copilot.github.com/): This AI-powered extension can help you write code faster by suggesting code snippets and completing lines of code.
+47. [Blackbox](https://www.useblackbox.io/search): This extension helps you code faster by providing shortcuts and commands to automate repetitive tasks.
+48. [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log): This extension helps you quickly add console log statements to your code by pressing a keyboard shortcut.
+49. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): This extension allows you to easily navigate and view CSS definitions in your code.
 
     Overall, these extensions can help you write better code, work more efficiently, and have more fun while doing it. Give them a try and see how they can improve your productivity in VS Code!

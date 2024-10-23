@@ -4,7 +4,7 @@
 - [Part 3 - Ansible Variables and Facts](https://www.youtube.com/watch?v=SR_CZcZQfqE&ab_channel=TechnicalGuftgu)
 - [Part 4 - Ansible Loops and Conditions](https://www.youtube.com/watch?v=uyFrrKju4Es&t=5345s&ab_channel=TechnicalGuftgu)
 - [Part 5 - Ansible Roles](https://www.youtube.com/watch?v=2UlTYJMi0YE&t=1251s&ab_channel=TechnicalGuftgu)
-
+- [Ansible Tutorial for Beginners in english](https://youtu.be/MNGfPn0Yvs8?si=y0eZr8FF0fItleW1)
 
 # Other Useful Resources
 - [Ansible Official Documentation: The official documentation provides in-depth information about Ansible concepts, modules, and best practices.](https://docs.ansible.com)
