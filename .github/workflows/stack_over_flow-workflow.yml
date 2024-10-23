@@ -1,8 +1,8 @@
 name: Latest stack overflow activity
 on:
   schedule:
-    # Runs every 5 minutes
-    - cron: '0 0-23 * * *'
+    # Runs every Monday at midnight
+    - cron: '0 0 * * 1'
   workflow_dispatch:
 permissions:
   contents: write
