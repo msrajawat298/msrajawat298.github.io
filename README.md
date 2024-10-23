@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3](https://github.com/vitabletec/Utilites/issues/3) in [vitabletec/Utilites](https://github.com/vitabletec/Utilites)
-2. ❗️ Opened issue [#10](https://github.com/vitabletec/general-js-toolkit/issues/10) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-3. ❗️ Opened issue [#9](https://github.com/vitabletec/general-js-toolkit/issues/9) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-4. ❗️ Opened issue [#8](https://github.com/vitabletec/general-js-toolkit/issues/8) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-5. ❗️ Opened issue [#5](https://github.com/vitabletec/SnippetMaster/issues/5) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+1. 🎉 Merged PR [#7](https://github.com/vitabletec/SnippetMaster/pull/7) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+2. ❗️ Closed issue [#5](https://github.com/vitabletec/SnippetMaster/issues/5) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+3. ❗️ Closed issue [#2](https://github.com/vitabletec/SnippetMaster/issues/2) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+4. 💪 Opened PR [#7](https://github.com/vitabletec/SnippetMaster/pull/7) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+5. ❗️ Opened issue [#3](https://github.com/vitabletec/Utilites/issues/3) in [vitabletec/Utilites](https://github.com/vitabletec/Utilites)
    <!--END_SECTION:activity-->
    <br/>
 
