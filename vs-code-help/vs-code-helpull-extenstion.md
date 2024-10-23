@@ -60,6 +60,6 @@ Here is a list of some useful VS Code extensions that can help improve your prod
 1. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek): This extension allows you to easily navigate and view CSS definitions in your code.
 1. [Figma vscode extension](https://marketplace.visualstudio.com/items?itemName=figma.figma-vscode-extension)
 1. [Marp for VS Code](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode)
-
+1. [Visualize data structures and algorithms (Debug Visualizer)](https://www.youtube.com/shorts/uehCDW1fxUw)
 
     Overall, these extensions can help you write better code, work more efficiently, and have more fun while doing it. Give them a try and see how they can improve your productivity in VS Code!
