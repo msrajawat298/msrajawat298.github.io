@@ -1,0 +1,190 @@
+{
+	"info": {
+		"_postman_id": "bdf303e2-faa2-496d-827d-c426a529b67e",
+		"name": "sinalite",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://api.sinaliteuppy.com/order/new",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5BSjZ6WUMwWmN2ZjBDOVFMR0htLSJ9.eyJpc3MiOiJodHRwczovL3NpbmFsaXRlLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJNdGhsZzFLeG1jSU5BNHFUQm5yS1M3Z0tnU0M2aE1CZ0BjbGllbnRzIiwiYXVkIjoiaHR0cHM6Ly9hcGljb25uZWN0LnNpbmFsaXRlLmNvbSIsImlhdCI6MTY0ODEyMjczMywiZXhwIjoxNjQ4MjA5MTMzLCJhenAiOiJNdGhsZzFLeG1jSU5BNHFUQm5yS1M3Z0tnU0M2aE1CZyIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.X44h0rSrKTlxRmtpGGBn9KNqJ3KEFdiMAVHwmj1OAQSJk9qalvVaXW0qUXsf_Ei8Ye6rLZA7K0H1hL1-eqXOX9ACO4Qya8T8zffgpbRCuxSrEoQ_Ajk3YqzYvqBDE4jJTqlrYUISZu2VSwrFjPzxU3-a7kvDL_jtrtJ38gGnu1BUUTOyKLUO-HhO1ScN_s3vPUO0wmzMxAl2egB6qxwFWW5m5WsebWG8s2F-P7hLyzv9TiLYwlVK3mho8WjsHGFRzSw29KuwIlpenln_orUipRCx7RX4jEXGxaR6667TPx4tG7VcnLv81LcRIJd2JPU_mJ7ACgegh8Nq5kn4AYfHGg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"items\": [\n        {\n            \"productId\": 1,\n            \"options\": {\n                \"Stock\": \"30\",\n                \"Turnaround\": \"79\",\n                \"Coating\": \"93\",\n                \"Round Corners\": \"540\",\n                \"qty\": \"7\",\n                \"size\": \"4\"\n            },\n            \"files\": [\n                {\n                    \"type\": \"Front\",\n                    \"url\": \"http:\\/\\/www.opsv93.mayank.kushwah.opsusers74.com\\/images\\/orders\\/6\\/314_2_60148681_1_thumb.jpg\"\n                },\n                {\n                    \"type\": \"Back\",\n                    \"url\": \"http:\\/\\/www.opsv93.mayank.kushwah.opsusers74.com\\/images\\/orders\\/6\\/314_2_60148681_2_thumb.jpg\"\n                }\n            ]\n        },\n        {\n            \"productId\": 1,\n            \"options\": {\n                \"Stock\": \"30\",\n                \"Turnaround\": \"140\",\n                \"Coating\": \"93\",\n                \"Round Corners\": \"541\",\n                \"qty\": \"7\",\n                \"size\": \"4\"\n            },\n            \"files\": [\n                {\n                    \"type\": \"Front\",\n                    \"url\": \"http:\\/\\/www.opsv93.mayank.kushwah.opsusers74.com\\/images\\/orders\\/6\\/314_2_5196690_1_thumb.jpg\"\n                },\n                {\n                    \"type\": \"Back\",\n                    \"url\": \"http:\\/\\/www.opsv93.mayank.kushwah.opsusers74.com\\/images\\/orders\\/6\\/314_2_5196690_2_thumb.jpg\"\n                }\n            ]\n        },\n        {\n            \"productId\": 2,\n            \"options\": {\n                \"Stock\": \"30\",\n                \"Turnaround\": \"79\",\n                \"Coating\": \"133\",\n                \"Round Corners\": \"540\",\n                \"qty\": \"9\",\n                \"size\": \"543\"\n            },\n            \"files\": [\n                {\n                    \"type\": \"Front\",\n                    \"url\": \"http:\\/\\/www.opsv93.mayank.kushwah.opsusers74.com\\/images\\/orders\\/6\\/315_2_10031701_1_thumb.jpg\"\n                },\n                {\n                    \"type\": \"Back\",\n                    \"url\": \"http:\\/\\/www.opsv93.mayank.kushwah.opsusers74.com\\/images\\/orders\\/6\\/315_2_10031701_2_thumb.jpg\"\n                }\n            ]\n        }\n    ],\n    \"shippingInfo\": {\n        \"ShipFName\": \"CHirag Patel\",\n        \"ShipLName\": \"CHirag Patel\",\n        \"ShipEmail\": \"chiragk.patel@radixweb.com\",\n        \"ShipAddr\": \"16101 La Grande Drive\",\n        \"ShipAddr2\": \"16101 La Grande Drive\",\n        \"ShipCity\": \"Little Rock\",\n        \"ShipState\": \"AR\",\n        \"ShipZip\": \"72223\",\n        \"ShipCountry\": \"US\",\n        \"ShipPhone\": \"5015015011\",\n        \"ShipMethod\": \"UPS Standard\"\n    },\n    \"billingInfo\": {\n        \"BillFName\": \"CHirag Patel\",\n        \"BillLName\": \"CHirag Patel\",\n        \"BillEmail\": \"chiragk.patel@radixweb.com\",\n        \"BillAddr\": \"16101 La Grande Drive\",\n        \"BillAddr2\": \"16101 La Grande Drive\",\n        \"BillCity\": \"Little Rock\",\n        \"BillState\": \"AR\",\n        \"BillZip\": \"72223\",\n        \"BillCountry\": \"US\",\n        \"BillPhone\": \"5015015011\"\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.sinaliteuppy.com/order/new",
+					"protocol": "https",
+					"host": [
+						"api",
+						"sinaliteuppy",
+						"com"
+					],
+					"path": [
+						"order",
+						"new"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://api.sinaliteuppy.com/order/shippingEstimate",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5BSjZ6WUMwWmN2ZjBDOVFMR0htLSJ9.eyJpc3MiOiJodHRwczovL3NpbmFsaXRlLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJNdGhsZzFLeG1jSU5BNHFUQm5yS1M3Z0tnU0M2aE1CZ0BjbGllbnRzIiwiYXVkIjoiaHR0cHM6Ly9hcGljb25uZWN0LnNpbmFsaXRlLmNvbSIsImlhdCI6MTY0NzMzOTU4NSwiZXhwIjoxNjQ3NDI1OTg1LCJhenAiOiJNdGhsZzFLeG1jSU5BNHFUQm5yS1M3Z0tnU0M2aE1CZyIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.sUHhMQBhCj5ejoNaaQ5mhYFNy5B2wA-lSofZ6dKxHaMOu2P2cSEyBTby45h5yv3nednWo2OBx8Nhx3y6ZpMUq8ytyf3nTJfTcJF3Vib_aGJYFligJkJlMOqiofPHYM4CCL2EBErq8Q7UbhFYkL9nqHSB7xMvHXEoExVWw2loSYWNa0RGO2__ePtcJ7qt5yTDhKii68MIpn9q5qpo2Ei1CSUvyiT7bqCsgj_EI4z-ACqizoxwme5VCWageOTbVCkdFKpe68aC7Lt49ZDi0tEwQF0k2ksCApvgkh8lNtx365FXuBeaSc7vuIsjj4xLW0vrQQKWrEmO_Q3O-8C__SUL8Q",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"items\": [\n        {\n            \"productId\": 1,\n            \"options\": {\n                \"Stock\": \"30\",\n                \"size\": \"4\",\n                \"qty\": \"105\",\n                \"Coating\": \"93\",\n                \"Round Corners\": \"540\",\n                \"Turnaround\": \"140\"\n            }\n        }\n    ],\n    \"shippingInfo\": {\n        \"ShipState\": \"ON\",\n        \"ShipZip\": \"L3R 1G3\",\n        \"ShipCountry\": \"CA\",\n    }\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.sinaliteuppy.com/order/shippingEstimate",
+					"protocol": "https",
+					"host": [
+						"api",
+						"sinaliteuppy",
+						"com"
+					],
+					"path": [
+						"order",
+						"shippingEstimate"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://api.sinaliteuppy.com/auth/token",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n  \"client_id\": \"Mthlg1KxmcINA4qTBnrKS7gKgSC6hMBg\",\n  \"client_secret\": \"cqdevZd9_kWxRb_fpJiddQHE0RRLDRkcbvNUaRNhtw3Pcb_G5V5mmLYf2e9BVhvo\",\n  \"audience\": \"https://apiconnect.sinalite.com\",\n  \"grant_type\": \"client_credentials\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.sinaliteuppy.com/auth/token",
+					"protocol": "https",
+					"host": [
+						"api",
+						"sinaliteuppy",
+						"com"
+					],
+					"path": [
+						"auth",
+						"token"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://api.sinaliteuppy.com/price/14974/9",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik5BSjZ6WUMwWmN2ZjBDOVFMR0htLSJ9.eyJpc3MiOiJodHRwczovL3NpbmFsaXRlLnVzLmF1dGgwLmNvbS8iLCJzdWIiOiJNdGhsZzFLeG1jSU5BNHFUQm5yS1M3Z0tnU0M2aE1CZ0BjbGllbnRzIiwiYXVkIjoiaHR0cHM6Ly9hcGljb25uZWN0LnNpbmFsaXRlLmNvbSIsImlhdCI6MTY1MDk1NjM4MCwiZXhwIjoxNjUxNTYxMTgwLCJhenAiOiJNdGhsZzFLeG1jSU5BNHFUQm5yS1M3Z0tnU0M2aE1CZyIsImd0eSI6ImNsaWVudC1jcmVkZW50aWFscyJ9.b0ekR_gSoRbbJzwPrOrQ9FICvlHI9t6eCcXovGBQ5h9KXOg_x9EFsrPCSnIkdHC5XXohOKevQkVHMLBPOhZYM984cojmGbpKb02xmFp9pKTvS6OFNMGhDKlB8TXOzCYSxaidPT-MovgzL62J9_1Q49nMb7ne4U-LP7-n48kx8LjO03SDQ0yjV7QxPI1DlIFFEZjwtsTbq9m9Vgb4FfVHpY4QiPb6bcdFxHgeYcZK3zji3YCAAMp7hrnrqvUgpt76hgoo-0VxozMHN_blpKl5KMM_163qrpJcVyCoZfu7ov7bIUsllSDxryKJn_H2sbSnXM7XXnbxK3DmSYn8jSp_Hw",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\"productOptions\": [5,136,701,829]}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://api.sinaliteuppy.com/price/14974/9",
+					"protocol": "https",
+					"host": [
+						"api",
+						"sinaliteuppy",
+						"com"
+					],
+					"path": [
+						"price",
+						"14974",
+						"9"
+					]
+				},
+				"description": "get price"
+			},
+			"response": []
+		},
+		{
+			"name": "https://api.sinaliteuppy.com/product/14974/9",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://api.sinaliteuppy.com/product/14974/9",
+					"protocol": "https",
+					"host": [
+						"api",
+						"sinaliteuppy",
+						"com"
+					],
+					"path": [
+						"product",
+						"14974",
+						"9"
+					]
+				},
+				"description": "get product extra info"
+			},
+			"response": []
+		}
+	]
+}

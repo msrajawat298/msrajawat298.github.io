@@ -1,0 +1,63 @@
+grep -nr "cookiewarning" . --exclude-dir={.svn,cache} --color //for finding any text
+grep -nr "n AuditActivityLog" . --exclude-dir={.svn,cache} --color // for quick find function
+
+-->exclude file name 
+grep -nr 'register_user' . --exclude-dir={.svn,cache,vendor,admin} --exclude={*.js,*.block,*.tpl} --color
+
+========================= Grep Find and replace  ===================================
+grep -lr --exclude-dir=".git" -e "oldword" . | xargs sed -i '' -e 's/oldword/newword/g'
+example
+======
+grep -lr --exclude-dir=".svn" -e "mysql_fetch_assoc" . | xargs sed -i '' -e 's/mysql_fetch_assoc/mysqli_fetch_assoc/g'
+grep -nrl 'product_production_due_date' --exclude-dir={.svn,cache,images} --color
+grep -inr --include \*.h --include \*.cpp CP_Image ~/path[12345] | mailx -s GREP email@domain.example
+That should do what you want.
+
+To take the explanation from HoldOffHunger's answer below:
+
+grep: command
+
+-r: recursively
+
+-i: ignore-case
+
+-n: each output line is preceded by its relative line number in the file
+
+--include \*.cpp: all *.cpp: C++ files (escape with \ just in case you have a directory with asterisks in the filenames)
+
+./: Start at current directory.
+Refs Link :: https://stackoverflow.com/questions/12516937/how-can-i-grep-recursively-but-only-in-files-with-certain-extensions
+
+grep -r --include=\*.txt 'searchterm' ./
+
+echo $cmd =  'grep -nr --include=\*.php "function active_category_tree" '.$root_path. ' --exclude-dir={.svn,cache,js} --exclude=ops_functions_action.php';
+grep: command
+
+-r: recursively
+
+-i: ignore-case
+
+--include: all *.txt: text files (escape with \ just in case you have a directory with asterisks in the filenames)
+
+'searchterm': What to search
+
+./: Start at current directory.
+
+-------------------------------------------------------
+grep -rl 'class MyClass' . --include \*.php
+
+l shows only filename
+
+https://www.baeldung.com/linux/grep-exclude-directories
+ grep -nr --include=\*.php  --exclude-dir=vendor --exclude-dir=thirdparty --exclude=ops_functions_action.php 'function collect' /var/www/html/opsv91/public_html/
+
+also we can use as --exclude-dir=vendor --exclude-dir=thirdparty 
+
+==================================================================
+total file count in grep find result such as :: git status | grep -c "modified"  output ==>33
+
+
+
+
+
+

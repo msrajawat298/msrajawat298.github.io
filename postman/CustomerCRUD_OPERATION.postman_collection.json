@@ -1,0 +1,137 @@
+{
+	"info": {
+		"_postman_id": "f6e7bbd5-f949-4716-932b-37b46ba471f8",
+		"name": "CustomerCRUD_OPERATION",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://www.opsd81.dineshsingh.pal.opsusers.com/api/CorporateAction.php",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "xyz-123-ops-apikey",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "apikey",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{  \n    \"email\": \"fndemo@gmail.com\",\n    \"phone_number\":\"1234567890\",\n    \"password\":\"password\",\n    \"username\":\"username_corp\",\n    \"directory_name\":\"directory_name\",\n    \"corporate_name\":\"corporate_name\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://www.opsd81.dineshsingh.pal.opsusers.com/api/CorporateAction.php",
+					"protocol": "http",
+					"host": [
+						"www",
+						"opsd81",
+						"dineshsingh",
+						"pal",
+						"opsusers",
+						"com"
+					],
+					"path": [
+						"api",
+						"CorporateAction.php"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://www.opsd81.dineshsingh.pal.opsusers.com/api/CorporateAction.php Copy",
+			"protocolProfileBehavior": {
+				"strictSSL": false
+			},
+			"request": {
+				"auth": {
+					"type": "apikey",
+					"apikey": [
+						{
+							"key": "value",
+							"value": "xyz-123-ops-apikey",
+							"type": "string"
+						},
+						{
+							"key": "key",
+							"value": "apikey",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "",
+						"type": "text",
+						"disabled": true
+					},
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text",
+						"disabled": true
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{  \n    \"email\": \"fndemo@gmail.com\",\n    \"phone_number\":\"1234567890\",\n    \"password\":\"password\",\n    \"username\":\"username_corp\",\n    \"directory_name\":\"directory_name\",\n    \"corporate_name\":\"corporate_name\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://www.opsd81.dineshsingh.pal.opsusers.com/api/CorporateAction.php",
+					"protocol": "http",
+					"host": [
+						"www",
+						"opsd81",
+						"dineshsingh",
+						"pal",
+						"opsusers",
+						"com"
+					],
+					"path": [
+						"api",
+						"CorporateAction.php"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

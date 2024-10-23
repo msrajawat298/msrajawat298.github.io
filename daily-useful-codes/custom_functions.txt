@@ -1,0 +1,196 @@
+<canvas id="canvas"></canvas>
+<button onclick="download_image()">Download</button>
+<script>
+/*How to download image from cavas tag...
+ *
+ */
+var c=document.getElementById("canvas");
+var ctx=c.getContext("2d");
+ctx.beginPath();
+ctx.arc(100,75,50,0,2*Math.PI);
+ctx.stroke();
+
+function download_image(){
+  var canvas = document.getElementById("canvas");
+  image = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+  var link = document.createElement('a');
+  link.download = "my-image.png";
+  link.href = image;
+  link.click();
+}
+
+function isEmpty(value=""){
+    return (value == null || value == undefined || value.length == 0);
+}
+
+/**Copy data on click (click to copy) */
+function copy_to_clipboard(element) {
+    if(window.isSecureContext){
+        var copyText = document.getElementsByClassName('popover-body')[0].innerText;
+        navigator.clipboard.writeText(copyText);
+        element.setAttribute("class","fa fa-check-circle text-success float-right");
+        element.setAttribute("title","Data Copied");
+        return true;
+   } 
+   console.log(`%c Please Enable https to enable on clipboard :(`,'font-size:20px; color:red;');
+}
+
+var observer = new MutationObserver(function(mutations) {
+  mutations.forEach(function(mutation) {
+      console.log("🚀 ~ file: custom_functions.txt ~ line 45 ~ mutations.forEach ~ mutation", mutation)
+    if(mutation.attributeName === 'style'){
+      console.log("style change");
+    }
+  });    
+});
+
+// Notify me of style changes
+var observerConfig = {
+	attributes: true, 
+  attributeFilter: ["style"]
+};
+
+var targetNode = document.getElementById('div1');
+observer.observe(targetNode, observerConfig);
+
+function isEmpty(value=""){
+    return (value == null || value == undefined || value.length == 0);
+}
+</script>
+
+
+<?php
+#-show Json Data Tooltip 
+#==========================
+function showJsonDataTooltip($data='',$title='Data')
+{
+    return '<span class="logs" data-container="body" data-toggle="popover" style="white-space:nowrap; overflow:auto" data-placement="top" data-content="'.htmlentities($data).'" title="'.$title.'  <i onclick=copy_to_clipboard(this) type=\'button\' class=\'fa fa-copy text-info float-right\' data-toggle=\'tooltip\' data-placement=\'top\' title=\'Copy data\'></i>"> <a class="nav-link">'. COMMON_VIEW . '</a></span>';
+}
+
+#move_modified_file
+#==============================
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+$array	= array("admin/corporate_action.php");
+$bkp_dir_name = date('dmy'."_".'hms')."/";/**change as you want */
+define('PATH',__DIR__."/");
+define('DEST_PATH',PATH."images/file_backup/".$bkp_dir_name);
+foreach ($array as $filename) {
+	$url2 = PATH.$filename;
+	if(is_file($url2)) {
+		$url = DEST_PATH.$filename;
+		$parts = explode('/', $url);
+		$last = end($parts);
+		$rec_dir_name = substr(substr($url,0,strpos($url,$last)),0,-1);
+		mkdir($rec_dir_name,0755,true);
+		copy ($url2,$url);
+	}
+}
+echo "file copied successfully\n";
+
+#xml beautifier
+function xml_beautifier($xml_data = '')
+{
+    if(empty($xml_data)) return $xml_data;
+    $dom = new \DOMDocument('1.0');
+    $dom->preserveWhiteSpace = true;
+    $dom->formatOutput = true;
+    $dom->loadXML($xml_data);
+    return $dom->saveXML();
+}
+
+#How to Flatten a Multidimensional Array?
+$a = [[10, 20], [30, 40]];
+$b = [["x" => "X", "y" => "Y"], ["p" => "P", "q" => "Q"]];
+print_r(array_merge(...$a));
+print_r(array_merge(...$b));
+
+#How To Print Json data as json beautifier
+echo json_encode($yourJsonData,JSON_PRETTY_PRINT);
+
+#memoize (A function becomes remembered when it is memorized)
+function memoize($func)
+{
+    return function () use ($func) {
+        static $cache = [];
+
+        $args = func_get_args();
+        $key = serialize($args);
+        $cached = true;
+
+        if (!isset($cache[$key])) {
+            $cache[$key] = $func(...$args);
+            $cached = false;
+        }
+
+        return ['result' => $cache[$key], 'cached' => $cached];
+    };
+}
+$memoizedAdd = memoize(
+    function ($num) {
+        return $num + 10;
+    }
+);
+# how to optimize function working...
+# Using this technique, I was able to cut down 300 duplicate queries. in my project
+#======================================
+function function_name (...$arguments)
+{
+    static $function_name_arr = [];
+    #stuff code...
+    $function_name_arr_key = base64_encode(serialize(func_get_args()));
+    if(!empty($getlatestOptionArray) && array_key_exists($function_name_arr_key,$getlatestOptionArray)){
+        $result = $function_name_arr[$function_name_arr_key];
+    }else{
+        /**
+        *    your logic will come here and at last store data in arr
+        */
+        $result = 2+2;
+        $function_name_arr[$function_name_arr_key] = $result;
+    }
+}
+
+#How to debug code in php without die or exit ?
+$print_file = fopen("file_path/filename.txt","a");
+fwrite($print_file,print_r($_REQUEST,true));
+
+/*
+*Are you concerned about the include multiple files and missing during production now no need to worry just use below code. (How to use spl_loder function in daily use in ops.) PRIVATE
+*This code should be copied and pasted into the Function Custom File.
+*and make all the necessary changes
+*Now, You no longer need to be concerned about the model file or other class-containing file. You just create a object and use it.
+*It will automatically include the file when you create the object.
+*/
+spl_autoload_register("autoloader_file");
+function autoloader_file($class) {
+    if (file_exists("FILE_DIR_PATH" . $class . ".php")) {
+        require_once("FILE_DIR_PATH" . $class . ".php");
+    }
+}
+
+echo (posix_getuid())?"This is not root !":"This is root !";//How to know sudo user ?
+
+//how php return only duplicated entries from an array ? 
+
+$duplicate_user_email_arr = array_diff($user_email_arr, array_unique($user_email_arr));
+
+// parse_url()
+
+/**
+ * How to find out where a function is defined using PHP ?
+ */
+
+ //How to find out where a function is defined using PHP ?
+function whereFucntionExist($function_name=""){
+    if(empty($function_name)) return false;
+    $reflFunc = new ReflectionFunction($function_name);
+    print $reflFunc->getFileName() . ':' . $reflFunc->getStartLine();
+}
+
+
+
+  
+?>
+
+How-Create-multi-select-box-to-create-tags:: https://github.com/MSRAJAWAT298/How-Create-multi-select-box-to-create-tags

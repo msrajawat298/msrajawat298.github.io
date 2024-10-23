@@ -19,7 +19,14 @@
   "print_r": {
     "prefix": "_pri",
     "body": [
-      "echo '<br>'.basename(__FILE__).' '.__LINE__.'<pre> data :: '; print_r($$data); echo '</pre>'; exit;"
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> data :: '; print_r($$data); echo '</pre>'; exit;"
+    ],
+    "description": "echo '<pre>'; print_r($data); echo '</pre>;"
+  },
+  "print_r_uday_sir": {
+    "prefix": "pri_",
+    "body": [
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> data :: '; print_r(data); echo '</pre>'; exit;"
     ],
     "description": "echo '<pre>'; print_r($data); echo '</pre>;"
   },
@@ -102,11 +109,96 @@
   "_die": {
     "prefix": "_die",
     "body": ["die(basename(__FILE__).\" : \".__LINE__);"],
-    "description": "die with magic funtion"
+    "description": "die with magic function"
   },
   "console.log": {
     "prefix": "_console",
     "body": ["console.log(`%c ${data}`, 'font-size:50px; color: red;');"],
     "description": "console in color"
+  },
+  "Fopen file log without exit": {
+    "prefix": "pri_F",
+    "body": [
+      "$$print_file = fopen(DIR_WS_IMAGES_TEMPIMAGES.'custom_log.log','a');\nfwrite($$print_file,print_r($$writedata,true));"
+    ],
+    "description": "Fopen file log without exit"
+  },
+  "done": {
+    "prefix": "_done",
+    "body": ["(done ✓)"],
+    "description": "done"
+  },
+  "opsCount": {
+    "prefix": "_opsCount",
+    "body": [
+      "function opsCount($$value=''){",
+      "   if(is_countable($$value)) return count($$value);",
+      "   return 0;",
+      "}"
+    ],
+    "description": "The code checks if the value is countable and returns a count of the value."
+  },
+  "opsEmpty": {
+    "prefix": "_opsEmpty",
+    "body": [
+      "function opsEmpty($$value=''){",
+      "   if(empty($$value) || is_null($$value)) return true",
+      "   return false;",
+      "}"
+    ],
+    "description": "The code will return true if the value is empty or null."
+  },
+  "error_reporting_on": {
+    "prefix": "_err",
+    "body": [
+      "   ini_set('display_errors', 1);",
+      "   ini_set('display_startup_errors', 1);",
+      "   error_reporting(E_ALL);"
+    ],
+    "description": "error_reporting_on"
+  },
+  "_fullquery": {
+    "prefix": "_fullquery",
+    "body": ["echo $this->getSQL($this->getFullQuery()); exit;"],
+    "description": "Display full query"
+  },
+  "_get_defined_constants": {
+    "prefix": "_get_defined_constants",
+    "body": [
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> get_defined_constants :: '; print_r(get_defined_constants()); echo '</pre>'; exit;"
+    ],
+    "description": "get_defined_constants"
+  },
+  "_debug_backtrace": {
+    "prefix": "_debug",
+    "body": [
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> debug_backtrace :: '; print_r(debug_backtrace()); echo '</pre>'; exit;"
+    ],
+    "description": "debug_backtrace"
+  },
+  "_backtrace_function": {
+    "prefix": "_backtrace_function",
+    "body": [
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> whereFucntionExist :: '; print_r(whereFucntionExist('your_function_name')); echo '</pre>'; exit;"
+    ],
+    "description": "debug_backtrace"
+  },
+  "whereFucntionExist": {
+    "prefix": "_whereFucntionExist",
+    "body": [
+      "function whereFucntionExist($$function_name=''){",
+      "if(empty($$function_name)) return false;",
+      "   $$reflFunc = new ReflectionFunction($$function_name);",
+      "   return $$reflFunc->getFileName() . ':' . $$reflFunc->getStartLine();",
+      "}"
+    ],
+    "description": "The code checks if the value is countable and returns a count of the value."
+  },
+  "debugDumpParams": {
+    "prefix": "_sqldebug",
+    "body": [
+      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> data :: '; print_r($$Object->debugDumpParams()); echo '</pre>'; exit;"
+    ],
+    "description": "_sqldebug"
   }
 }
