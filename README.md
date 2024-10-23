@@ -163,16 +163,12 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4KuOL4QAD3g"><img width="140px" src="https://i.ytimg.com/vi/4KuOL4QAD3g/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4KuOL4QAD3g">#msrajawat298 #portfolio #ahmedabhad #gooutsidetheworld #trip #life</a><br/>Feb 16, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=OStGcmfRMcI"><img width="140px" src="https://i.ytimg.com/vi/OStGcmfRMcI/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OStGcmfRMcI">12 February 2023</a><br/>Feb 12, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=C9g8MfXE1K0"><img width="140px" src="https://i.ytimg.com/vi/C9g8MfXE1K0/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C9g8MfXE1K0">#msrajawat298 #portfolio</a><br/>Feb 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=-TXO2hO-VYM"><img width="140px" src="https://i.ytimg.com/vi/-TXO2hO-VYM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-TXO2hO-VYM">Indore &amp; Ujjain: A Memorable Trip with My Friend, Shopping, Bowling and More</a><br/>Feb 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=LEinRnXVD3M"><img width="140px" src="https://i.ytimg.com/vi/LEinRnXVD3M/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LEinRnXVD3M">Discovering the Spiritual Beauty of Indore &amp; Ujjain: A Journey Through India</a><br/>Feb 10, 2023</td></tr></table>
+<!-- BLOG-POST-LIST:START -->
+- [A Guide to Updating OpenStreetMap &lpar;OSM&rpar; Data in PostgreSQL/PostGIS Database Using osm2pgsql](https://blog.vitabletech.in/a-guide-to-updating-openstreetmap-osm-data-in-postgresql-postgis-database-using-osm2pgsql/)
+- [Code with Superpowers: Free Path to Top Software Development](https://blog.vitabletech.in/code-with-superpowers-free-path-to-top-software-development/)
+- [Is ChatGPT going to make SQL obsolete?](https://blog.vitabletech.in/is-chatgpt-going-to-make-sql-obsolete/)
+- [How to integrate WordPress site with AWS-3 without plugin](https://blog.vitabletech.in/how-to-integrate-wordpress-site-with-aws-3-without-plugin/)
+- [How to Ask Questions with ChatGPT: A Guide to Asking Questions with OpenAI’s Language Model](https://blog.vitabletech.in/how-to-ask-questions-with-chatgpt-a-guide-to-asking-questions-with-openais-language-model/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
