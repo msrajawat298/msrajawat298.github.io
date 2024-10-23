@@ -54,12 +54,34 @@
   - Why use custom hooks?
     - Share logic (alternative to HOCs and Render Props)
     - How to create custom hooks?
-- [Styled Components in react](https://www.youtube.com/watch?v=FSCSdAlLsYM&list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM&index=1&ab_channel=Codevolution)
+- [Styled Components in react](https://www.youtube.com/watch?v=FSCSdAlLsYM&list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM&index=1&ab_channel=Codevolution) 
+
+  ```yarn/npm install style-components```
 - [React Router](https://www.youtube.com/watch?v=UWYOC8g5N_0&list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG&ab_channel=Codevolution)
+  
+  ```yarn/npm install react-router-dom```
 - [React Redux](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&ab_channel=Codevolution)
+  - React is a library used to build user interfaces
+  - Redux is a library for managing state in a predictable way in JavaScript applications
+  - React-redux is a library that provides bindings to use React and Redux together in an application
+  - ```npm install redux```
+  - Three Core Concepts
+    - A store that holds the state of your application.
+    - An action that describes the changes in the state of the application.
+    - A reducer which actually carries out the state transition depending on the action.
+  - First Principle
+    - The state of your whole application is stored in an object tree within a single store
+    - Maintain our application state in a single object which would be managed by the Redux store
+  - Second Principle
+    - The only way to change the state is to emit an action, an object describing what happened
+    - To update the state of your app, you need to let Redux know about that with an action Not allowed to directly update the state object
+  - Third Principle
+    - To specify how the state tree is transformed by actions, you write pure reducers"
+    - Reducer - (previousState, action) => newState
 - [Redux Toolkit](https://www.youtube.com/watch?v=0awA5Uw6SJE&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3&ab_channel=Codevolution)
 - [React Table](https://www.youtube.com/watch?v=YwP4NAZGskg&list=PLC3y8-rFHvwgWTSrDiwmUsl4ZvipOw9Cz&ab_channel=Codevolution)
 - [React Formik](https://www.youtube.com/watch?v=a94FOvaBomQ&list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu&ab_channel=Codevolution)
+- ```yarn add formik```
 - [React Practical](https://www.youtube.com/watch?v=LZhwNGpiTEI&list=PLC3y8-rFHvwhAh1ypBvcZLDO6I7QTY5CM&ab_channel=Codevolution)
 ## Reference Links
 - [W3Schools React Hooks](https://www.w3schools.com/react/react_hooks.asp)
