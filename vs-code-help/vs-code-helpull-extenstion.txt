@@ -27,3 +27,4 @@ https://vscode.one/new-tab-vscode/
 
 Blackbox — Code as fast as you think
 https://www.useblackbox.io/search
+PHPDoc Generator
