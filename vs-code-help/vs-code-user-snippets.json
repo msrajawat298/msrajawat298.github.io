@@ -23,34 +23,20 @@
     ],
     "description": "echo '<pre>'; print_r($data); echo '</pre>;"
   },
-  "print_r_uday_sir": {
-    "prefix": "pri_",
-    "body": [
-      "echo '<br>MAYANK '.basename(__FILE__).' '.__LINE__.'<pre> data :: '; print_r(data); echo '</pre>'; exit;"
-    ],
-    "description": "echo '<pre>'; print_r($data); echo '</pre>;"
-  },
-
   "ajax": {
     "prefix": "_ajax",
     "body": [
       "$.ajax({",
       "url: 'url.php',",
       "type: 'POST',",
-      "data: {id:data}",
+      "data: {id:data},",
       "success: function(response){",
-      "alert(response);",
-      "window.location.href = 'url';",
+        "alert(response);",
+        "window.location.href = 'url';",
       "}",
       "});"
     ],
     "description": "ajax function"
-  },
-
-  "foreach": {
-    "prefix": "_for",
-    "body": ["foreach($data as $key=>$value){", "echo $value[$key];", "}"],
-    "description": "foreach loop"
   },
 
   "alertbox": {
@@ -61,46 +47,7 @@
     "description": "bootstrapGrowl alert"
   },
 
-  "addjscode_admin": {
-    "prefix": "addscript",
-    "body": [
-      "{% set jscode %}<script type='text/javascript'>jQuery('#frmuser_register').validate();</script>{% endset %}",
-      "{{ addScript(jscode) }}"
-    ],
-    "description": "addScript(jscode)"
-  },
-
-  "addcomments": {
-    "prefix": "_comphp",
-    "body": [
-      "//=========================changes done by mayank singh==========================//"
-    ],
-    "description": "comment in php"
-  },
-
-  "comments_in_twig": {
-    "prefix": "_#",
-    "body": [
-      "{# // !=========================changes done by mayank singh==========================// #}"
-    ],
-    "description": "comment in twig"
-  },
-
-  "comments_in_php": {
-    "prefix": "_?",
-    "body": [
-      "// ?=========================changes done by mayank singh==========================//"
-    ],
-    "description": "Query comments"
-  },
-
-  "comments_in_php2": {
-    "prefix": "_!",
-    "body": [
-      "// !=========================add by mayank singh==========================//"
-    ],
-    "description": "comment ! in php"
-  },
+  
   "print_R": {
     "prefix": "_R",
     "body": ["<pre>attribute :: {{print_r(attribute)}}</pre>"],
@@ -128,10 +75,10 @@
     "body": ["(done ✓)"],
     "description": "done"
   },
-  "opsCount": {
-    "prefix": "_opsCount",
+  "phpCount": {
+    "prefix": "_Count",
     "body": [
-      "function opsCount($$value=''){",
+      "function phpCount($$value=''){",
       "   if(is_countable($$value)) return count($$value);",
       "   return 0;",
       "}"
@@ -139,9 +86,9 @@
     "description": "The code checks if the value is countable and returns a count of the value."
   },
   "opsEmpty": {
-    "prefix": "_opsEmpty",
+    "prefix": "_Empty",
     "body": [
-      "function opsEmpty($$value=''){",
+      "function phpEmpty($$value=''){",
       "   if(empty($$value) || is_null($$value)) return true",
       "   return false;",
       "}"
@@ -156,11 +103,6 @@
       "   error_reporting(E_ALL);"
     ],
     "description": "error_reporting_on"
-  },
-  "_fullquery": {
-    "prefix": "_fullquery",
-    "body": ["echo $this->getSQL($this->getFullQuery()); exit;"],
-    "description": "Display full query"
   },
   "_get_defined_constants": {
     "prefix": "_get_defined_constants",
