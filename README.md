@@ -152,11 +152,11 @@
 # <a href="https://stackoverflow.com/users/9578353/msrajwat298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msrajwat298" height="30" width="40" /></a> StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+- [Unable to log in using my React app due to cross error](https://stackoverflow.com/questions/76345428/unable-to-log-in-using-my-react-app-due-to-cross-error)
 - [Answer by msrajwat298 for Necessary changes required to use import {general_js} from &#39;general-js-toolkit&#39; instead of import {checkIsEmpty} from &#39;general-js-toolkit/dist/util&#39;](https://stackoverflow.com/questions/76214905/necessary-changes-required-to-use-import-general-js-from-general-js-toolkit/76218298#76218298)
 - [How I can append the keyword in the url ? in wordpress site?](https://stackoverflow.com/questions/76015926/how-i-can-append-the-keyword-in-the-url-in-wordpress-site)
 - [Answer by msrajwat298 for I have created one node js file to list out all files in my file system , When I am trying to download file its size is changed in node js](https://stackoverflow.com/questions/75528855/i-have-created-one-node-js-file-to-list-out-all-files-in-my-file-system-when-i/75531888#75531888)
 - [I have created one node js file to list out all files in my file system , When I am trying to download file its size is changed in node js](https://stackoverflow.com/questions/75528855/i-have-created-one-node-js-file-to-list-out-all-files-in-my-file-system-when-i)
-- [Answer by msrajwat298 for when checkbox is checked, change background color of div](https://stackoverflow.com/questions/74720108/when-checkbox-is-checked-change-background-color-of-div/74720241#74720241)
 <!-- STACKOVERFLOW:END -->
   <br/>
 
