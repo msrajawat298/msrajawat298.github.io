@@ -44,10 +44,13 @@ Windows: VSDC Free Video Editor, Shotcut, OpenShot, Lightworks
 Mac: iMovie, Blender, DaVinci Resolve, Avidemux
 You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge or edit videos.
 
-- [clipchamp](https://clipchamp.com/en/pricing/)
+- [Best all in one video editor](https://www.flexclip.com/create/short-video.html)
+- [kapwing.com](https://kapwing.com)
 - [clipchamp](https://clipchamp.com/en/)
 - [runwayml](https://runwayml.com/)
 - [123apps](https://123apps.com/)
+- [youtube-shorts-maker](https://flixier.com/tools/youtube-shorts-maker)
+- [short-videos](https://www.veed.io/create/short-videos)
 
 ## Online Image edit tools :
 

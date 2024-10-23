@@ -14,6 +14,16 @@
 * RosettaCodeData: A repository for code snippets for different programming languages. Visit [https://github.com/acmeism/RosettaCodeData/blob/master/Lang/PHP/100-doors](https://github.com/acmeism/RosettaCodeData/blob/master/Lang/PHP/100-doors)  
 * H4cker: A repository that contains various resources and tools related to hacking and cybersecurity. Visit [https://github.com/The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker).
 * [auto_gpt](https://news.agpt.co/)
+## Next/rect project related repos::
+* [Dey-Sumit](https://github.com/Dey-Sumit)
+* [Codevolution](https://github.com/gopinav)
+* [AshamaLuevMusic - Mood](https://www.ashamaluevmusic.com/mood) - A website where you can explore different moods and find corresponding music compositions by AshamaLuev.
+* [Accel-Byte - Stack Underflow](https://github.com/Accel-Byte/Stack-Underflow) - A project by Accel-Byte that aims to provide a platform similar to Stack Overflow for developers to ask and answer questions.
+* [Adrian Hajdin's Repositories](https://github.com/adrianhajdin?tab=repositories) - Adrian Hajdin's GitHub profile, which includes a collection of repositories related to various projects he has worked on.
+* [OrbiMind](https://github.com/orbimind/) - A GitHub profile belonging to OrbiMind, containing repositories related to machine learning, deep learning, and other AI-related projects.
+* [SunDi3yansyah - SunQA](https://github.com/SunDi3yansyah/SunQA) - SunQA is a GitHub repository by SunDi3yansyah, focusing on a question-and-answer platform.
+* [b4u7 - StackUnderflow](https://github.com/b4u7/StackUnderflow) - StackUnderflow is a project by b4u7, aiming to create a platform similar to Stack Overflow.
+* [aminrashidbeigi - StackOverflow](https://github.com/aminrashidbeigi/stackoverflow) - StackOverflow is a GitHub repository by aminrashidbeigi, related to a project that may be similar to the popular programming Q&A website.
 
 ## learn about how this extenstion is working?
 [powermode](https://github.com/hoovercj)
