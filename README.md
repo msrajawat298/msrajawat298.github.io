@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#44](https://github.com/vitabletech/SnippetMaster/issues/44) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-2. 🗣 Commented on [#29](https://github.com/vitabletech/SnippetMaster/issues/29#issuecomment-1650122457) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-3. ❗ Opened issue [#43](https://github.com/vitabletech/SnippetMaster/issues/43) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-4. ❗ Opened issue [#42](https://github.com/vitabletech/SnippetMaster/issues/42) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-5. 🔒 Closed issue [#18](https://github.com/vitabletech/SnippetMaster/issues/18) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+1. 🎉 Merged PR [#45](https://github.com/vitabletech/SnippetMaster/pull/45) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+2. 💪 Opened PR [#45](https://github.com/vitabletech/SnippetMaster/pull/45) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+3. ❗ Opened issue [#44](https://github.com/vitabletech/SnippetMaster/issues/44) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+4. 🗣 Commented on [#29](https://github.com/vitabletech/SnippetMaster/issues/29#issuecomment-1650122457) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+5. ❗ Opened issue [#43](https://github.com/vitabletech/SnippetMaster/issues/43) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
