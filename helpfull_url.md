@@ -150,7 +150,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [https://gist.github.com/hootlex/da59b91c628a6688ceb1](https://gist.github.com/hootlex/da59b91c628a6688ceb1)
 
 ## EMAIL TEMPLATE
-
+- [campaignmonitor](https://www.campaignmonitor.com/email-templates)
 - [https://www.mailgun.com/](https://www.mailgun.com/)
 - [https://stripo.email/](https://stripo.email/)
 - [https://unlayer.com/templates](https://unlayer.com/templates)
