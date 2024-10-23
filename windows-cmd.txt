@@ -7,3 +7,5 @@ netsh wlan show profile name=labnol key=clear | findstr Key
 
 =========================================
 win + alt + r OR win+G (record video without any 3rd party software)
+
+winget upgrade --all

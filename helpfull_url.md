@@ -11,7 +11,12 @@
 - [https://www.useblackbox.io/search](https://www.useblackbox.io/search)
 - [bigspeak.ai/](https://bigspeak.ai/)
 - [tinywow](https://tinywow.com/)
-
+- [Create ppt with AI](decktopus.com)
+- [screenstyler](http://screenstyler.com/)
+- [oxolo Create Video Ads In One Click](https://www.oxolo.com/pricing)
+- [convert code](https://www.codeconvert.ai/free-converter)
+- [Tabnine AI Autocomplete code](https://www.tabnine.com/install)
+- [alternative chatgpt](https://www.phind.com/)
 ## Get free
 
 - [Get online free certificates](https://cursa.app/)
@@ -147,7 +152,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [https://gist.github.com/hootlex/da59b91c628a6688ceb1](https://gist.github.com/hootlex/da59b91c628a6688ceb1)
 - [https://toffeeshare.com/](https://toffeeshare.com/)
 - [https://send-anywhere.com/](https://send-anywhere.com/)
-- [hdtoday](https://hdtoday.sc/country/india/ //hdtoday )
+- [hdtoday](https://hdtoday.sc/country/india/)
 - [https://1lib.in/](https://1lib.in/)
 - [https://www.freefileconvert.com/](https://www.freefileconvert.com/)
 - [https://app.flowcv.com/](https://app.flowcv.com/)
@@ -158,6 +163,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 ## Download books
 - [talk to books](https://books.google.com/talktobooks/)
 - [https://pdfsbooks.com/](https://pdfsbooks.com/)
+- [libgen](https://libgen.is/)
 
 ## Virtual System::
 
@@ -217,10 +223,11 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 
 ## UseFull Github URL ::
 
+- [meilisearch Create your own search engine](https://github.com/meilisearch)
 - [To do with msrajawat298](https://github.com/msrajawat298/msrajawat298/)
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
 - [The Algorithms](https://github.com/orgs/TheAlgorithms/repositories)
-  [EbookFoundation free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+- [EbookFoundation free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 - [techinterviewhandbook](https://www.techinterviewhandbook.org/algorithms/array/)
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md)
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
@@ -234,3 +241,22 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 
 ## Other Useful sites ::
 - [get video clip](https://getyarn.io)
+- [Automate your workflow](https://zapier.com/)
+- [Check plagiarism](https://corrector.app/plagiarism-checker/)
+- [generate radom data](https://namso-gen.com/generate/)
+- [html enmities code](https://www.toptal.com/designers/htmlarrows/)
+- [Google index search](https://lumpysoft.com/)
+## Contract & Agreements For everything sites ::
+  - [hellobonsai](https://www.hellobonsai.com/)
+  - [bookipi](https://bookipi.com/)
+
+
+## Download & watch movie & series ::
+  - [swatchseries](https://swatchseries.is/)
+  - [bollyflix](https://bollyflix.tel/)
+  - [9xmovie](https://www.9xmovie.buzz/)
+  - [moviesmod](https://moviesmod.net.in/)
+  - [sdmoviespoint](https://sdmoviespoint.run/)
+### Decorate your Home ::
+  -[roomGPT.io](https://www.roomgpt.io/)
+  -[reimaginehome](https://www.reimaginehome.ai/)
