@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/vitabletech/react-vite-starter-app-template/pull/5) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
-2. 💪 Opened PR [#5](https://github.com/vitabletech/react-vite-starter-app-template/pull/5) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
-3. 🎉 Merged PR [#4](https://github.com/vitabletech/react-vite-starter-app-template/pull/4) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
-4. 💪 Opened PR [#4](https://github.com/vitabletech/react-vite-starter-app-template/pull/4) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
-5. 🎉 Merged PR [#2](https://github.com/vitabletech/react-vite-starter-app-template/pull/2) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
+1. ❗ Opened issue [#58](https://github.com/vitabletech/SnippetMaster/issues/58) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+2. ❗ Opened issue [#57](https://github.com/vitabletech/SnippetMaster/issues/57) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+3. 🎉 Merged PR [#5](https://github.com/vitabletech/react-vite-starter-app-template/pull/5) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
+4. 💪 Opened PR [#5](https://github.com/vitabletech/react-vite-starter-app-template/pull/5) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
+5. 🎉 Merged PR [#4](https://github.com/vitabletech/react-vite-starter-app-template/pull/4) in [vitabletech/react-vite-starter-app-template](https://github.com/vitabletech/react-vite-starter-app-template)
    <!--END_SECTION:activity-->
    <br/>
 
