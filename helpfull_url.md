@@ -77,6 +77,7 @@ TECHNICAL
 *   [https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git\_HowTo.html](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html )
 *   [https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL\_Beginner.html](https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html )
 *   [free-css-templates](https://www.free-css.com/free-css-templates )
+*   [php the right way](https://phptherightway.com/ )
 
 All IN one CODE Generator ::
 ----------------
