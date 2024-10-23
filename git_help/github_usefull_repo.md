@@ -26,6 +26,6 @@
 * [b4u7 - StackUnderflow](https://github.com/b4u7/StackUnderflow) - StackUnderflow is a project by b4u7, aiming to create a platform similar to Stack Overflow.
 * [aminrashidbeigi - StackOverflow](https://github.com/aminrashidbeigi/stackoverflow) - StackOverflow is a GitHub repository by aminrashidbeigi, related to a project that may be similar to the popular programming Q&A website.
 
-## learn about how this extenstion is working?
+## learn about how this extension is working?
 [powermode](https://github.com/hoovercj)
 [turbo-console-log](https://github.com/Chakroun-Anas/turbo-console-log)

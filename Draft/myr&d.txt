@@ -1,0 +1,104 @@
+https://github.com/code-dexterous/grapesjs-example-react
+https://www.youtube.com/watch?v=2wBoUgv6ObE&ab_channel=CampCodes
+https://github.com/girishgr8/Resume-Builder
+https://www.layoutit.com/
+https://github.com/givanz/VvvebJs
+https://desicard.in/	
+https://digitalcard.arunil.in/
+https://digi.arunil.in/admin/login.php
+https://digi.arunil.in/
+https://dinkarsolution.in/digital-business-card-source-code-in-php-digital-visiting-card-maker-source-code/
+https://www.kashipara.com/profile/
+https://nullphpscript.com/
+https://nullpress.net/
+https://nullpress.net/free-download-coupon-offer-app-react-native-theme/
+https://nullpress.net/free-download-cave-time-racing-car-game-construct-3-c3p-html5-admob-and-fb-instant-ready/
+https://github.com/vishnuraghavb/EnBizCard
+https://enbizcard.vishnuraghav.com/
+https://enbizcard.vishnuraghav.com/demo/
+https://codelist.cc/
+https://quickvcard.codentheme.com/admin/vcards.php /admin/admin
+https://www.bignulled.com/free-download-quickvcard-digital-business-card-saas-php-script-nulled-latest-version/
+https://www.bignulled.com/
+https://www.bignulled.com/free-download-quickvcard-digital-business-card-saas-php-script-nulled-latest-version/
+https://www.bignulled.com/free-download-4games-bundle-html5-pwa-game-portal-bundle-nulled-latest-version/
+
+https://github.com/benbjohnson/playback.js
+https://jquery-plugins.net/jquery-hero-slider
+hero js
+https://splidejs.com/
+https://codepen.io/Fyresite/pen/YRmezy
+https://codepen.io/thewebdev12/pen/wxxdep
+https://codepen.io/nsom/pen/VbqLew
+https://dimsemenov.com/plugins/magnific-popup/
+https://www.wufoo.com/form-builder/
+https://stackoverflow.com/questions/7208161/focus-next-element-in-tab-index
+https://www.devopsschool.com/blog/how-to-downgrade-php-from-8-0-0-to-7-1-32-in-xampp-8-0-0/
+
+
+
+https://relocate.me/ //International jobs
+https://checkio.org/
+https://cyber-dojo.org/
+https://www.codingame.com/
+https://screeps.com/
+https://codecombat.com/
+https://experiments.withgoogle.com/collection/ai
+https://www.skyscanner.co.in/ //cheap flight
+
+
+Personal Information:
+What is your favorite hobby?
+How many siblings do you have?
+Where were you born?
+What do you do in your free time?
+Which is your favorite book?
+Career:
+What inspired you to choose this career?
+How long have you been working here?
+What are your career goals?
+Can you describe your typical workday?
+Do you have any mentors in your field?
+Education:
+What did you major in at university?
+Can you recommend any good books on this subject?
+Which school did you attend?
+What was your favorite subject in school?
+
+
+
+tools ::
+GSAP
+ScrollTrigger
+3 js
+SHADERS
+https://locomotive.ca/en
+CANVAS
+MobaXterm
+
+
+What is SOLID, why we need these principles and
+SRP explained ?
+It is combination of 5 design principles such as:
+S - Single Responsibility Principle (SRP)
+O - Open/Closed Principle (ORP)
+L - Liskov Substitution Principle (LSP)
+I - Interface Segregation Principle (ISP)
+D - Dependency Inversion Principle (DIP)
+Why we need SOLID or its benefits
+- Better Testability
+- Reduces coupling
+- Removes Duplication
+- Increases Readability
+- Increases Extensibility
+SRP says :-
+- A class/method should have one reason to change
+- A class/method should have only one responsibility
+- A class/method should be related to a single
+
+
+
+https://zorin.com/os/
+https://github.com/nektos/act
+https://bennettfeely.com/
+https://react-hook-form.com/
