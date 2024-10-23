@@ -5,17 +5,29 @@
 <h2 align="center">Welcome To My Repository</h2>
 <p align="center">Mr. Mayank Singh Kushwah </p>
 
+---
+
 <p align="center">Welcome to my GitHub profile. <br />I'm a software engineer with a passion for creating user-focused applications that make people's lives easier. </p>
 </p>
 <br />
 
 <p align="center">
-  <img style="width:50%" src="https://github-readme-stackoverflow.vercel.app/?userID=9578353" alt="msrajawat298" />
+  <img style="width:50%" src="https://github-readme-stackoverflow.vercel.app/?userID=9578353" alt="msrajawat298" /><br/>
 <!--Random Jokes Card -->
-<img style="width:50%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img style="width:100%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/>
 </p>
 
+<p align="center">
+  <a href="https://www.youtube.com/c/MAYANKSINGHKUSHWAH"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/msrajawat298/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dev.to/msrajawat298"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://linktr.ee/msrajawat298"><img src="https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white"></a>
+</p>
+<br />
+
 ## How I'm Growing and Evolving as a Developer
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=msrajawat298&label=Profile%20views&color=0e75b6&style=flat" alt="msrajawat298" />
@@ -24,15 +36,22 @@
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=msrajawat298&flat" alt="msrajawat298" />
 </p>
 
+---
+
 ## How I'm Documenting My Journey as a Developer on GitHub
 
 - 👨‍💻 All of my projects are available at [https://github.com/MSRAJAWAT298](https://github.com/MSRAJAWAT298)
 - 📝 I write articles on [Click me to Know more](https://www.mayanksinghkushwah.in/)
 - 📫 How to reach me **https://msrajawat298.business.site/**
 - 📄 Know about my experiences [My Resume](https://github.com/MSRAJAWAT298/msrajawat298/blob/main/Resume-Mr.-MAYANK-SINGH-KUSHWAH.pdf)
+- 📺 I make contents on [YouTube](https://www.youtube.com/@msrajawat298)<br>
+
+<h3 align="center">⬇ Scroll down to see <a href="https://github.com/msrajawat298?tab=repositories">My repos</a>! ⭐ Stars are appreciated!</h3>
 
 <br/>
   <h3 align="left">Connect with me:</h3>
+  
+  ---
   <br/>
   <p align="left">
     <a href="https://codepen.io/msrajawat298" target="blank">
@@ -47,7 +66,7 @@
     <a href="https://linkedin.com/in/msrajwat298" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msrajwat298" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/msrajwat298" target="blank">
+    <a href="https://stackoverflow.com/users/9578353/msrajwat298" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msrajwat298" height="30" width="40" />
     </a>
     <a href="https://fb.com/msrajwat298" target="blank">
@@ -64,6 +83,9 @@
     </a>
   </p>
   <h3 align="left">Languages and Tools:</h3>
+
+---
+
   <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
@@ -112,24 +134,50 @@
     </a>
   </p>
   <br>
-  <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msrajawat298&show_icons=true&locale=en&layout=compact" alt="msrajawat298" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=msrajawat298&show_icons=true&locale=en&layout=compact" alt="msrajawat298" />
   </p>
-  <br />
-  <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=msrajawat298&show_icons=true&locale=en" alt="msrajawat298" />
+  
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=msrajawat298&show_icons=true&locale=en" alt="msrajawat298" />
   </p>
-  <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msrajawat298&" alt="msrajawat298" />
+  <p  align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=msrajawat298&" alt="msrajawat298" />
   </p>
+<br/>
+
+# <a href="https://stackoverflow.com/users/9578353/msrajwat298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msrajwat298" height="30" width="40" /></a> StackOverflow Activity
+
+<!-- STACKOVERFLOW:START -->
+<!-- STACKOVERFLOW:END -->
+<br/>
+
+---
+
+# 📕 Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<br/>
+
+---
+
+# 📺 Latest YouTube Videos
+
+<div align="center">
+
+[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/MAYANKSINGHKUSHWAH?sub_confirmation=1)
+
+</div>
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 <br/>
 
-# Blog posts
+---
 
-<!-- BLOG-POST-LIST:START -->
-- [A Guide to Updating OpenStreetMap &lpar;OSM&rpar; Data in PostgreSQL/PostGIS Database Using osm2pgsql](https://blog.vitabletech.in/a-guide-to-updating-openstreetmap-osm-data-in-postgresql-postgis-database-using-osm2pgsql/)
-- [Code with Superpowers: Free Path to Top Software Development](https://blog.vitabletech.in/code-with-superpowers-free-path-to-top-software-development/)
-- [Is ChatGPT going to make SQL obsolete?](https://blog.vitabletech.in/is-chatgpt-going-to-make-sql-obsolete/)
-- [How to integrate WordPress site with AWS-3 without plugin](https://blog.vitabletech.in/how-to-integrate-wordpress-site-with-aws-3-without-plugin/)
-- [How to Ask Questions with ChatGPT: A Guide to Asking Questions with OpenAI’s Language Model](https://blog.vitabletech.in/how-to-ask-questions-with-chatgpt-a-guide-to-asking-questions-with-openais-language-model/)
-<!-- BLOG-POST-LIST:END -->
+# ⚡ Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<br/>
