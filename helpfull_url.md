@@ -222,3 +222,12 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap/blob/master/readme.md)
 - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
 - [Paste your content without losing formatting and get back Markdown or Source HTML](https://puppypaste.com/)
+
+## Create own ebook ::
+- [bookcreator](https://bookcreator.com/pricing/)
+- [bookemon](https://www.bookemon.com/book-from-template.html)
+- [bonusprint](https://www.bonusprint.co.uk/photo-books/start/choose-your-editor)
+
+
+## Other Useful sites ::
+- [get video clip](https://getyarn.io)
