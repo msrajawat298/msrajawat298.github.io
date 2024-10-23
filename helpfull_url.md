@@ -290,3 +290,8 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 ## Password Recovery
 
 * LostMyPass: A website that can recover lost or forgotten passwords for various accounts. Visit [https://www.lostmypass.com/](https://www.lostmypass.com/).
+
+## Run online sql servers
+
+[sqliteonline](https://sqliteonline.com)
+[sqlserver](https://onecompiler.com/sqlserver)
