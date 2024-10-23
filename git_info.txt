@@ -133,3 +133,10 @@ git push origin --delete <oldname>
 Know More ::
 ==============
 https://www.educative.io/answers/how-to-remove-untracked-files-in-git
+
+Using git diff to list all the changed files between two commits ::
+https://www.w3docs.com/snippets/git/how-to-list-all-the-files-in-a-commit.html
+====================================================================================================
+git diff --name-only <start-commit>..<end-commit>
+e.g,	
+	git diff --name-only 48438e4ea1e57f6cde8091b2694217a545c0ccb4..03b1e7e3e3c5ed92cd1e17865f096fb08527d463
