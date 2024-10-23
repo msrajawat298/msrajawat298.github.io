@@ -91,7 +91,7 @@ Gaming sites ::
 ---------------
 
 *   [https://emulatorgames.online/](https://emulatorgames.online/ )
-*   [\-------------------------](------------------------- )
+*   [webcam game](https://webcam.sulat.net/ )
 *   [https://drafterleo.github.io/schulte/](https://drafterleo.github.io/schulte/ )
 *   [https://schultetable.ru/training/en/](https://schultetable.ru/training/en/ )
 
