@@ -72,7 +72,6 @@ talk to books
 fmovies
 https://pdfsbooks.com/
 https://www.renderforest.com/
-https://www.copy.ai/
 https://tuberanker.com/youtube-description-generator
 https://tuberanker.com/youtube-title-generator
 
@@ -125,3 +124,9 @@ https://schultetable.ru/training/en/
 https://codebeautify.org/convert-text-to-handwriting
 https://texttohandwriting.com/ (✓)
 https://scribehow.com/
+
+https://printify.com/
+https://www.franklywearing.com/
+
+https://untools.co/
+https://app.movio.la/
