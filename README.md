@@ -127,4 +127,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Guide to Updating OpenStreetMap &lpar;OSM&rpar; Data in PostgreSQL/PostGIS Database Using osm2pgsql](https://blog.vitabletech.in/a-guide-to-updating-openstreetmap-osm-data-in-postgresql-postgis-database-using-osm2pgsql/)
+- [Code with Superpowers: Free Path to Top Software Development](https://blog.vitabletech.in/code-with-superpowers-free-path-to-top-software-development/)
+- [Is ChatGPT going to make SQL obsolete?](https://blog.vitabletech.in/is-chatgpt-going-to-make-sql-obsolete/)
+- [How to integrate WordPress site with AWS-3 without plugin](https://blog.vitabletech.in/how-to-integrate-wordpress-site-with-aws-3-without-plugin/)
+- [How to Ask Questions with ChatGPT: A Guide to Asking Questions with OpenAI’s Language Model](https://blog.vitabletech.in/how-to-ask-questions-with-chatgpt-a-guide-to-asking-questions-with-openais-language-model/)
 <!-- BLOG-POST-LIST:END -->
