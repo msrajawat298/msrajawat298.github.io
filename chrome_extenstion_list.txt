@@ -1,4 +1,5 @@
-Blackbox - Select. Copy. Paste & Search
+copyfish
+Unlimited Email Tracker by Snov.io
 AdBlock — best ad blocker
 CSS Peeper
 Nimbus Screenshot
@@ -13,3 +14,6 @@ Free Email Tracker by cloudHQ
 Instapaper
 intitle:"webcamXP 5."
 OCR - Image Reader
+Blackbox - Select. Copy. Paste & Search
+send-anywhere for gmail 
+https://www.wordtune.com/
