@@ -74,3 +74,14 @@ https://www.renderforest.com/
 https://www.copy.ai/
 https://tuberanker.com/youtube-description-generator
 https://tuberanker.com/youtube-title-generator
+
+==============================================================================================================================
+                                                TECHNICAL
+==============================================================================================================================
+https://app.codility.com/programmers/
+https://wtools.io/javascript-to-php-converter
+https://www3.ntu.edu.sg/home/ehchua/programming/
+https://www3.ntu.edu.sg/home/ehchua/programming/#clientSide
+https://www3.ntu.edu.sg/home/ehchua/programming/howto/Unix_Basics.html
+https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html
+https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html
