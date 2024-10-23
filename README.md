@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#53](https://github.com/vitabletech/SnippetMaster/issues/53) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-2. 🔒 Closed issue [#29](https://github.com/vitabletech/SnippetMaster/issues/29) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-3. 🗣 Commented on [#29](https://github.com/vitabletech/SnippetMaster/issues/29#issuecomment-1666506579) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-4. 🎉 Merged PR [#52](https://github.com/vitabletech/SnippetMaster/pull/52) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-5. 💪 Opened PR [#52](https://github.com/vitabletech/SnippetMaster/pull/52) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+1. 🚀 Published release [release-v1.4.0](https://github.com/vitabletech/SnippetMaster/releases/tag/v1.4.0) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+2. 🎉 Merged PR [#55](https://github.com/vitabletech/SnippetMaster/pull/55) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+3. 💪 Opened PR [#55](https://github.com/vitabletech/SnippetMaster/pull/55) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+4. 🎉 Merged PR [#54](https://github.com/vitabletech/SnippetMaster/pull/54) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+5. 💪 Opened PR [#54](https://github.com/vitabletech/SnippetMaster/pull/54) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
