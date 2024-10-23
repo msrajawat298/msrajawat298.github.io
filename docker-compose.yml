@@ -1,0 +1,12 @@
+version: '3'
+services:
+  ubuntu_container:
+    image: ubuntu
+    container_name: my_ubuntu_container
+    ports:
+      - 4000:4000
+    volumes:
+      - ${PWD}:/mnt
+    tty: true
+    stdin_open: true
+    command: bash -c "apt-get update && apt-get install -y ruby-full build-essential zlib1g-dev && gem install jekyll bundler && apt-get install -y git && cd /mnt/testing && bundle install && bundle exec jekyll serve --livereload"
