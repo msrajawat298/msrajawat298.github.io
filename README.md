@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Use wget to Clone a Website with All Connected Pages and Create a Log File](https://blog.vitabletech.in/how-to-use-wget-to-clone-a-website-with-all-connected-pages-and-create-a-log-file/)
 - [How I Streamlined My JavaScript Development Process and You Can Too](https://blog.vitabletech.in/how-i-streamlined-my-javascript-development-process-and-you-can-too/)
 - [My Journey Developing a JavaScript Toolkit and Implementing a Process of Complete Development](https://blog.vitabletech.in/my-journey-developing-a-javascript-toolkit-and-implementing-a-process-of-complete-development/)
 - [The Easy Way to Redirect Your old Domain Name to New Domain without Lose Traffic: A Step-by-Step Guide with PHP](https://blog.vitabletech.in/the-easy-way-to-redirect-your-old-domain-name-to-new-domain-without-lose-traffic-a-step-by-step-guide-with-php/)
 - [Streamline Your Project Documentation with GitHub Actions and JSDoc: A Step-by-Step Guide](https://blog.vitabletech.in/streamline-your-project-documentation-with-github-actions-and-jsdoc-a-step-by-step-guide/)
-- [Mastering ReactJS Debugging: The Power of console.trace&lpar;&rpar;](https://blog.vitabletech.in/mastering-reactjs-debugging-the-power-of-console-trace/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
