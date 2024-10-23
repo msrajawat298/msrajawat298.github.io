@@ -23,6 +23,7 @@ To begin your React.js learning journey, follow the official [React.js documenta
 - Lifecycle Methods
 - Component State vs. Redux Confusion
 - React Router
+- What setupTests.js file
 
 ## Best Practices
 
@@ -61,6 +62,7 @@ To begin your React.js learning journey, follow the official [React.js documenta
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 - [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+- [Live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Reference Links
 
@@ -77,3 +79,4 @@ To begin your React.js learning journey, follow the official [React.js documenta
 - [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
 - [Jest Documentation](https://jestjs.io/docs/tutorial-react)
 - [DOM Testing Library Cheatsheet](https://testing-library.com/docs/dom-testing-library/cheatsheet)
+- [running-tests](https://create-react-app.dev/docs/running-tests/)
