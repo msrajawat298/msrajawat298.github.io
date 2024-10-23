@@ -1,4 +1,28 @@
+<canvas id="canvas"></canvas>
+<button onclick="download_image()">Download</button>
 <script>
+/*How to download image from cavas tag...
+ *
+ */
+var c=document.getElementById("canvas");
+var ctx=c.getContext("2d");
+ctx.beginPath();
+ctx.arc(100,75,50,0,2*Math.PI);
+ctx.stroke();
+
+function download_image(){
+  var canvas = document.getElementById("canvas");
+  image = canvas.toDataURL("image/png").replace("image/png", "image/octet-stream");
+  var link = document.createElement('a');
+  link.download = "my-image.png";
+  link.href = image;
+  link.click();
+}
+
+function isEmpty(value=""){
+    return (value == null || value == undefined || value.length == 0);
+}
+
 /**Copy data on click (click to copy) */
 function copy_to_clipboard(element) {
     if(window.isSecureContext){
@@ -9,6 +33,28 @@ function copy_to_clipboard(element) {
         return true;
    } 
    console.log(`%c Please Enable https to enable on clipboard :(`,'font-size:20px; color:red;');
+}
+
+var observer = new MutationObserver(function(mutations) {
+  mutations.forEach(function(mutation) {
+      console.log("🚀 ~ file: custom_functions.txt ~ line 45 ~ mutations.forEach ~ mutation", mutation)
+    if(mutation.attributeName === 'style'){
+      console.log("style change");
+    }
+  });    
+});
+
+// Notify me of style changes
+var observerConfig = {
+	attributes: true, 
+  attributeFilter: ["style"]
+};
+
+var targetNode = document.getElementById('div1');
+observer.observe(targetNode, observerConfig);
+
+function isEmpty(value=""){
+    return (value == null || value == undefined || value.length == 0);
 }
 </script>
 
@@ -124,6 +170,27 @@ function autoloader_file($class) {
 }
 
 echo (posix_getuid())?"This is not root !":"This is root !";//How to know sudo user ?
+
+//how php return only duplicated entries from an array ? 
+
+$duplicate_user_email_arr = array_diff($user_email_arr, array_unique($user_email_arr));
+
+// parse_url()
+
+/**
+ * How to find out where a function is defined using PHP ?
+ */
+
+ //How to find out where a function is defined using PHP ?
+function whereFucntionExist($function_name=""){
+    if(empty($function_name)) return false;
+    $reflFunc = new ReflectionFunction($function_name);
+    print $reflFunc->getFileName() . ':' . $reflFunc->getStartLine();
+}
+
+
+
+  
 ?>
 
-
+How-Create-multi-select-box-to-create-tags:: https://github.com/MSRAJAWAT298/How-Create-multi-select-box-to-create-tags

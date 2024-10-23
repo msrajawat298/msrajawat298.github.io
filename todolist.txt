@@ -35,4 +35,97 @@ https://dev.to/erikaheidi/bootstrapping-a-cli-php-application-in-vanilla-php-4ee
 
 
 manage or create email template for email marketing campaigns
-email template for ecommerce site
+email template for commerce site
+
+Learn More ::
+====================
+https://stackoverflow.com/questions/1152299/what-is-an-object-relational-mapping-framework
+ORM framework
+
+https://linuxize.com/post/how-to-back-up-and-restore-mysql-databases-with-mysqldump/
+mb_detect_encoding
+https://www.w3schools.com/sql/sql_intro.asp
+https://www.w3schools.com/sql/sql_ref_mysql.asp (learn more about sql functions)
+
+
+https://www.phpdeveloper.org.uk/
+https://github.com/pwaring/backup-scripts
+https://github.com/mayanksinghal?tab=repositories
+
+
+Gsap Slider or design
+===============================
+https://greensock.com/forums/topic/17644-vertical-round-carousel/
+https://greensock.com/cube-dial-tutorial/
+https://codepen.io/GreenSock/pen/MWEPpwZ
+https://greensock.com/gsap/
+https://codepen.io/GreenSock/full/DrPzmR
+https://codepen.io/ste-vg/pen/KKPjxyX (use this)
+https://codepen.io/aaroniker/pen/RwwZGmj (use as loader or cupan code )
+what is WebGL
+https://codepen.io/GreenSock/pen/BaarZmV
+https://codepen.io/snorkltv/pen/KKKWEYb/d351c553d86981ff6dcce28fa823ffaa
+
+project domain
+cloud for web developer e.g, aws
+docker
+which version control are you used git, svn , 
+dedicated , or shared hosting
+linux hosting or window hosting
+mvc
+routing
+controler
+midleware
+LAMP, LEMP, MEAN, Node.Js, next.js
+ development stacks like LAMP, LEMP, MEAN, Node.Js
+what is dns and there type
+what do you mean by ssh
+
+
+https://github.com/electron/electron/tree/v16.0.4/docs#readme
+https://github.com/topics/pwa-example (PWA application)
+chrome://inspect/#devices
+what is simulator
+Train simulator
+R&D :: https://clickup.com/pricing
+payment method interview questions and answers
+
+
+I have an hand on  experinse about  work on live project 
+how to do project live. how to handle the issue in live site.
+I have experience of web browser api like indexdb, 
+
+Add in cv about last experience as trainer 
+
+email_template ::
+====================
+https://beefree.io/editor/?template=abandoned-cart&type=emailhttps://beefree.io/editor/?template=abandoned-cart&type=email
+https://stripo.email/pricing/
+https://dashboard.unlayer.com/create/invoice-payment-reminder
+https://topol.io/email-templates
+
+what is indexing in mysql
+what is trigger in mysql
+d/f b/w varchar and char
+
+https://github.com/MoathShraim/Nodejs-rest-api-project-structure-Express/blob/master/app.js
+https://documenter.getpostman.com/view/17828788/UVyoUxSx
+https://apoorvtyagi.tech/javascript-tips-and-best-practices
+
+
+https://www.freecodecamp.org/news/pipe-and-compose-in-javascript-5b04004ac937/
+https://www.geeksforgeeks.org/javascript-pipeline-operator/#:~:text=The%20JavaScript%20Pipeline%20Operator%20(%20%7C%3E,an%20argument%20to%20the%20function.
+
+good practice to prepare cron script n php
+advanced sql interview questions for 10 years experience in sql with php
+https://www.edureka.co/blog/interview-questions/sql-interview-questions
+https://www.sisense.com/blog/8-ways-fine-tune-sql-queries-production-databases/
+
+e-commerce work flow
+when invoice is generated
+
+https://www.zoho.com/books/api/v3/sales-order/#get-a-sales-order
+https://www.buddyboss.com/
+https://demos.buddyboss.com/boss/wp-admin/
+WordPress To Android Plugin
+https://www.accudata.com/

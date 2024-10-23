@@ -129,3 +129,7 @@ git push origin -u <newname>
 And finally if you want to Delete the remote branch:
 
 git push origin --delete <oldname>
+
+Know More ::
+==============
+https://www.educative.io/answers/how-to-remove-untracked-files-in-git

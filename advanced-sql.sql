@@ -83,3 +83,12 @@ mysqldump -uREPLACE_DB_USERNAME -pdeep70 DB_NAME | gzip > EXPORT_FILENAME.gz
 --------------------------------------------
 mysqldump -uREPLACE_DB_USERNAME -pdeep70 --no-data DB_NAME > EXPORT_FILENAME.gz
 
+Issue generated ::
+#1267 - Illegal mix of collations (latin1_general_ci,IMPLICIT) and (latin1_swedish_ci,IMPLICIT) for operation '='
+solution:
+========================================================================================================================
+SELECT table_schema, table_name, column_name, character_set_name, collation_name FROM information_schema.columns WHERE collation_name = 'latin1_general_ci' and table_schema="standard_v91_81" ORDER BY table_schema, table_name,ordinal_position;
+
+SELECT table_schema, table_name, column_name, character_set_name, collation_name FROM information_schema.columns WHERE collation_name = 'latin1_swedish_ci' and table_schema="standard_v91_81" ORDER BY table_schema, table_name,ordinal_position;
+
+ALTER TABLE tbl_name CONVERT TO CHARACTER SET latin1 COLLATE 'latin1_swedish_ci';
