@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Planning Made Easy with Planner Buddy](https://blog.vitabletech.in/planning-made-easy-with-planner-buddy/)
 - [How Planner Buddy Simplifies Event Management](https://blog.vitabletech.in/how-planner-buddy-simplifies-event-management/)
 - [Simplify Your Event Planning with Planner Buddy](https://blog.vitabletech.in/simplify-your-event-planning-with-planner-buddy/)
 - [Boosting Security for Your WordPress Website: 11 Essential Techniques](https://blog.vitabletech.in/getting-unwavering-security-for-your-wordpress-website-top-techniques-and-approaches/)
 - [Launched First Website to Enhance Development](https://blog.vitabletech.in/launched-first-website-to-enhance-development/)
-- [Building Your Own ChatGPT: A Cost-Effective Guide to Creating a Custom Chatbot](https://blog.vitabletech.in/chatbot-application-for-knowledge-assistance/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
