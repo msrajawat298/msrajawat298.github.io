@@ -1,0 +1,60 @@
+# React Concepts and Hooks
+
+- Component
+- Props
+- State
+- Fragment (`<> </>`, we can't pass the key, `<React.Fragment key=1> </React.Fragment>`)
+- Pure Component / Memo (Memo is for functional components, while pure component only for class components. We'll skip pure component since we're focusing on functional components)
+- Refs
+- HOC (Higher Order Component)
+- [Error Boundary](https://youtu.be/DNYXgtZBRPE?si=RGyCfNZ4Gfcdd8Aj)
+- [Hooks](https://youtu.be/cF2lQ_gZeA8)
+  - Hooks are a new feature addition in React version 16.8
+  - Avoid the confusion with the 'this' keyword
+  - Hooks don't contain any breaking changes, ensuring 100% backward compatibility
+  - Reuse stateful logic
+  - Organize logic into reusable isolated units
+  - Hooks can't be used inside class components, but they allow using React features without classes
+  - Hooks don't replace existing knowledge of React concepts
+  - Instead, Hooks provide a more direct API to familiar React concepts
+- Rules of Hooks
+  - "Only Call Hooks at the Top Level"
+  - Don't call Hooks inside loops, conditions, or nested functions
+  - "Only Call Hooks from React Functions"
+  - Call them from within React functional components, not regular JavaScript functions
+- useState Hook
+  - The useState hook adds state to functional components
+  - In classes, state is always an object
+  - useState returns an array with 2 elements: the current state value and a state setter function
+  - New state value depends on the previous state value? You can pass a function to the setter
+  - When dealing with objects or arrays, spread (...) state variable and call the setter function
+- useEffect Hook
+  - The Effect Hook performs side effects in functional components
+  - It's a close replacement for componentDidMount, componentDidUpdate, and componentWillUnmount
+  - [Video Explanation](https://youtu.be/nAuWOnFMlOw)
+  - [Lifecycle Method Comparison](https://youtu.be/8DYlzVUTC7s)
+- useContext & createContext Hook
+  - Context passes data through the component tree without manual prop passing at every level
+- useReducer Hook
+  - useReducer is used for state management in React
+  - It's related to reducer functions in JavaScript
+  - useReducer(reducer, initialState)
+  - reducer(currentState, action)
+  - [Video 1](https://youtu.be/BCD2irXaVoE)
+  - [Video 2](https://youtu.be/snzS7-73SEQ)
+- useCallback Hook
+  - [Video](https://youtu.be/IL82CzlaCys)
+- useMemo Hook
+  - [Video](https://youtu.be/qySZIzZvZOY)
+- useRef Hook
+- Custom Hooks
+  - A custom Hook is a JavaScript function starting with "use"
+  - Custom hooks can call other Hooks if required
+  - [Video](https://youtu.be/4yp6T-hF5ZY)
+  - Why use custom hooks?
+    - Share logic (alternative to HOCs and Render Props)
+    - How to create custom hooks?
+
+## Reference Links
+- [W3Schools React Hooks](https://www.w3schools.com/react/react_hooks.asp)
+- [React Official Documentation](https://react.dev/reference/react)
