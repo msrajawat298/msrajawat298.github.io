@@ -1,4 +1,4 @@
-Octotree - GitHub code tree
+HARPA AI | ChatGPT Web Automation Assistant
 Nimbus Screenshot
 30 Seconds of Knowledge
 AdBlock — best ad blocker
@@ -37,3 +37,4 @@ Summarize
 YouTube Summary with ChatGPT
 You.com
 Casper AI
+Careerflow LinkedIn Optimization

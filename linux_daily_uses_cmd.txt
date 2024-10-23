@@ -114,6 +114,8 @@ How to Get the Size of a Directory in Linux
 du -h /var/ | sort -rh | head -5  (learn More https://linuxize.com/post/how-get-size-of-file-directory-linux/)
 Find Large Files in Linux : https://linuxize.com/post/find-large-files-in-linux/
 
+How to Use wget to Clone a Website with All Connected Pages and Create a Log File:
+wget --mirror --convert-links --adjust-extension --page-requisites --no-parent --no-host-directories --execute robots=off --waitretry=10 --retry-connrefused --recursive --level=inf --no-clobber --no-check-certificate --output-file=wget.log <website_url>
 
 
 
