@@ -62,3 +62,10 @@ https://www.freecodecamp.org/learn
 https://www.bigocheatsheet.com/
 https://twostraws.gumroad.com/l/hwp-book-pack
 https://algs4.cs.princeton.edu/
+
+TODO backlog::
+===============
+grpc vs rest
+https://bytebytego.com/
+https://neetcode.io/roadmap
+[20 System Design Concepts ](https://www.youtube.com/watch?v=i53Gi_K3o7I&list=PLot-Xpze53le35rQuIbRET3YwEtrcJfdt)
