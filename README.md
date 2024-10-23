@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank singh Kushwah</h1>
 <h3 align="center">Software Engineer at Radixweb</h3>
-<img src="https://www.canva.com/design/DAE26DuAObU/7TVclkXOSpwzw-3BcCTALw/view?utm_content=DAE26DuAObU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" title="Mr. Mayank singh kushwah software  engineer">
+<img src="https://www.canva.com/design/DAE26DuAObU/7TVclkXOSpwzw-3BcCTALw/view?utm_content=DAE26DuAObU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" title="Mr. Mayank singh kushwah software  engineer"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msrajawat298&label=Profile%20views&color=0e75b6&style=flat" alt="msrajawat298" /> </p>
 <p align="left"><img  style="width:100%" src="https://github-profile-trophy.vercel.app/?username=msrajawat298&flat" alt="msrajawat298" /></p>
 
