@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/vitabletec/GeneralJS/pull/1) in [vitabletec/GeneralJS](https://github.com/vitabletec/GeneralJS)
-2. 💪 Opened PR [#1](https://github.com/vitabletec/GeneralJS/pull/1) in [vitabletec/GeneralJS](https://github.com/vitabletec/GeneralJS)
-3. 🎉 Merged PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
-4. 🎉 Merged PR [#2](https://github.com/msrajawat298/msrajawat298/pull/2) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
-5. 💪 Opened PR [#2](https://github.com/info-divyanshuparihar/starforloops/pull/2) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
+1. 🎉 Merged PR [#2](https://github.com/vitabletec/GeneralJS/pull/2) in [vitabletec/GeneralJS](https://github.com/vitabletec/GeneralJS)
+2. 💪 Opened PR [#2](https://github.com/vitabletec/GeneralJS/pull/2) in [vitabletec/GeneralJS](https://github.com/vitabletec/GeneralJS)
+3. 🎉 Merged PR [#1](https://github.com/vitabletec/GeneralJS/pull/1) in [vitabletec/GeneralJS](https://github.com/vitabletec/GeneralJS)
+4. 💪 Opened PR [#1](https://github.com/vitabletec/GeneralJS/pull/1) in [vitabletec/GeneralJS](https://github.com/vitabletec/GeneralJS)
+5. 🎉 Merged PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
    <!--END_SECTION:activity-->
    <br/>
 
