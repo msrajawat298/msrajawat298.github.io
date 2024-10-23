@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com/vitabletec/SnippetMaster/issues/2) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-2. 🎉 Merged PR [#1](https://github.com/vitabletec/SnippetMaster/pull/1) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-3. 💪 Opened PR [#1](https://github.com/vitabletec/SnippetMaster/pull/1) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-4. ❗️ Opened issue [#6](https://github.com/msrajawat298/web-development-practice/issues/6) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
-5. ❗️ Opened issue [#5](https://github.com/msrajawat298/web-development-practice/issues/5) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
+1. ❗️ Opened issue [#5](https://github.com/vitabletec/SnippetMaster/issues/5) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+2. ❗️ Opened issue [#3](https://github.com/vitabletec/SnippetMaster/issues/3) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+3. ❗️ Opened issue [#2](https://github.com/vitabletec/SnippetMaster/issues/2) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+4. 🎉 Merged PR [#1](https://github.com/vitabletec/SnippetMaster/pull/1) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+5. 💪 Opened PR [#1](https://github.com/vitabletec/SnippetMaster/pull/1) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
