@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Launched First Website to Enhance Development](https://blog.vitabletech.in/launched-first-website-to-enhance-development/)
 - [Building Your Own ChatGPT: A Cost-Effective Guide to Creating a Custom Chatbot](https://blog.vitabletech.in/chatbot-application-for-knowledge-assistance/)
 - [Are you finding a software for your team or organization for free?](https://blog.vitabletech.in/magic-of-discord-why-its-a-game-changer/)
 - [How to create users in wordpress ? | A Step-by-Step Tutorial](https://blog.vitabletech.in/how-to-create-users-in-wordpress-a-step-by-step-tutorial/)
 - [From Web to Desktop: Exploring the Magic of NativePHP for PHP Developers](https://blog.vitabletech.in/from-web-to-desktop-exploring-the-magic-of-nativephp-for-php-developers/)
-- [Do you ever use package management into windows?](https://blog.vitabletech.in/do-you-ever-use-package-management-into-windows/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
