@@ -15,7 +15,8 @@
 - [huggingface](https://huggingface.co/pricing)
 - [text2sql](https://www.text2sql.ai/app)
 - [List of all AI toos](https://lachief.io/)
-
+- [Turn text into videos with AI voices](https://fliki.ai/)
+- [The Only AI Tool To Create Animation Videos Using Text](https://www.steve.ai/)
 
 ## Get free
 
@@ -245,6 +246,13 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [Socail media marketing](https://contlo.com/)
 - [telepromptermirror](https://telepromptermirror.com/telepromptersoftware.htm)
 - [tango](https://www.tango.us/pricing)
+- [All size thumbnail creator](https://thumbsup.tv/)
+- [Animate your content now](https://jitter.video/templates/)
+- [free-stock-video](https://mixkit.co/free-stock-video/)
+- [freesound](https://freesound.org/)
+- [Enhance voice recordings for free](https://podcast.adobe.com/enhance)
+- [Font style](https://www.atipofoundry.com/)
+- [Free stack image](https://pixabay.com/)
 
 ### Free Publish site ::
 - [surge.sh](https://surge.sh/pricing)
