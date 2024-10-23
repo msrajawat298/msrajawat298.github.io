@@ -8,8 +8,9 @@
   - [Additional Tips](#additional-tips)
     - [How to Validate File Names Before Commit](#how-to-validate-file-names-before-commit)
     - [How to Validate File Format Before Commit or Format Files After Save](#how-to-validate-file-format-before-commit-or-format-files-after-save)
+- [Reference Link](#reference-link)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#contributing)
 
 ## How to Set Up a Pre-Commit Hook
 
@@ -95,3 +96,15 @@ Add a git hook that runs `prettier` before each commit:
 This will run `prettier` on all the supported files in your repository.
 
 Alternatively, you can use an editor plugin that integrates with `prettier` to format files after saving. For example, the \`prettier-vscode
+
+### Reference Link
+
+-   [Youtube Video Link](https://www.youtube.com/watch?v=ny0xLzhvADk&list=PLitlfQssIkZcS438Or_bwAITthNdB_Fj7)
+-   [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/ )
+-   [Customizing-Git-Git-Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks)
+-   [Git-Hooks](https://www.git-scm.com/docs/githooks)
+-   [Git-Hooks by atlassian](https://www.atlassian.com/git/tutorials/git-hooks)
+-   [Git-Hooks Example](https://github.com/mohokh67/git-hooks-example)
+-   #Commit like a PRO with conventional commit
+-   #Git hooks docs: 
+-   #How to Validate File Name Before Commit like file name does not contained any space , use Capitalization
