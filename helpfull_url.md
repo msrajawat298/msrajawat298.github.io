@@ -11,12 +11,12 @@
 - [https://www.useblackbox.io/search](https://www.useblackbox.io/search)
 - [bigspeak.ai/](https://bigspeak.ai/)
 - [tinywow](https://tinywow.com/)
-- [Create ppt with AI](decktopus.com)
-- [screenstyler](http://screenstyler.com/)
-- [oxolo Create Video Ads In One Click](https://www.oxolo.com/pricing)
-- [convert code](https://www.codeconvert.ai/free-converter)
-- [Tabnine AI Autocomplete code](https://www.tabnine.com/install)
-- [alternative chatgpt](https://www.phind.com/)
+- [ora sh Build your AI](https://ora.sh/)
+- [huggingface](https://huggingface.co/pricing)
+- [text2sql](https://www.text2sql.ai/app)
+- [List of all AI toos](https://lachief.io/)
+
+
 ## Get free
 
 - [Get online free certificates](https://cursa.app/)
@@ -241,22 +241,15 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 
 ## Other Useful sites ::
 - [get video clip](https://getyarn.io)
-- [Automate your workflow](https://zapier.com/)
-- [Check plagiarism](https://corrector.app/plagiarism-checker/)
-- [generate radom data](https://namso-gen.com/generate/)
-- [html enmities code](https://www.toptal.com/designers/htmlarrows/)
-- [Google index search](https://lumpysoft.com/)
-## Contract & Agreements For everything sites ::
-  - [hellobonsai](https://www.hellobonsai.com/)
-  - [bookipi](https://bookipi.com/)
+- [Automate workflows](https://zapier.com/sign-up)
+- [Socail media marketing](https://contlo.com/)
+- [telepromptermirror](https://telepromptermirror.com/telepromptersoftware.htm)
+- [tango](https://www.tango.us/pricing)
 
-
-## Download & watch movie & series ::
-  - [swatchseries](https://swatchseries.is/)
-  - [bollyflix](https://bollyflix.tel/)
-  - [9xmovie](https://www.9xmovie.buzz/)
-  - [moviesmod](https://moviesmod.net.in/)
-  - [sdmoviespoint](https://sdmoviespoint.run/)
-### Decorate your Home ::
-  -[roomGPT.io](https://www.roomgpt.io/)
-  -[reimaginehome](https://www.reimaginehome.ai/)
+### Free Publish site ::
+- [surge.sh](https://surge.sh/pricing)
+- [replit](https://replit.com/)
+- [000webhost](https://in.000webhost.com/)
+- [github page](https://pages.github.com/)
+- [vercel](https://vercel.com/)
+- [cloudflare pages](https://pages.cloudflare.com/)
