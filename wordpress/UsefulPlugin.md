@@ -20,5 +20,6 @@
 * White Label CMS
 * woo-inquire-us-and-disable-add-to-cart-button
 * WooCommerce
+* Duplicate Page and Post
 
 Feel free to explore and utilize these themes and plugins for your WordPress site.
