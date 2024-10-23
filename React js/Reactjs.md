@@ -54,7 +54,13 @@
   - Why use custom hooks?
     - Share logic (alternative to HOCs and Render Props)
     - How to create custom hooks?
-
+- [Styled Components in react](https://www.youtube.com/watch?v=FSCSdAlLsYM&list=PLC3y8-rFHvwgu-G08-7ovbN9EyhF_cltM&index=1&ab_channel=Codevolution)
+- [React Router](https://www.youtube.com/watch?v=UWYOC8g5N_0&list=PLC3y8-rFHvwjkxt8TOteFdT_YmzwpBlrG&ab_channel=Codevolution)
+- [React Redux](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK&ab_channel=Codevolution)
+- [Redux Toolkit](https://www.youtube.com/watch?v=0awA5Uw6SJE&list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3&ab_channel=Codevolution)
+- [React Table](https://www.youtube.com/watch?v=YwP4NAZGskg&list=PLC3y8-rFHvwgWTSrDiwmUsl4ZvipOw9Cz&ab_channel=Codevolution)
+- [React Formik](https://www.youtube.com/watch?v=a94FOvaBomQ&list=PLC3y8-rFHvwiPmFbtzEWjESkqBVDbdgGu&ab_channel=Codevolution)
+- [React Practical](https://www.youtube.com/watch?v=LZhwNGpiTEI&list=PLC3y8-rFHvwhAh1ypBvcZLDO6I7QTY5CM&ab_channel=Codevolution)
 ## Reference Links
 - [W3Schools React Hooks](https://www.w3schools.com/react/react_hooks.asp)
 - [React Official Documentation](https://react.dev/reference/react)
