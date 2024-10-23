@@ -1,6 +1,6 @@
-const english = new Intl.Locale("en");
-const korean = new Intl.Locale("ko");
-const arabic = new Intl.Locale("ar");
+const english = new Intl.Locale('en');
+const korean = new Intl.Locale('ko');
+const arabic = new Intl.Locale('ar');
 
 console.log(english.maximize().baseName);
 // expected output: "en-Latn-US"

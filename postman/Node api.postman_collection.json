@@ -1,107 +1,83 @@
 {
-	"info": {
-		"_postman_id": "381fbda7-d3f7-4e1f-a117-83bec46aca33",
-		"name": "Node api",
-		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
-	},
-	"item": [
-		{
-			"name": "localhost:3000/api/addProducts/",
-			"request": {
-				"method": "POST",
-				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": "  {\n      \"product_category_id\": 1,\n      \"product_name\": \"new Product\",\n      \"product_description\": \"Creative Business Cards to Impress Clients!\",\n      \"price\": 100,\n      \"status\": \"1\"\n  }",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
-				"url": {
-					"raw": "localhost:3000/api/addProducts/",
-					"host": [
-						"localhost"
-					],
-					"port": "3000",
-					"path": [
-						"api",
-						"addProducts",
-						""
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"name": "localhost:3000/api/getProducts/",
-			"request": {
-				"method": "GET",
-				"header": [],
-				"url": {
-					"raw": "localhost:3000/api/getProducts/",
-					"host": [
-						"localhost"
-					],
-					"port": "3000",
-					"path": [
-						"api",
-						"getProducts",
-						""
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"name": "localhost:3000/api/updateProducts/product_id",
-			"request": {
-				"method": "PUT",
-				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n    \"product_name\": \"Standard Bussiness Cards\",\n    \"product_description\": \"Creative Business Cards to Impress Clients!\",\n    \"price\": 10\n}",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
-				"url": {
-					"raw": "localhost:3000/api/updateProducts/2",
-					"host": [
-						"localhost"
-					],
-					"port": "3000",
-					"path": [
-						"api",
-						"updateProducts",
-						"2"
-					]
-				}
-			},
-			"response": []
-		},
-		{
-			"name": "localhost:3000/api/deleteProducts/product_id",
-			"request": {
-				"method": "DELETE",
-				"header": [],
-				"url": {
-					"raw": "localhost:3000/api/deleteProducts/2",
-					"host": [
-						"localhost"
-					],
-					"port": "3000",
-					"path": [
-						"api",
-						"deleteProducts",
-						"2"
-					]
-				}
-			},
-			"response": []
-		}
-	]
+  "info": {
+    "_postman_id": "381fbda7-d3f7-4e1f-a117-83bec46aca33",
+    "name": "Node api",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "localhost:3000/api/addProducts/",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "  {\n      \"product_category_id\": 1,\n      \"product_name\": \"new Product\",\n      \"product_description\": \"Creative Business Cards to Impress Clients!\",\n      \"price\": 100,\n      \"status\": \"1\"\n  }",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "localhost:3000/api/addProducts/",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "addProducts", ""]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "localhost:3000/api/getProducts/",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "localhost:3000/api/getProducts/",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "getProducts", ""]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "localhost:3000/api/updateProducts/product_id",
+      "request": {
+        "method": "PUT",
+        "header": [],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n    \"product_name\": \"Standard Bussiness Cards\",\n    \"product_description\": \"Creative Business Cards to Impress Clients!\",\n    \"price\": 10\n}",
+          "options": {
+            "raw": {
+              "language": "json"
+            }
+          }
+        },
+        "url": {
+          "raw": "localhost:3000/api/updateProducts/2",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "updateProducts", "2"]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "localhost:3000/api/deleteProducts/product_id",
+      "request": {
+        "method": "DELETE",
+        "header": [],
+        "url": {
+          "raw": "localhost:3000/api/deleteProducts/2",
+          "host": ["localhost"],
+          "port": "3000",
+          "path": ["api", "deleteProducts", "2"]
+        }
+      },
+      "response": []
+    }
+  ]
 }

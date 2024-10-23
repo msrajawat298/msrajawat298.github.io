@@ -5,8 +5,8 @@ var obj = {
       return undefined;
     }
     return this.log[this.log.length - 1];
-  }
-}
+  },
+};
 
 console.log(obj.latest);
 // expected output: "c"

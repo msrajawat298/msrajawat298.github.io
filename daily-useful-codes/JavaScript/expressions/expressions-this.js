@@ -1,6 +1,6 @@
 var test = {
   prop: 42,
-  func: function() {
+  func: function () {
     return this.prop;
   },
 };

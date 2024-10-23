@@ -1,0 +1,156 @@
+{
+  "blockman.n01LineHeight": 0,
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+  },
+  "editor.wordWrap": "off",
+  "diffEditor.wordWrap": "off",
+  "editor.guides.indentation": false,
+  "editor.guides.bracketPairs": false,
+  "editor.inlayHints.enabled": false,
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "powermode.combo.counterSize": 0,
+  "powermode.combo.location": "off",
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.timeout": 0,
+  "powermode.shake.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.banner": "always",
+  "security.workspace.trust.emptyWindow": false,
+  "security.workspace.trust.enabled": false,
+  "security.workspace.trust.startupPrompt": "never",
+  "explorer.confirmDelete": false,
+  "php.validate.executablePath": "",
+  "workbench.editor.enablePreview": false,
+  "phpdoc-generator.useNamesInTop": true,
+  "phpdoc-generator.comparisonOfShortTypes": {
+    "int": "integer",
+    "bool": "boolean"
+  },
+  "extensions.ignoreRecommendations": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "aws.lambda.recentlyUploaded": {
+    "profile:280563037387_EV-L2-Sandbox-Access": {
+      "us-east-2": "efs-access"
+    }
+  },
+  "window.zoomLevel": 1,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "workbench.sideBar.location": "right",
+  "workbench.colorTheme": "Peacock",
+  "editor.fontSize": 13,
+  "editor.lineHeight": 24,
+  "editor.fontWeight": "600",
+  "editor.fontFamily": "Victor Mono, Fira Code",
+  "editor.fontLigatures": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "emphasis",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "strong",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "entity.other.attribute-name",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": "markup.underline",
+        "settings": {
+          "fontStyle": "underline"
+        }
+      },
+      {
+        "scope": "markup.bold",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "markup.heading",
+        "settings": {
+          "fontStyle": "bold"
+        }
+      },
+      {
+        "scope": "markup.italic",
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "String interpolation",
+        "scope": [
+          "punctuation.definition.template-expression.begin",
+          "punctuation.definition.template-expression.end",
+          "punctuation.section.embedded"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "this.self",
+        "scope": "variable.language",
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#ff5874"
+        }
+      },
+      {
+        "name": "@Decorator",
+        "scope": ["meta.decorator punctuation.decorator"],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": ["punctuation.definition.comment", "comment"],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": [
+          "entity.name.type.class",
+          "keyword",
+          "constant",
+          "storage.modifier",
+          "storage.type",
+          "storage.type.class.js"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "scope": [
+          "invalid",
+          "keyword.operator",
+          "constant.numeric.css",
+          "keyword.other.unit.px.css",
+          "constant.numeric.decimal.js",
+          "constant.numeric.json"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.cursorBlinking": "expand"
+}

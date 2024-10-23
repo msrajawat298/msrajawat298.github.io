@@ -1,7 +1,6 @@
-var str = "";
+var str = '';
 
-loop1:
-for (var i = 0; i < 5; i++) {
+loop1: for (var i = 0; i < 5; i++) {
   if (i === 1) {
     continue loop1;
   }

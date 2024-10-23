@@ -34,3 +34,4 @@ WebChatGPT: ChatGPT with internet access
 Summarize
 YouTube Summary with ChatGPT
 You.com
+Casper AI

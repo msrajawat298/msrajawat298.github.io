@@ -1,5 +1,5 @@
 var str1 = 'table football';
-var regex1 = new RegExp('foo','y');
+var regex1 = new RegExp('foo', 'y');
 
 regex1.lastIndex = 6;
 

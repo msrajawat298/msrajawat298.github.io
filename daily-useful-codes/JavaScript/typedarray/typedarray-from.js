@@ -1,4 +1,4 @@
-let uint16 = new Int16Array;
+let uint16 = new Int16Array();
 uint16 = Int16Array.from('12345');
 
 console.log(uint16);

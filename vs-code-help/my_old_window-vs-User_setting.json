@@ -1,0 +1,73 @@
+{
+  "files.associations": {
+    "*.txt": "bat"
+  },
+  "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?",
+  "settingsSync.ignoredExtensions": [
+    "bmewburn.vscode-intelephense-client",
+    "hoovercj.vscode-power-mode"
+  ],
+  "security.workspace.trust.untrustedFiles": "open",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.enablePreview": false,
+  "git.autofetch": true,
+  "powermode.enabled": true,
+  "powermode.presets": "flames",
+  "editor.hover.enabled": false,
+  "blockman.n01LineHeight": 0,
+  "workbench.colorCustomizations": {
+    "editor.lineHighlightBackground": "#1073cf2d",
+    "editor.lineHighlightBorder": "#9fced11f"
+  },
+  "editor.wordWrap": "off",
+  "diffEditor.wordWrap": "off",
+  "editor.guides.indentation": false,
+  "editor.guides.bracketPairs": false,
+  "editor.inlayHints.enabled": false,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "powermode.explosions.gifMode": "restart",
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.triggerExpansionOnTab": true,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.unicodeHighlight.nonBasicASCII": false,
+  "ftp-simple.remote-workspace": "\"ftp-simple.remote-workspace\" : \"c:/remote-workspace\", \"ftp-simple.remote-workspace-load-all\" : true",
+  "powermode.shake.intensity": 0,
+  "powermode.combo.counterEnabled": "hide",
+  "powermode.combo.location": "off",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.userWords": ["Unitated"],
+  "php.suggest.basic": false,
+  "[php]": {
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "php-cs-fixer.executablePath": "${extensionPath}/php-cs-fixer.phar",
+  "php-cs-fixer.executablePathWindows": "D:\\xampp\\htdocs\\guest_mgmt\\vendor\\bin\\php-cs-fixer.bat",
+  "php-cs-fixer.onsave": true,
+  "php-cs-fixer.rules": "@PSR2",
+  "php-cs-fixer.config": "D:\\xampp\\htdocs\\guest_mgmt\\vendor\\bin\\config.php_cs",
+  "php-cs-fixer.allowRisky": false,
+  "php-cs-fixer.pathMode": "override",
+  "php-cs-fixer.exclude": [],
+  "php-cs-fixer.autoFixByBracket": true,
+  "php-cs-fixer.autoFixBySemicolon": false,
+  "php-cs-fixer.formatHtml": true,
+  "php-cs-fixer.documentFormattingProvider": true,
+  "php-cs-fixer.lastDownload": 1668236151023,
+  "diffEditor.ignoreTrimWhitespace": false
+}
