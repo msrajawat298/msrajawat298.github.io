@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/vitabletec/SnippetMaster/pull/7) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-2. ❗️ Closed issue [#5](https://github.com/vitabletec/SnippetMaster/issues/5) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-3. ❗️ Closed issue [#2](https://github.com/vitabletec/SnippetMaster/issues/2) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-4. 💪 Opened PR [#7](https://github.com/vitabletec/SnippetMaster/pull/7) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-5. ❗️ Opened issue [#3](https://github.com/vitabletec/Utilites/issues/3) in [vitabletec/Utilites](https://github.com/vitabletec/Utilites)
+1. ❗️ Opened issue [#1](https://github.com/vitabletec/vitabletech/issues/1) in [vitabletec/vitabletech](https://github.com/vitabletec/vitabletech)
+2. 🎉 Merged PR [#7](https://github.com/vitabletec/SnippetMaster/pull/7) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+3. ❗️ Closed issue [#5](https://github.com/vitabletec/SnippetMaster/issues/5) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+4. ❗️ Closed issue [#2](https://github.com/vitabletec/SnippetMaster/issues/2) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+5. 💪 Opened PR [#7](https://github.com/vitabletec/SnippetMaster/pull/7) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
