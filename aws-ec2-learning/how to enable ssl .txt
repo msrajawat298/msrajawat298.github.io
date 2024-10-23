@@ -1,0 +1,16 @@
+How to install ssl In apache2 server
+
+1. apt-get install openssl
+2. openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout /etc/ssl/private/ca.key -out /etc/ssl/certs/ca.crt
+3. /etc/apache2/sites-available/default-ssl.conf
+<VirtualHost *:443>
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/html
+		SSLEngine on
+		SSLCertificateFile /etc/ssl/certs/ca.crt
+		SSLCertificateKeyFile /etc/ssl/private/ca.key
+        ErrorLog ${APACHE_LOG_DIR}/error.log
+        CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>
+4. a2enmod ssl
+5. systemctl restart apache2
