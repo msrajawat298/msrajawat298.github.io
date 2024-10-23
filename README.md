@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msrajawat298" alt="msrajawat298" /></a> </p>
 
-<p align="left"> <a href="https://linkedin.com/msrajawat298" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="msrajawat298" /></a> </p>
-
 - 🔭 I’m currently working on [onprintshop](https://www.onprintshop.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MSRAJAWAT298](https://github.com/MSRAJAWAT298)
