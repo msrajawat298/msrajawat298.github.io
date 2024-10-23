@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#16](https://github.com/vitabletech/general-js-toolkit/pull/16) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-2. 💪 Opened PR [#16](https://github.com/vitabletech/general-js-toolkit/pull/16) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-3. 🎉 Merged PR [#15](https://github.com/vitabletech/general-js-toolkit/pull/15) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-4. 💪 Opened PR [#15](https://github.com/vitabletech/general-js-toolkit/pull/15) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-5. ❗️ Closed issue [#14](https://github.com/vitabletech/general-js-toolkit/issues/14) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+1. ❗️ Closed issue [#8](https://github.com/vitabletech/general-js-toolkit/issues/8) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+2. 🎉 Merged PR [#18](https://github.com/vitabletech/general-js-toolkit/pull/18) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+3. 🎉 Merged PR [#17](https://github.com/vitabletech/general-js-toolkit/pull/17) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+4. 💪 Opened PR [#18](https://github.com/vitabletech/general-js-toolkit/pull/18) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+5. 💪 Opened PR [#17](https://github.com/vitabletech/general-js-toolkit/pull/17) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
    <!--END_SECTION:activity-->
    <br/>
 
