@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/vitabletech/node-express-api-bootstrap/pull/1) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
-2. 💪 Opened PR [#1](https://github.com/vitabletech/node-express-api-bootstrap/pull/1) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
-3. 💪 Opened PR [#3](https://github.com/msrajawat298/react-native-app-template/pull/3) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
-4. 🎉 Merged PR [#2](https://github.com/msrajawat298/react-native-app-template/pull/2) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
-5. 💪 Opened PR [#2](https://github.com/msrajawat298/react-native-app-template/pull/2) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
+1. 🎉 Merged PR [#4](https://github.com/vitabletech/node-express-api-bootstrap/pull/4) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+2. 💪 Opened PR [#4](https://github.com/vitabletech/node-express-api-bootstrap/pull/4) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+3. 🎉 Merged PR [#3](https://github.com/vitabletech/node-express-api-bootstrap/pull/3) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+4. 💪 Opened PR [#3](https://github.com/vitabletech/node-express-api-bootstrap/pull/3) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+5. 🎉 Merged PR [#1](https://github.com/vitabletech/node-express-api-bootstrap/pull/1) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
    <!--END_SECTION:activity-->
    <br/>
 
