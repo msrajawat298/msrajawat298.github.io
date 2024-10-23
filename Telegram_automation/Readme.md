@@ -1,1 +1,2 @@
 [Telegram Bot Automation | All in one playlist for Beginners](https://www.youtube.com/playlist?list=PLVCgi5HZ0-Yt534vFsbzdw36yfC3OtiuY)
+https://colab.research.google.com/gist/mayank-kushwah-ev/b2d6d99142aa96f2310cb578dcb5bcbe/bot-demo-training.ipynb

@@ -1,0 +1,2 @@
+[Postman Tutorial For Beginners in Hindi](https://youtu.be/lId_LdQ8wXU?si=DUQAot9BcloogQeq)
+[API Testing with POSTMAN(In Hindi)](https://www.youtube.com/playlist?list=PLwbMf8x0S9vDIvIHubBo-0BtG3YaQdqUy)
