@@ -15,6 +15,8 @@ Get free
 --------
 
 *   [Get online free certificates](https://cursa.app/ )
+*   [guvi Free iit certificates](https://www.guvi.in/ )
+*   [freecodecamp](https://www.freecodecamp.org/ )
 
 Create Online App with no coding
 ---------------------------------
@@ -79,6 +81,7 @@ TECHNICAL
 *   [https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL\_Beginner.html](https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html )
 *   [free-css-templates](https://www.free-css.com/free-css-templates )
 *   [php the right way](https://phptherightway.com/ )
+*   [js the right way](https://jstherightway.org/ )
 
 All IN one CODE Generator ::
 ----------------
