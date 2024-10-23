@@ -191,11 +191,11 @@
 # ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/info-divyanshuparihar/starforloops/pull/2) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
-2. ❗️ Closed issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
-3. ❗️ Opened issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
-4. 🎉 Merged PR [#4](https://github.com/msrajawat298/web-development-practice/pull/4) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
-5. 🎉 Merged PR [#3](https://github.com/msrajawat298/web-development-practice/pull/3) in [msrajawat298/web-development-practice](https://github.com/msrajawat298/web-development-practice)
+1. 🎉 Merged PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
+2. 🎉 Merged PR [#2](https://github.com/msrajawat298/msrajawat298/pull/2) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
+3. 💪 Opened PR [#2](https://github.com/info-divyanshuparihar/starforloops/pull/2) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
+4. ❗️ Closed issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
+5. ❗️ Opened issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
 <!--END_SECTION:activity-->
 <br/>
 
