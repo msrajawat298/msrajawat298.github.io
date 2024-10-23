@@ -1,5 +1,9 @@
 # How to Generate Documentation for Your JavaScript Project
 
+If you're working on a project, it's important to have documentation that explains how to use your code. This makes it easier for others to understand your project and contribute to it. In this article, we'll show you how to generate documentation for your JavaScript project using GitHub Actions and JSDoc.
+
+JSDoc is a tool that generates documentation for JavaScript code. It uses comments in your code to create documentation that describes how to use your code. GitHub Actions is a tool that allows you to automate tasks in your GitHub repository. By combining these two tools, you can automatically generate documentation for your project whenever you make changes to it.
+
 Documentation is an essential part of any software project. It helps others understand how to use your code and makes it easier to collaborate with other developers. In this guide, we'll show you how to generate documentation for your JavaScript project using JSDoc and GitHub Actions.
 
 ## What is JSDoc?
