@@ -1,0 +1,140 @@
+# Enable Rewriting
+
+# RewriteEngine on
+
+# remove file extensions
+
+# RewriteRule ^([^\.]+)$ $1.php [NC,L] //remove the .php
+
+# RewriteRule ^([^\.]+)$ $1.html [NC,L] //remove the .html
+
+# RewriteCond %{REQUEST_FILENAME} !-f
+
+# RewriteCond %{REQUEST_FILENAME} !-d
+
+# DISABLE access of PHP extensions
+
+# <Files ~ ".\*\.(php2|php3|php4|php5|phtm|phtml|phar|gitignore|MD|md|zip|tar|sql|ini|log|sh)">
+
+# deny from all
+
+# </Files>
+
+# Prevent direct access to certain files
+
+# <FilesMatch ^((composer|package)\.(json|lock))$>
+
+# Deny from all
+
+# </FilesMatch>
+
+# DISABLE access of other extensions
+
+# <FilesMatch "\.(ini|log|sh|zip|)$">
+
+# Order Allow,Deny
+
+# Deny from all
+
+# </FilesMatch>
+
+# Options +FollowSymLinks
+
+# Options -Indexes //this will help to disable visble directory
+
+# The <IfModule mod_rewrite.c>...</IfModule> block ensures that everything contained within that block is taken only into account if the mod_rewrite module is loaded. Otherwise you will either face a server error or all requests for URL rewriting will be ignored. For example :
+
+# <IfModule mod_headers.c>
+
+# # WEEK
+
+# <FilesMatch "\.(js|jpg|jpeg|JPG|JPEG|gif|ico|png|PNG|css|eot|woff|woff2|ttf|svg|ttf)$">
+
+# Header set Cache-Control "max-age=31536000"
+
+# # Header unset Last-Modified
+
+# </FilesMatch>
+
+#
+
+# Header set Strict-Transport-Security "max-age=31536000; includeSubDomains" env=HTTPS
+
+# Header set X-Content-Type-Options "nosniff"
+
+# Header set X-XSS-Protection "1; mode=block"
+
+# Header set Referrer-Policy "no-referrer-when-downgrade"
+
+# </IfModule>
+
+# Know more :
+
+============================================================
+
+# The following two lines are conditions for the RewriteRule line which follows them. It means that the RewriteRule will be evaluated only if these two conditions are met.
+
+# RewriteCond %{REQUEST_FILENAME} !-f
+
+# RewriteCond %{REQUEST_FILENAME} !-d
+
+# #These lines simply state that rewriting (RewriteRule line) will occur only if there are no existing files or folders on the server which #match the URI. If they do exist then they will be served instead, unless there is some other directive that prevents it, otherwise #rewriting will occur.
+
+# #The last line will do the actual rewriting. It will take whatever is following the website domain name and append it to a rewritten #request which will begin with index.php/.
+
+# #Here is an example.
+
+# #Lets say you make a request for example.com/example-page.html.
+
+# #If there is no existing file or folder in the virtual hosts root folder named example-page.html the rewrite rule at the end will rewrite #the request to look like example.com/index.php/example-page.html.
+
+# #The main reason why applications rewrite requests like this is to ensure that they have a single point of entry, often called a #bootstrap, which is considered to be a good practice from the security standpoint and also offers more granular control of requests.
+
+# What is mod_rewrite?
+
+# mod_rewrite is an Apache module that allows for server-side manipulation of requested URLs.
+
+# mod_rewrite is an Apache module that allows for server-side manipulation of requested URLs. Incoming URLs are checked against a series of rules. The rules contain a regular expression to detect a particular pattern. If the pattern is found in the URL, and the proper conditions are met, the pattern is replaced with a provided substitution string or action. This process continues until there are no more rules left or the process is explicitly told to stop.
+
+# This is summarized in these three points:
+
+# There are a list of rules that are processed in order.
+
+# If a rule matches, it checks the conditions for that rule.
+
+# If everything is a go, it makes a substitution or action.
+
+# Advantages of mod_rewrite : mod_rewrite is most commonly used to transform ugly, cryptic URLs into what are known as “friendly URLs” or “clean URLs. These URLs are also more search engine friendly. Consider the following example:
+
+# Not so friendly: http://example.com/user.php?id=4512
+
+# Much friendlier: http://example.com/user/4512/
+
+# Even better: http://example.com/user/Joe/
+
+# Enabling mod_rewrite on the Server:
+
+# Enabling mod_rewrite or any apache module must be done from the global configuration file (httpd.conf or apache2.conf).
+
+# uncomment below line in (httpd.conf or apache2.conf) file
+
+# LoadModule rewrite_module modules/mod_rewrite.so
+
+# Testing for mod_rewrite
+
+# You can test if mod_rewrite is enabled/working in a number of ways. One of the simplest methods is to view the output from PHP’s phpinfo function. Create this very simple PHP page, open it in your browser, and search for “mod_rewrite” in the output.
+
+# mod_rewrite should show up in the “Loaded Modules” section of the page like so:
+
+# For more info :
+
+# ============================================================
+
+# https://code.tutsplus.com/tutorials/an-in-depth-guide-to-mod_rewrite-for-apache--net-6708
+
+# http://www.mayanksinghkushwah.in/2020/05/removeextension.html
+
+# ============================================================
+
+# Note : if your htaccess is not working then please check your appache global .cong file and change AllowOverride none -> to AllowOverride All
+# https://www.keycdn.com/support/htaccess-not-working
