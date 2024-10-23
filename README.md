@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Success: The Power of Upgrading Your Project’s Version and How to Do It Right](https://blog.vitabletech.in/unlocking-success-the-power-of-upgrading-your-projects-version-and-how-to-do-it-right/)
 - [VS Code Hack: How to Change the Default Terminal from PowerShell to Bash](https://blog.vitabletech.in/vs-code-hack-how-to-change-the-default-terminal-from-powershell-to-bash/)
 - [Boost Your Development Workflow: The Easy Way to Create a Release Branch and Tag in GitHub](https://blog.vitabletech.in/boost-your-development-workflow-the-easy-way-to-create-a-release-branch-and-tag-in-github/)
 - [Release Management Made Easy: Creating a Release Branch and Tag in Git &lpar;Using terminal or local machine&rpar;](https://blog.vitabletech.in/release-management-made-easy-creating-a-release-branch-and-tag-in-git/)
 - [All in one Snippet Master – A Visual Studio Extension for Software Developers](https://blog.vitabletech.in/all-in-one-snippet-master-a-visual-studio-extension-for-software-developers/)
-- [How to Publish Your GitHub Action on the GitHub Marketplace: A Step-by-Step Guide](https://blog.vitabletech.in/how-to-publish-your-github-action-on-the-github-marketplace-a-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
