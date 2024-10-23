@@ -17,3 +17,4 @@ OCR - Image Reader
 Blackbox - Select. Copy. Paste & Search
 send-anywhere for gmail 
 https://www.wordtune.com/
+Chromebook Recovery Utility (Download Chrome OS)
