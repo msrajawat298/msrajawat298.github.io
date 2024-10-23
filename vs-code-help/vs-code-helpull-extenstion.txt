@@ -1,0 +1,23 @@
+vs-code helpful extension that will help you to increase your productivity.
+===========================================================================
+power mode
+Turbo Console Log (Pressing ctrl + alt + L (Windows) or ctrl + option + L (Mac))
+Code Spell Checker
+CSS Peek
+Format Files
+Lorem ipsum
+PHP Debug
+PHP Intelephense
+Twig Language 2
+Bracket Pair Colorizer 2
+Better Comments
+Error Lens
+Remote - SSH
+Debugger for Chrome
+Prettier - Code formatter
+Code Runner
+Blockman - Highlight Nested Code Blocks
+lorem.space
+Lorem.gen
+Docker
+Quokka.js
