@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/vitabletec/general-js-toolkit/pull/5) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-2. 💪 Opened PR [#5](https://github.com/vitabletec/general-js-toolkit/pull/5) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-3. 🎉 Merged PR [#4](https://github.com/vitabletec/general-js-toolkit/pull/4) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-4. 🎉 Merged PR [#3](https://github.com/vitabletec/general-js-toolkit/pull/3) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
-5. 💪 Opened PR [#3](https://github.com/vitabletec/general-js-toolkit/pull/3) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
+1. 🎉 Merged PR [#6](https://github.com/vitabletec/general-js-toolkit/pull/6) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
+2. 💪 Opened PR [#6](https://github.com/vitabletec/general-js-toolkit/pull/6) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
+3. 🎉 Merged PR [#5](https://github.com/vitabletec/general-js-toolkit/pull/5) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
+4. 💪 Opened PR [#5](https://github.com/vitabletec/general-js-toolkit/pull/5) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
+5. 🎉 Merged PR [#4](https://github.com/vitabletec/general-js-toolkit/pull/4) in [vitabletec/general-js-toolkit](https://github.com/vitabletec/general-js-toolkit)
    <!--END_SECTION:activity-->
    <br/>
 
