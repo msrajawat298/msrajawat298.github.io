@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Streamline Your Project Documentation with GitHub Actions and JSDoc: A Step-by-Step Guide](https://blog.vitabletech.in/streamline-your-project-documentation-with-github-actions-and-jsdoc-a-step-by-step-guide/)
 - [Mastering ReactJS Debugging: The Power of console.trace&lpar;&rpar;](https://blog.vitabletech.in/mastering-reactjs-debugging-the-power-of-console-trace/)
 - [How Ownership and Learning Drive Success: My Experience Winning the Spotted Eagle Award at Eagleview](https://blog.vitabletech.in/how-ownership-and-learning-drive-success-my-experience-winning-the-spotted-eagle-award-at-eagleview/)
 - [From Insecure to Confident: How Voice Change AI Can Help You Succeed in Business and Life!”](https://blog.vitabletech.in/from-insecure-to-confident-how-voice-change-ai-can-help-you-succeed-in-business-and-life/)
 - [Unleash Your Inner Creativity with Voice.AI’s Revolutionary Voice Changer!](https://blog.vitabletech.in/unleash-your-inner-creativity-with-voice-ais-revolutionary-voice-changer/)
-- [10 Life-Saving Shell Scripts to Automate Your Daily Tasks and Boost Productivity](https://blog.vitabletech.in/10-life-saving-shell-scripts-to-automate-your-daily-tasks-and-boost-productivity/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
