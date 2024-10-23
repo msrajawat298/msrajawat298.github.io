@@ -1,4 +1,4 @@
-# 
+#
 
 Thank you for your interest in contributing to the [msrajawat298](https://github.com/msrajawat298/msrajawat298) repository. This repository is a collection of small code snippets, top useful URL links, and resources that can be used to help with daily coding problems.
 
@@ -18,11 +18,11 @@ To contribute to this repository, follow these steps:
 
 To ensure that your contribution is accepted, please follow these guidelines:
 
-* The repository contains small code snippets, top useful URL links, and resources that can be used to help with daily coding problems. Please ensure that your contribution falls within these categories.
-* Your contribution should be well-documented and easily understandable by others.
-* Please ensure that your contribution does not contain any malicious code or links.
-* Your contribution should not contain any copyrighted material unless you have permission to use it.
-* Your contribution should be respectful and inclusive of all individuals.
+- The repository contains small code snippets, top useful URL links, and resources that can be used to help with daily coding problems. Please ensure that your contribution falls within these categories.
+- Your contribution should be well-documented and easily understandable by others.
+- Please ensure that your contribution does not contain any malicious code or links.
+- Your contribution should not contain any copyrighted material unless you have permission to use it.
+- Your contribution should be respectful and inclusive of all individuals.
 
 ## Feedback and Support
 

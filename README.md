@@ -151,26 +151,28 @@
 # <a href="https://stackoverflow.com/users/9578353/msrajwat298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="msrajwat298" height="30" width="40" /></a> StackOverflow Activity
 
 <!-- STACKOVERFLOW:START -->
+
 - [Answer by msrajwat298 for I have created one node js file to list out all files in my file system , When I am trying to download file its size is changed in node js](https://stackoverflow.com/questions/75528855/i-have-created-one-node-js-file-to-list-out-all-files-in-my-file-system-when-i/75531888#75531888)
 - [I have created one node js file to list out all files in my file system , When I am trying to download file its size is changed in node js](https://stackoverflow.com/questions/75528855/i-have-created-one-node-js-file-to-list-out-all-files-in-my-file-system-when-i)
 - [Answer by msrajwat298 for when checkbox is checked, change background color of div](https://stackoverflow.com/questions/74720108/when-checkbox-is-checked-change-background-color-of-div/74720241#74720241)
 - [Answer by msrajwat298 for Bootstrap 5: div different align for desktop and mobile](https://stackoverflow.com/questions/74717296/bootstrap-5-div-different-align-for-desktop-and-mobile/74718444#74718444)
 - [Answer by msrajwat298 for How to show calendar popup when input[type=&quot;date&quot;] is on focus](https://stackoverflow.com/questions/51334960/how-to-show-calendar-popup-when-inputtype-date-is-on-focus/67721875#67721875)
-<!-- STACKOVERFLOW:END -->
-<br/>
+  <!-- STACKOVERFLOW:END -->
+  <br/>
 
 ---
 
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [How Ownership and Learning Drive Success: My Experience Winning the Spotted Eagle Award at Eagleview](https://blog.vitabletech.in/how-ownership-and-learning-drive-success-my-experience-winning-the-spotted-eagle-award-at-eagleview/)
 - [From Insecure to Confident: How Voice Change AI Can Help You Succeed in Business and Life!”](https://blog.vitabletech.in/from-insecure-to-confident-how-voice-change-ai-can-help-you-succeed-in-business-and-life/)
 - [Unleash Your Inner Creativity with Voice.AI’s Revolutionary Voice Changer!](https://blog.vitabletech.in/unleash-your-inner-creativity-with-voice-ais-revolutionary-voice-changer/)
 - [10 Life-Saving Shell Scripts to Automate Your Daily Tasks and Boost Productivity](https://blog.vitabletech.in/10-life-saving-shell-scripts-to-automate-your-daily-tasks-and-boost-productivity/)
 - [Shell Scripts: Automate Tasks and Boost Productivity](https://blog.vitabletech.in/shell-scripts-automate-tasks-and-boost-productivity/)
-<!-- BLOG-POST-LIST:END -->
-<br/>
+  <!-- BLOG-POST-LIST:END -->
+  <br/>
 
 ---
 
@@ -191,13 +193,14 @@
 # ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#3](https://github.com/msrajawat298/msrajawat298/pull/3) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
 2. 🎉 Merged PR [#2](https://github.com/msrajawat298/msrajawat298/pull/2) in [msrajawat298/msrajawat298](https://github.com/msrajawat298/msrajawat298)
 3. 💪 Opened PR [#2](https://github.com/info-divyanshuparihar/starforloops/pull/2) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
 4. ❗️ Closed issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
 5. ❗️ Opened issue [#1](https://github.com/info-divyanshuparihar/starforloops/issues/1) in [info-divyanshuparihar/starforloops](https://github.com/info-divyanshuparihar/starforloops)
-<!--END_SECTION:activity-->
-<br/>
+   <!--END_SECTION:activity-->
+   <br/>
 
 ## Contributing
 
@@ -228,4 +231,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-

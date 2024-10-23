@@ -1,4 +1,4 @@
-name: Update README With Github Recent activity 
+name: Update README With Github Recent activity
 
 on:
   schedule:
