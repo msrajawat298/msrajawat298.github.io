@@ -1,0 +1,38 @@
+Which of the following are true about tags in Git?
+What happens when you run git commit without -m argument?
+Git pull is a shorthand for which commands?
+Which command can be used to configure vimdiff as the default diff tool for Git?
+Using which command can you remove a file from Git without removing it from your file system ?
+How can you stash your changes, not including anything in the staging area?
+Which of the following commands can be used to delete all files and directories that Git does not track from your working-directory?
+Which of the following can't be done with Git checkout?
+When is it necessary to use git mv for moving a file?
+Which command shows the author of each line of text?
+Which command can you use to discard changes to a file inside a Git repository?
+Which branch type is not part of the workflow in Gitflow?
+Which character appended at the end of a commit reference points to the parent of that commit ?
+How can you see the list of all remotes configured for current repository with their URLs?
+Which command returns the shortest unique SHA1 for a commit inside the current repository?
+How can you replace several commits with one?	
+https://www.w3docs.com/snippets/
+After you install Git and prior to issuing the first commit, which two configuration properties does the tool expect to be configured?
+what is  Git Workflow ?
+Which command can be used to identify all the branches that have been merged into master?
+Which of the following is not a Git configuration scope?
+How can you restore a branch you just deleted?
+
+• In this project, I learned a lot of new things, such as how to use advanced JavaScript and how to integrate zoho book etc.
+• In This project I have used varites of technlogy and tools are used such PHP, bootstrap, CSS, JavaScript, docker, gitlab,  CI/CD pipeline, QA, Deployment and some other third party library etc.
+
+
+• I learned a lot of new things while working on this project, such as how to use advanced JavaScript and how to integrate Zoho Book, ZOHO CRM among other things.
+• I used a variety of technologies and tools in this project, including PHP, bootstrap, CSS, JavaScript, Docker, gitlab, CI/CD pipeline, QA, Deployment, and some third-party libraries.
+
+
+
+There  some chalanges  were comes like during sync data from our site to zoho crm such duplicates entries, or data not sync properly.
+ 
+ 
+• There are some challenges during integrating Zoho Book and Zoho CRM, such as data not synching properly.
+ 
+• The big challenge in this project is uploading a big CSV file with millions of records and requiring read and write operations.

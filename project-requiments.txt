@@ -1,0 +1,26 @@
+What did you build?
+Try to answer these key questions:
+What was the purpose and functionality of the project?
+What was your role in the team and who did you collaborate with?
+What languages, frameworks, tools, and/or databases did you use?
+Ticket management system.
+Led a team of 6 engineers in building a
+SaaS ticket management system (similar
+to JIRA) for taskfy.com
+Developed Web APl backend using
+Node.js, Typescript, Express.js.
+TypeORM, and JWT for user
+authentication. Used MysOL for data
+storage
+Implemented Elasticsearch for indexing
+ticket data.
+Developed front end using Typescript,
+Reactjs, Redux, Redux Saga, Ant Design.
+Set up unit tests with Jest, React testing
+framework, Cypress.
+Created Cl/CD pipelines using Jenkins.
+Used GCP for hosting
+Setup Kubemetes cluster for auto scaling
+and fault tolerance.
+Integrated with Twillio for email and SMS
+notifications.

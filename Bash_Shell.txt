@@ -1,0 +1,43 @@
+Bash/Shell
+========================
+Which is the best command to deploy a static page?
+How can you find all the files that were created from 3 days ago to now?
+https://www.geeksforgeeks.org/rsync-command-in-linux-with-examples/
+Which command will get a random letter or digit in the string below?
+alphabet=abcdefghijklmnopqrstuvwxyzABCDE FGHIJKLMNOPQRSTUVHXYze123456789
+alphabet_1enght-$ [#alphabet}
+How can you get IPv4 on all the interfaces?
+How do you find all files in folder /etc without any subdirectory?
+How can you create a client key with CA and special user in 1 day?
+Which commands are able to recover console session?
+Which action would be the result of the following statement after you execute it on script?
+rap 'rm -rf /tmp/*.lock" EXIT
+You need to get summary information of the number connection based on the IP to port 443. How can you do it?
+https://www.tecmint.com/find-all-clients-connected-to-http-or-https-ports/
+Given the file with content below, how do you replace "abc" without utilizing any characters near to 123?  abc babc dabc eabcf abc
+https://www.cyberciti.biz/faq/unix-linux-replace-string-words-in-many-files/
+
+How can you create a new file (new.txt) from a concatenation of multiple files (file1.txt and file2.txt)?
+
+	In the the following script, Which is the output of command (the process will contain -DAPP_NAME=service)?
+ps -eo user,pid,%cpu,%mem,lstart,cmd | grep java | grep "DAPP_NAME" | grep -v grep | awk -v ip='127.0.0.1' '{for(i=5;i<=NF;i++){if($i~/^-DAPP_NAME/){a=$i}} print ip"&"a"&"$2"&"$3"&"$4"&"$5" "$6" "$7" "$8}'
+
+Which of the following is TRUE about "set -x" command in bash shell?
+Given a complex folder structure and more than 1 million files per day, which of the following commands will backup the files to folder /opt/backup_$(date +%Y%m%d)/?
+
+You need to backup the files in a complex folder structure but it should be easy to recover. Which of the following commands will help you to do it?
+How can you write a cronjob script to set up a scheduler at 4pm, three days from now?
+
+
+Which command gives you access to the script's location in bash shell?
+
+Which command is stopped after ssh logout?
+
+
+
+
+
+
+
+
+
