@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/msrajawat298/react-native-app-template/pull/2) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
-2. 💪 Opened PR [#2](https://github.com/msrajawat298/react-native-app-template/pull/2) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
-3. 🎉 Merged PR [#1](https://github.com/msrajawat298/react-native-app-template/pull/1) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
-4. 💪 Opened PR [#1](https://github.com/msrajawat298/react-native-app-template/pull/1) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
-5. 💪 Opened PR [#20](https://github.com/vitabletech/general-js-toolkit/pull/20) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+1. 💪 Opened PR [#3](https://github.com/msrajawat298/react-native-app-template/pull/3) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
+2. 🎉 Merged PR [#2](https://github.com/msrajawat298/react-native-app-template/pull/2) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
+3. 💪 Opened PR [#2](https://github.com/msrajawat298/react-native-app-template/pull/2) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
+4. 🎉 Merged PR [#1](https://github.com/msrajawat298/react-native-app-template/pull/1) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
+5. 💪 Opened PR [#1](https://github.com/msrajawat298/react-native-app-template/pull/1) in [msrajawat298/react-native-app-template](https://github.com/msrajawat298/react-native-app-template)
    <!--END_SECTION:activity-->
    <br/>
 
