@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [PrivateGPT: Safe and Secure AI Solution for 2023](https://blog.vitabletech.in/privategpt-safe-and-secure-ai-solution-for-2023/)
 - [Introducing CasaOS: A User-Friendly Web Hosting Solution for Your AWS EC2 Instances](https://blog.vitabletech.in/introducing-casaos-a-user-friendly-web-hosting-solution-for-your-aws-ec2-instances/)
 - [Resolving the Redirection Issue for Seamless Access to Public Domain – A Solution Guide](https://blog.vitabletech.in/resolving-the-redirection-issue-for-seamless-access-to-public-domain-a-solution-guide/)
 - [Automating Secure SFTP User Setup with a Bash Script](https://blog.vitabletech.in/automating-secure-sftp-user-setup-with-a-bash-script/)
 - [Why and How to Publish a Custom Plugin to the WordPress Repository: 7 Key Steps for Success](https://blog.vitabletech.in/why-and-how-to-publish-a-custom-plugin-to-the-wordpress-repository-7-key-steps-for-success/)
-- [How to Add a GIF as Preloader on WordPress Without a Plugin: 5 Simple Steps](https://blog.vitabletech.in/how-to-add-a-gif-as-preloader-on-wordpress-without-a-plugin-5-simple-steps/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
