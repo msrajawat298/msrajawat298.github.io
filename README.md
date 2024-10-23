@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#11](https://github.com/vitabletech/general-js-toolkit/issues/11) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-2. ❗️ Closed issue [#12](https://github.com/vitabletech/general-js-toolkit/issues/12) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-3. ❗️ Closed issue [#8](https://github.com/vitabletech/general-js-toolkit/issues/8) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-4. 🎉 Merged PR [#18](https://github.com/vitabletech/general-js-toolkit/pull/18) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
-5. 🎉 Merged PR [#17](https://github.com/vitabletech/general-js-toolkit/pull/17) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+1. 🎉 Merged PR [#2](https://github.com/vitabletech/nextjs-react-admin/pull/2) in [vitabletech/nextjs-react-admin](https://github.com/vitabletech/nextjs-react-admin)
+2. 💪 Opened PR [#2](https://github.com/vitabletech/nextjs-react-admin/pull/2) in [vitabletech/nextjs-react-admin](https://github.com/vitabletech/nextjs-react-admin)
+3. 🎉 Merged PR [#1](https://github.com/vitabletech/nextjs-react-admin/pull/1) in [vitabletech/nextjs-react-admin](https://github.com/vitabletech/nextjs-react-admin)
+4. 💪 Opened PR [#1](https://github.com/vitabletech/nextjs-react-admin/pull/1) in [vitabletech/nextjs-react-admin](https://github.com/vitabletech/nextjs-react-admin)
+5. ❗️ Closed issue [#11](https://github.com/vitabletech/general-js-toolkit/issues/11) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
    <!--END_SECTION:activity-->
    <br/>
 
