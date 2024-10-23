@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#15](https://github.com/vitabletec/SnippetMaster/issues/15) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-2. ❗️ Closed issue [#14](https://github.com/vitabletec/SnippetMaster/issues/14) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-3. ❗️ Closed issue [#10](https://github.com/vitabletec/SnippetMaster/issues/10) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-4. 🎉 Merged PR [#16](https://github.com/vitabletec/SnippetMaster/pull/16) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
-5. ❗️ Closed issue [#3](https://github.com/vitabletec/SnippetMaster/issues/3) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+1. ❗️ Opened issue [#11](https://github.com/vitabletech/general-js-toolkit/issues/11) in [vitabletech/general-js-toolkit](https://github.com/vitabletech/general-js-toolkit)
+2. ❗️ Closed issue [#15](https://github.com/vitabletec/SnippetMaster/issues/15) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+3. ❗️ Closed issue [#14](https://github.com/vitabletec/SnippetMaster/issues/14) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+4. ❗️ Closed issue [#10](https://github.com/vitabletec/SnippetMaster/issues/10) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
+5. 🎉 Merged PR [#16](https://github.com/vitabletec/SnippetMaster/pull/16) in [vitabletec/SnippetMaster](https://github.com/vitabletec/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
