@@ -1,15 +1,19 @@
-learn about some popular and usefull plugin in wordpress and how to implement
-read all the documnetion online in descripting mode
+wordpress useful plugin ::
+----------------------------
+Better Search Replace
+wp-rocket
+wppusher
+BetterDocs 
+WP phpMyAdmin
+xyz scripting or (php code snippet)
 Polylang plugin
 LMS
-wp-rocket
 seo yost
 TranslatePress 
 Social Auto Poster 
 MemberPress 
 Gravity Forms
 DW Question 
-BetterDocs 
 WP Fusion
 WPForms Pro
 BuddyBoss  theme
@@ -17,5 +21,20 @@ REHub theme
 uipress
 sliderrevolution
 https://www.uipress.co/
-WP phpMyAdmin
-xyz scripting or (php code snippet)
+
+
+https://kinsta.com/blog/wordpress-version-control/
+https://wppusher.com/
+https://roots.io/bedrock/
+https://roots.io/bedrock/docs/installation/
+
+How to create wordpress theme db changes and with git 
+
+(if in my theme having change in both files as well as db then when the user install my theme and then after some time
+I relase the another version with udpate change in db , so How it will update ?)
+
+--if I push the code in my github is automaticly pull in my worpdress server (ref: wp-pusher)
+
+https://docs.versionpress.net/en/getting-started/installation-uninstallation/
+
+it is not working I want to know find in all table rows like there is table with the namp wp_optios and there is mulitple row having 5 recrods that I want to find. show similary I want o find in all db tables
