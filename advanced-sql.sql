@@ -92,3 +92,18 @@ SELECT table_schema, table_name, column_name, character_set_name, collation_name
 SELECT table_schema, table_name, column_name, character_set_name, collation_name FROM information_schema.columns WHERE collation_name = 'latin1_swedish_ci' and table_schema="standard_v91_81" ORDER BY table_schema, table_name,ordinal_position;
 
 ALTER TABLE tbl_name CONVERT TO CHARACTER SET latin1 COLLATE 'latin1_swedish_ci';
+
+
+
+----------------------------------------------
+Learn More About db-sync ::
+----------------------------------------------
+Problem Statement ::
+To sync local database and web server database in MySql
+I am using PHP and Mysql for developing an application. we have two copies of database, one at local server(i.e our end) and one at web server. we want to sync both the database so that if any change made in local database should also reflect on the webserver database. is that possible?? Currently we are using PHP scripts to do so..which is taking too much of time and aswell as not reliable. What can be done so that MySQL will internally fire the whole update and logic??
+
+Solution : MySQL Replications(https://dev.mysql.com/doc/refman/8.0/en/replication.html) might be what you are looking for, but i do not recommend to sync development and production databases. This can get you in trouble when continuing development after webpage has been released. The common approach is to have a server for development (dummy data, not public), testing (real data, not public) and production (real data, public).
+
+Reference Link : https://stackoverflow.com/questions/3977277/to-sync-local-database-and-web-server-database-in-mysql
+https://github.com/mrjgreen/db-sync
+https://github.com/hrsetyono/wp-sync-db#wp-cli-integration
