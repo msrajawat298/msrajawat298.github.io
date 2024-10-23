@@ -81,5 +81,5 @@ https://www.youtube.com/watch?v=Rh4Wu4S8fBo&list=PL8TXyOjUKJwX0RuBTwTZlNJAwCB32y
 senior software engineer interview questions
 problem solving skills
 
-node js I have developed crud operation for event managemnt rest api
-and one lambda function on aws using node js that feauture is to show all files and dir  that stored on aws EFS strogae system.
+node js I have developed crud operation for event management rest api
+and one lambda function on aws using node js that feature is to show all files and dir  that stored on aws EFS strogae system.
