@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Upgrading PHP 5.5 to PHP 5.6: A Step-by-Step Guide to Update Base Images](https://blog.vitabletech.in/upgrading-php-5-5-to-php-5-6-a-step-by-step-guide-to-update-base-images/)
 - [Debunking the Myth: Is PI Planning Really a Waste of Time](https://blog.vitabletech.in/debunking-the-myth-is-pi-planning-really-a-waste-of-time/)
 - [How to Check the Version of ArcGIS Server](https://blog.vitabletech.in/how-to-check-the-version-of-arcgis-server/)
 - [Running a PHP Project with a Custom Domain on Localhost using XAMPP](https://blog.vitabletech.in/running-a-php-project-with-a-custom-domain-on-localhost-using-xampp/)
 - [Chrome Dev Tools Hacks: Override JavaScript Files and Take Control of Websites](https://blog.vitabletech.in/chrome-dev-tools-hacks-override-javascript-files-and-take-control-of-websites/)
-- [Unlocking Success: The Power of Upgrading Your Project’s Version and How to Do It Right](https://blog.vitabletech.in/unlocking-success-the-power-of-upgrading-your-projects-version-and-how-to-do-it-right/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
