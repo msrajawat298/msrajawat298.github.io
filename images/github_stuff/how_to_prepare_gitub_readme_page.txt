@@ -1,5 +1,7 @@
 How to Create Github Readme Page :
 =====================================
+https://github.com/rzashakeri/beautify-github-profile
+https://zzetao.github.io/awesome-github-profile/
 https://github.com/ironmaniiith
 https://leviarista.github.io/github-profile-header-generator/
 http://ionicabizau.github.io/github-profile-languages/?user=msrajawat298
@@ -35,7 +37,7 @@ https://github.com/gautamkrishnar/github-pages-gallery/blob/master/.github/workf
 https://thumbsup.github.io/docs/5-deployment/aws/
 https://hub.docker.com/r/thumbsupgallery/thumbsup/
 
-
+https://portfolio-mohitsojitra.vercel.app/
 https://blog.vitabletech.in/feed/
 https://msrajawat298.github.io/msrajawat298/
 https://github.com/gautamkrishnar/blog-post-workflow
@@ -54,3 +56,9 @@ what is Marketplace in github
 
 https://developers.google.com/youtube/youtube_subscribe_button
 https://github.com/Dexters-Hub/Dexters-Hub
+https://slackmojis.com/emojis/405-stackoverflow
+
+https://wakatime.com/
+https://www.paypal.com/in/signin
+https://github.com/abhisheknaiidu
+https://github.com/eugustavo/github-badges

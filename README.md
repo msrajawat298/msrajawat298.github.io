@@ -35,6 +35,9 @@
 <p align="left">
   <img style="width:100%" src="https://github-profile-trophy.vercel.app/?username=msrajawat298&flat" alt="msrajawat298" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/msrajawat298/msrajawat298/main/images/github_stuff/github-user-contribution.svg">
+</p>
 
 ---
 
@@ -164,9 +167,8 @@
 # 📺 Latest YouTube Videos
 
 <div align="center">
-
-[<img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/>](https://www.youtube.com/c/MAYANKSINGHKUSHWAH?sub_confirmation=1)
-
+  <a href="https://www.youtube.com/c/MAYANKSINGHKUSHWAH?sub_confirmation=1" target="_blank">
+  <img src="https://img.shields.io/badge/-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
 <!-- YOUTUBE:START -->
