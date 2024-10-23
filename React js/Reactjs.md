@@ -1,4 +1,4 @@
-# React Concepts and Hooks
+# React Course
 
 - Component
 - Props
