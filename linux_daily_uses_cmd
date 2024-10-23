@@ -49,3 +49,4 @@ stat -c '%a - %n' directory/*
 ===================================================
 https://phoenixnap.com/kb/linux-file-permissions
 
+find . -printf "%h\n" | cut -d/ -f-2 | sort | uniq -c | sort -rn
