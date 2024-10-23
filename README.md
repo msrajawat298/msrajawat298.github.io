@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🔒 Closed issue [#30](https://github.com/vitabletech/SnippetMaster/issues/30) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-2. 🗣 Commented on [#30](https://github.com/vitabletech/SnippetMaster/issues/30) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-3. ❗ Opened issue [#30](https://github.com/vitabletech/SnippetMaster/issues/30) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-4. 🔒 Closed issue [#991](https://github.com/cytopia/devilbox/issues/991) in [cytopia/devilbox](https://github.com/cytopia/devilbox)
-5. 🗣 Commented on [#991](https://github.com/cytopia/devilbox/issues/991) in [cytopia/devilbox](https://github.com/cytopia/devilbox)
+1. 🎉 Merged PR [#31](https://github.com/vitabletech/SnippetMaster/pull/31) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+2. 💪 Opened PR [#31](https://github.com/vitabletech/SnippetMaster/pull/31) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+3. 🔒 Closed issue [#30](https://github.com/vitabletech/SnippetMaster/issues/30) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+4. 🗣 Commented on [#30](https://github.com/vitabletech/SnippetMaster/issues/30) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+5. ❗ Opened issue [#30](https://github.com/vitabletech/SnippetMaster/issues/30) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
