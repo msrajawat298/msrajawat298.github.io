@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Running a PHP Project with a Custom Domain on Localhost using XAMPP](https://blog.vitabletech.in/running-a-php-project-with-a-custom-domain-on-localhost-using-xampp/)
 - [Chrome Dev Tools Hacks: Override JavaScript Files and Take Control of Websites](https://blog.vitabletech.in/chrome-dev-tools-hacks-override-javascript-files-and-take-control-of-websites/)
 - [Unlocking Success: The Power of Upgrading Your Project’s Version and How to Do It Right](https://blog.vitabletech.in/unlocking-success-the-power-of-upgrading-your-projects-version-and-how-to-do-it-right/)
 - [VS Code Hack: How to Change the Default Terminal from PowerShell to Bash](https://blog.vitabletech.in/vs-code-hack-how-to-change-the-default-terminal-from-powershell-to-bash/)
 - [Boost Your Development Workflow: The Easy Way to Create a Release Branch and Tag in GitHub](https://blog.vitabletech.in/boost-your-development-workflow-the-easy-way-to-create-a-release-branch-and-tag-in-github/)
-- [Release Management Made Easy: Creating a Release Branch and Tag in Git &lpar;Using terminal or local machine&rpar;](https://blog.vitabletech.in/release-management-made-easy-creating-a-release-branch-and-tag-in-git/)
 <!-- BLOG-POST-LIST:END -->
   <br/>
 
