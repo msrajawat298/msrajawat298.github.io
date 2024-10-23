@@ -203,6 +203,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [tinywow](https://tinywow.com/)
 - [opensourcealternative](https://www.opensourcealternative.to/)
 - [android kit](https://www.imobie.com/droidkit/)
+- [Quick Database Diagrams](https://app.quickdatabasediagrams.com/#/)
 
 ## Frequently uses site ::
 
