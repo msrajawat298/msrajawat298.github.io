@@ -1,0 +1,158 @@
+Best AI website to help your Productivity
+-----------------------------------------
+
+*   [https://denigma.app/#demo](https://denigma.app/#demo )
+*   [https://beta.openai.com/playground](https://beta.openai.com/playground )
+*   [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check )
+*   [https://rytr.me/](https://rytr.me/ )
+*   [https://app.movio.la/](https://app.movio.la/ )
+*   [https://www.myheritage.com/ //Your animated photo is ready!](https://www.myheritage.com/)
+*   [https://www.useblackbox.io/search](https://www.useblackbox.io/search )
+
+Get free
+--------
+
+*   [Get online free certificates](https://cursa.app/ )
+
+Online Resume create
+--------------------
+
+*   [https://www.overleaf.com/](https://www.overleaf.com/ )
+
+Online Image edit tools :
+-------------------------
+
+*   [https://clipdrop.co/relight](https://clipdrop.co/relight )
+*   [https://www.cutout.pro/photo-enhancer-sharpener-upscaler/upload](https://www.cutout.pro/photo-enhancer-sharpener-upscaler/upload )
+*   [https://pfpmaker.com/](https://pfpmaker.com/ )
+*   [https://favicon.io/favicon-converter/](https://favicon.io/favicon-converter/ )
+*   [https://unsplash.com/@msrajawat298](https://unsplash.com/@msrajawat298 )
+*   [https://unsplash.com/developers](https://unsplash.com/developers )
+
+Earn money
+----------
+
+*   [http://clickasnap.com/getpaid/ (sell your images)](http://clickasnap.com/getpaid/)
+
+TECHNICAL
+---------
+
+*   [https://app.codility.com/programmers/](https://app.codility.com/programmers/ )
+*   [https://wtools.io/javascript-to-php-converter](https://wtools.io/javascript-to-php-converter )
+*   [https://www3.ntu.edu.sg/home/ehchua/programming/](https://www3.ntu.edu.sg/home/ehchua/programming/ )
+*   [https://www3.ntu.edu.sg/home/ehchua/programming/#clientSide](https://www3.ntu.edu.sg/home/ehchua/programming/#clientSide )
+*   [https://www3.ntu.edu.sg/home/ehchua/programming/howto/Unix\_Basics.html](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Unix_Basics.html )
+*   [https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git\_HowTo.html](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Git_HowTo.html )
+*   [https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL\_Beginner.html](https://www3.ntu.edu.sg/home/ehchua/programming/sql/MySQL_Beginner.html )
+*   [https://www.free-css.com/free-css-templates (usefull)](https://www.free-css.com/free-css-templates (usefull) )
+
+Gaming sites ::
+---------------
+
+*   [https://emulatorgames.online/](https://emulatorgames.online/ )
+*   [\-------------------------](------------------------- )
+*   [https://drafterleo.github.io/schulte/](https://drafterleo.github.io/schulte/ )
+*   [https://schultetable.ru/training/en/](https://schultetable.ru/training/en/ )
+
+Website Resources
+-----------------
+
+*   [Website resources](https://darrelwilson.com/website-resources/ // )
+
+Other Utilities
+---------------
+
+*   [https://codebeautify.org/convert-text-to-handwriting](https://codebeautify.org/convert-text-to-handwriting )
+*   [https://texttohandwriting.com/ (✓)](https://texttohandwriting.com/ (✓) )
+*   [https://www.unserialize.com/](https://www.unserialize.com/ )
+*   [https://jsoneditoronline.org](https://jsoneditoronline.org )
+*   [https://theinpaint.com/](https://theinpaint.com/ )
+*   [https://www.sejda.com/watermark-pdf](https://www.sejda.com/watermark-pdf )
+*   [https://www.canva.com/](https://www.canva.com/ )
+*   [https://regexr.com/](https://regexr.com/ )
+*   [https://barcode.tec-it.com/en/Code39?data=ABC-1234](https://barcode.tec-it.com/en/Code39?data=ABC-1234 )
+*   [https://azure.microsoft.com/en-us/free/students/](https://azure.microsoft.com/en-us/free/students/ )
+*   [https://mention.com/en/email-signature-generator/](https://mention.com/en/email-signature-generator/ )
+*   [https://www.mail-signatures.com/signature-generator/#/user-social-media](https://www.mail-signatures.com/signature-generator/#/user-social-media )
+*   [https://app.logo.com/ideas](https://app.logo.com/ideas )
+*   [https://www.freelogoservices.com/step2](https://www.freelogoservices.com/step2 )
+*   [https://howtostartanllc.com/logo-maker/results](https://howtostartanllc.com/logo-maker/results )
+*   [https://www.freelogodesign.org/manager/showcase/](https://www.freelogodesign.org/manager/showcase/ )
+*   [https://www.brandcrowd.com/maker/logo/pixel-global-company-122070?text=mayank%20singh](https://www.brandcrowd.com/maker/logo/pixel-global-company-122070?text=mayank%20singh )
+*   [https://studio.tailorbrands.com/business/98122331/wizard/logos/598952425?selectedBrandVersionId=7196698749](https://studio.tailorbrands.com/business/98122331/wizard/logos/598952425?selectedBrandVersionId=7196698749 )
+*   [https://www.smartr.me/me/mr.mayanksingh.kushwah](https://www.smartr.me/me/mr.mayanksingh.kushwah )
+*   [renderforest](https://www.renderforest.com/ )
+*   [vertex 3D icon](https://vertex.im/)
+*   [Wordtune - AI-powered Writing Companion](https://www.wordtune.com/)
+*   [www.classcentral.com](www.classcentral.com )
+*   [scrimba.com](scrimba.com )
+*   [receivesms](receivesms )
+*   [www.synthesia.io](www.synthesia.io )
+*   [https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html](https://www.nuance.com/omni-channel-customer-engagement/voice-and-ivr/text-to-speech.html )
+*   [https://docs.rapidapi.com/docs](https://docs.rapidapi.com/docs )
+*   [https://www.hacksplaining.com/](https://www.hacksplaining.com/ )
+*   [https://pixabay.com/](https://pixabay.com/ )
+*   [https://getfirebug.com/](https://getfirebug.com/ )
+*   [https://filetransfer.io/](https://filetransfer.io/ )
+*   [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check )
+*   [https://www.computer-pdf.com/getfile](https://www.computer-pdf.com/getfile )
+*   [https://tutorialsclass.com/learn/seo/](https://tutorialsclass.com/learn/seo/ )
+*   [https://treeware.earth/#](https://treeware.earth/# )
+*   [https://github.com/rashidlaasri](https://github.com/rashidlaasri )
+*   [https://htmltowordpress.io/](https://htmltowordpress.io/ )
+*   [https://gujarati.indiatyping.com/index.php/type-gujarati/simple-gujarati-typing](https://gujarati.indiatyping.com/index.php/type-gujarati/simple-gujarati-typing )
+*   [https://gist.github.com/hootlex/da59b91c628a6688ceb1](https://gist.github.com/hootlex/da59b91c628a6688ceb1 )
+
+EMAIL TEMPLATE
+--------------
+
+*   [https://www.mailgun.com/](https://www.mailgun.com/ )
+*   [https://stripo.email/](https://stripo.email/ )
+*   [https://unlayer.com/templates](https://unlayer.com/templates )
+*   [test email template](https://www.pilotmail.io/)
+*   [https://mailtrap.io/](https://mailtrap.io/ )
+*   [https://gist.github.com/hootlex/da59b91c628a6688ceb1](https://gist.github.com/hootlex/da59b91c628a6688ceb1 )
+*   [https://toffeeshare.com/](https://toffeeshare.com/ )
+*   [https://send-anywhere.com/](https://send-anywhere.com/ )
+*   [hdtoday](https://hdtoday.sc/country/india/ //hdtoday )
+*   [https://1lib.in/](https://1lib.in/ )
+*   [https://www.freefileconvert.com/](https://www.freefileconvert.com/ )
+*   [https://app.flowcv.com/](https://app.flowcv.com/ )
+*   [https://tosdr.org/ //Terms of Service; Didn't Read”](https://tosdr.org/)
+*   [https://app.uberduck.ai/pricing](https://app.uberduck.ai/pricing )
+*   [https://www.prepostseo.com/](https://www.prepostseo.com/ )
+*   [talk to books](https://books.google.com/talktobooks/)
+*   [https://pdfsbooks.com/](https://pdfsbooks.com/ )
+*   [https://www.renderforest.com/](https://www.renderforest.com/ )
+*   [https://tuberanker.com/youtube-description-generator](https://tuberanker.com/youtube-description-generator )
+*   [https://tuberanker.com/youtube-title-generator](https://tuberanker.com/youtube-title-generator )
+*   [https://cleartax.in/s/fd-calculator/](https://cleartax.in/s/fd-calculator/ )
+
+Virtual System::
+----------------
+
+*   [https://neverinstall.com/](https://neverinstall.com/ )
+*   [Replit](https://replit.com/@MayankKushwah)
+*   [https://www.sweethome3d.com/](https://www.sweethome3d.com/ )
+
+Learn More ::
+-------------
+
+*   [https://www.phpdeveloper.org.uk/](https://www.phpdeveloper.org.uk/ )
+*   [https://www.classcentral.com/](https://www.classcentral.com/ )
+*   [https://app.loopcv.pro/signup](https://app.loopcv.pro/signup )
+[https://www.eldalab.in/](https://www.eldalab.in/ )*   [https://scribehow.com/](https://scribehow.com/ )
+*   [https://printify.com/](https://printify.com/ )
+*   [https://www.franklywearing.com/](https://www.franklywearing.com/ )
+*   [https://untools.co/](https://untools.co/ )
+*   [https://send-anywhere.com/](https://send-anywhere.com/ )
+*   [https://rxresu.me/dashboard](https://rxresu.me/dashboard )
+*   [https://ipindiaonline.gov.in/ (To check brand is registered in India as Trademark)](https://ipindiaonline.gov.in/ (To check brand is registered in India as Trademark) )
+*   [https://blisk.io/](https://blisk.io/)
+*   [https://www.ceir.gov.in/](https://www.ceir.gov.in/ )
+*   [https://darebee.com/](https://darebee.com/ )
+*   [https://gingersauce.co/](https://gingersauce.co/ )
+*   [https://txtmoji.com/ (Encrypt text into emoji)](https://txtmoji.com/ (Encrypt text into emoji) )
+*   [https://chloromaps.com/ (Develop and Ship Choropleth Maps Faster https://dpnkr.in/)](https://chloromaps.com/)
+*   [https://ownid.com/pricing.html (web user-fingerprint authentication)](https://ownid.com/pricing.html)
+*   [https://codebeautify.org/](https://codebeautify.org/ )
