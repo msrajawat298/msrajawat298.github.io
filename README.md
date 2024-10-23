@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#56](https://github.com/vitabletech/SnippetMaster/pull/56) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-2. 💪 Opened PR [#56](https://github.com/vitabletech/SnippetMaster/pull/56) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-3. 🚀 Published release [release-v1.4.0](https://github.com/vitabletech/SnippetMaster/releases/tag/v1.4.0) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-4. 🎉 Merged PR [#55](https://github.com/vitabletech/SnippetMaster/pull/55) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-5. 💪 Opened PR [#55](https://github.com/vitabletech/SnippetMaster/pull/55) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+1. ❗ Opened issue [#2943](https://github.com/PHPMailer/PHPMailer/issues/2943) in [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer)
+2. 🎉 Merged PR [#56](https://github.com/vitabletech/SnippetMaster/pull/56) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+3. 💪 Opened PR [#56](https://github.com/vitabletech/SnippetMaster/pull/56) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+4. 🚀 Published release [release-v1.4.0](https://github.com/vitabletech/SnippetMaster/releases/tag/v1.4.0) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+5. 🎉 Merged PR [#55](https://github.com/vitabletech/SnippetMaster/pull/55) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
    <!--END_SECTION:activity-->
    <br/>
 
