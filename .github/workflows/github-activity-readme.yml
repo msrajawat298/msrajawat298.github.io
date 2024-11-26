@@ -1,8 +1,8 @@
-name: Update README With Github Recent activity
+name: Update README With Github Recent Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: '*/30 * * * *' # Runs every 30 minutes
   workflow_dispatch:
 
 jobs:
@@ -11,9 +11,16 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout Code
+        uses: actions/checkout@v2
+
+      - name: Update Recent Activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: 'Updated Recent Activity'
+          MAX_LINES: 10
+          GH_USERNAME: 'msrajawat298'
+          COMMIT_EMAIL: 'msrajawat298@gmail.com'
+          COMMIT_NAME: Update Github Activity in Readme Page By cron job

@@ -20,3 +20,5 @@ jobs:
           date_format: 'mmm d, yyyy'
           template: '<table><tr><td><a href="$url"><img width="140px" src="https://i.ytimg.com/vi/$videoId/mqdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr></table>$newline'
           committer_email: 'msrajawat298@gmail.com'
+          committer_username: 'msrajawat298'
+          commit_message: 'Updated README with latest YouTube videos'

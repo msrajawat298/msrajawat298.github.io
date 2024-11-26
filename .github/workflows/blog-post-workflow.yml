@@ -17,3 +17,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: 'https://blog.vitabletech.in/feed/'
+          committer_email: 'msrajawat298@gmail.com'
+          committer_username: 'msrajawat298'
+          commit_message: 'Updated README with latest blog posts'
+
+
