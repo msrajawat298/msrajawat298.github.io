@@ -20,4 +20,3 @@ jobs:
           feed_list: 'https://stackoverflow.com/feeds/user/9578353'
           committer_email: 'msrajawat298@gmail.com'
           committer_username: 'msrajawat298'
-          commit_message: 'Updated readme with the latest stackOverflow data'
