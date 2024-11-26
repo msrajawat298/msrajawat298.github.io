@@ -165,11 +165,11 @@
 # 📕 Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [POTD: LEET CODE – 725. &lpar;Split Linked List in Parts&rpar;](https://blog.vitabletech.in/potd-leet-code-725-split-linked-list-in-parts/)
-- [Converting Between Number Systems in JavaScript: A Complete Guide](https://blog.vitabletech.in/converting-between-number-systems-in-javascript-a-complete-guide/)
-- [An Extensive Guide to Different Types of Coffee and Tea Beverages](https://blog.vitabletech.in/an-extensive-guide-to-different-types-of-coffee-and-tea-beverages/)
-- [POTD: Leet Code 1367 &lpar;Linked List in Binary Tree&rpar;](https://blog.vitabletech.in/potd-leet-code-1367-linked-list-in-binary-tree/)
-- [POTD-Leet Code 3217 &lpar;Delete Nodes From Linked List Present in Array&rpar; in JS](https://blog.vitabletech.in/potd-leet-code-3217-delete-nodes-from-linked-list-present-in-array/)
+- [The Pros and Cons of Using Base64 Encoding for Images on Websites](https://blog.vitabletech.in/the-pros-and-cons-of-using-base64-encoding-for-images-on-websites/)
+- [POTD: 386. Lexicographical Numbers](https://blog.vitabletech.in/potd-386-lexicographical-numbers/)
+- [POTD:  440. K-th Smallest in Lexicographical Order](https://blog.vitabletech.in/podt-440-k-th-smallest-in-lexicographical-order/)
+- [PODT: Understanding the Shortest Palindrome Problem and Solution](https://blog.vitabletech.in/podt-understanding-the-shortest-palindrome-problem-and-solution/)
+- [POTD Leet Code: 241. Different Ways to Add Parentheses in JS](https://blog.vitabletech.in/podt-leet-code-241-different-ways-to-add-parentheses-in-js/)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
