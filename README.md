@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.0](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.0) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-2. 🎉 Merged PR [#1](https://github.com/msrajawat298/interview-desgin-pattern/pull/1) in [msrajawat298/interview-desgin-pattern](https://github.com/msrajawat298/interview-desgin-pattern)
-3. 💪 Opened PR [#1](https://github.com/msrajawat298/interview-desgin-pattern/pull/1) in [msrajawat298/interview-desgin-pattern](https://github.com/msrajawat298/interview-desgin-pattern)
-4. ❗ Opened issue [#73](https://github.com/vitabletech/SnippetMaster/issues/73) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-5. 🗣 Commented on [#10](https://github.com/vitabletech/node-express-api-bootstrap/issues/10#issuecomment-2079725295) in [vitabletech/node-express-api-bootstrap](https://github.com/vitabletech/node-express-api-bootstrap)
+1. 🚀 Published release [v1.0.2](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.2) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+2. 🚀 Published release [v1.0.1](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.1) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+3. 🚀 Published release [v1.0.0](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.0) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+4. 🎉 Merged PR [#1](https://github.com/msrajawat298/interview-desgin-pattern/pull/1) in [msrajawat298/interview-desgin-pattern](https://github.com/msrajawat298/interview-desgin-pattern)
+5. 💪 Opened PR [#1](https://github.com/msrajawat298/interview-desgin-pattern/pull/1) in [msrajawat298/interview-desgin-pattern](https://github.com/msrajawat298/interview-desgin-pattern)
 <!--END_SECTION:activity-->
 <br/>
 
