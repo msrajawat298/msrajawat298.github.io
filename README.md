@@ -193,11 +193,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.4](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.4) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-2. 🚀 Published release [v1.0.3](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.03) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-3. 🚀 Published release [v1.0.2](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.2) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-4. 🚀 Published release [v1.0.1](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.1) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-5. 🚀 Published release [v1.0.0](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.0) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+1. 🚀 Published release [v1.0.5](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.5) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+2. 🚀 Published release [v1.0.4](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.4) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+3. 🚀 Published release [v1.0.3](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.03) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+4. 🚀 Published release [v1.0.2](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.2) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+5. 🚀 Published release [v1.0.1](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.1) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
 <!--END_SECTION:activity-->
 <br/>
 
