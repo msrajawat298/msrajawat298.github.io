@@ -1,3 +1,6 @@
+Custom Boot Manager rEFInd
+
+
 Refrence Link ::
 ===================================================
 https://help.ubuntu.com/community/UsingTheTerminal
