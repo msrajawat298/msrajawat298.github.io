@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🚀 Published release [v1.0.6](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.6) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-2. 🚀 Published release [v1.0.5](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.5) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-3. 🚀 Published release [v1.0.4](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.4) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-4. 🚀 Published release [v1.0.3](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.03) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
-5. 🚀 Published release [v1.0.2](https://github.com/msrajawat298/project-report-generator/releases/tag/v1.0.2) in [msrajawat298/project-report-generator](https://github.com/msrajawat298/project-report-generator)
+1. 🎉 Merged PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+2. 💪 Opened PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+3. ❌ Closed PR [#2](https://github.com/msrajawat298/loh-frontend/pull/2) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+4. 💪 Opened PR [#2](https://github.com/msrajawat298/loh-frontend/pull/2) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+5. ❌ Closed PR [#1](https://github.com/msrajawat298/loh-frontend/pull/1) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
 <!--END_SECTION:activity-->
 <br/>
 
