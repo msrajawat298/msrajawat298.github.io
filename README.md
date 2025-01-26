@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#7](https://github.com/msrajawat298/loh-frontend/pull/7) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
-2. 💪 Opened PR [#7](https://github.com/msrajawat298/loh-frontend/pull/7) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
-3. 🎉 Merged PR [#6](https://github.com/msrajawat298/loh-frontend/pull/6) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
-4. 💪 Opened PR [#6](https://github.com/msrajawat298/loh-frontend/pull/6) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
-5. 🎉 Merged PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+1. 🎉 Merged PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+2. 💪 Opened PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+3. ❌ Closed PR [#2](https://github.com/msrajawat298/loh-frontend/pull/2) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+4. 💪 Opened PR [#2](https://github.com/msrajawat298/loh-frontend/pull/2) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+5. ❌ Closed PR [#1](https://github.com/msrajawat298/loh-frontend/pull/1) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
 <!--END_SECTION:activity-->
 <br/>
 
