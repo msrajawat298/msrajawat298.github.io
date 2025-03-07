@@ -164,12 +164,16 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [The Pros and Cons of Using Base64 Encoding for Images on Websites](https://blog.vitabletech.in/the-pros-and-cons-of-using-base64-encoding-for-images-on-websites/)
-- [POTD: 386. Lexicographical Numbers](https://blog.vitabletech.in/potd-386-lexicographical-numbers/)
-- [POTD:  440. K-th Smallest in Lexicographical Order](https://blog.vitabletech.in/podt-440-k-th-smallest-in-lexicographical-order/)
-- [PODT: Understanding the Shortest Palindrome Problem and Solution](https://blog.vitabletech.in/podt-understanding-the-shortest-palindrome-problem-and-solution/)
-- [POTD Leet Code: 241. Different Ways to Add Parentheses in JS](https://blog.vitabletech.in/podt-leet-code-241-different-ways-to-add-parentheses-in-js/)
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HWYpLrPOihM"><img width="140px" src="https://i.ytimg.com/vi/HWYpLrPOihM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HWYpLrPOihM">AR camera aircraft</a><br/>Mar 5, 2025</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=lskQb_wZkJQ"><img width="140px" src="https://i.ytimg.com/vi/lskQb_wZkJQ/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lskQb_wZkJQ">Shadow DOM | Create Your Own Custom HTML Element | Encapsulate HTML &amp; CSS</a><br/>Oct 18, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
