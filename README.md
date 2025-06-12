@@ -170,10 +170,10 @@
 <td><a href="https://www.youtube.com/watch?v=HWYpLrPOihM">AR camera aircraft</a><br/>Mar 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=lskQb_wZkJQ"><img width="140px" src="https://i.ytimg.com/vi/lskQb_wZkJQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lskQb_wZkJQ">Shadow DOM | Create Your Own Custom HTML Element | Encapsulate HTML &amp; CSS</a><br/>Oct 18, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/FIcar_agOTA"><img width="140px" src="https://i.ytimg.com/vi/FIcar_agOTA/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
