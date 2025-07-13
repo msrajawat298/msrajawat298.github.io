@@ -1,9 +1,9 @@
 ## Best AI website to help your Productivity
 
+- [chatgpt](https://openai.com/blog/chatgpt/)
 - [https://chat.forefront.ai](https://chat.forefront.ai/)
 - [ora.sh](https://ora.sh)
 - [voice.ai](https://voice.ai/)
-- [chatgpt](https://openai.com/blog/chatgpt/)
 - [https://denigma.app/#demo](https://denigma.app/#demo)
 - [https://beta.openai.com/playground](https://beta.openai.com/playground)
 - [https://quillbot.com/grammar-check](https://quillbot.com/grammar-check)
@@ -60,6 +60,7 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 
 ## Online Image edit tools :
 
+- [photext](https://photext.shop/)
 - [https://clipdrop.co/relight](https://clipdrop.co/relight)
 - [https://www.cutout.pro/photo-enhancer-sharpener-upscaler/upload](https://www.cutout.pro/photo-enhancer-sharpener-upscaler/upload)
 - [https://pfpmaker.com/](https://pfpmaker.com/)
