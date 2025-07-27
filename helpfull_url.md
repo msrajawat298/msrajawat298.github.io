@@ -307,3 +307,15 @@ You can also use some online tools like Kapwing, WeVideo and Clipchamp to merge 
 - [Learn free Share market from Govt. with certification](https://www.nism.ac.in/certifications)
 - [investor sebi](https://investor.sebi.gov.in/index.html)
 - [pi7](https://image.pi7.org/)
+
+
+## Useful Tools for PDF and Image Editing:
+
+1. **Convert PDF to JPG**
+   [iLovePDF - PDF to JPG Converter](https://www.ilovepdf.com/pdf_to_jpg)
+
+2. **Extract Text from Images or PDFs (OCR)**
+   [Photext - Image & PDF Text Extraction](https://photext.shop/)
+
+3. **Remove Watermarks from Images**
+   [Watermark Remover Tool](https://www.watermarkremover.io/upload)
