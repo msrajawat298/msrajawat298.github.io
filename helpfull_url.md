@@ -1,5 +1,7 @@
 ## Best AI website to help your Productivity
 
+- [whisper-web](https://huggingface.co/spaces/Bundesrechnenzentrum/whisper-web)
+- [huggingface.co/spaces](https://huggingface.co/spaces)
 - [chatgpt](https://openai.com/blog/chatgpt/)
 - [https://chat.forefront.ai](https://chat.forefront.ai/)
 - [ora.sh](https://ora.sh)
