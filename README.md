@@ -197,9 +197,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/msrajawat298/PlannerBuddy-api/pull/1) in [msrajawat298/PlannerBuddy-api](https://github.com/msrajawat298/PlannerBuddy-api)
-2. 💪 Opened PR [#1](https://github.com/msrajawat298/PlannerBuddy-api/pull/1) in [msrajawat298/PlannerBuddy-api](https://github.com/msrajawat298/PlannerBuddy-api)
-3. 🎉 Merged PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+1. ❗ Opened issue [#1](https://github.com/vitabletech/ludo-player-vscode/issues/1) in [vitabletech/ludo-player-vscode](https://github.com/vitabletech/ludo-player-vscode)
+2. 🚀 Published release [release-v0.0.1](https://github.com/vitabletech/ludo-player-vscode/releases/tag/v0.0.1) in [vitabletech/ludo-player-vscode](https://github.com/vitabletech/ludo-player-vscode)
+3. 🚀 Published release [release-v0.0.1](https://github.com/vitabletech/ludo-player-vscode/releases/tag/v0.0.1) in [vitabletech/ludo-player-vscode](https://github.com/vitabletech/ludo-player-vscode)
 4. 💪 Opened PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
 5. ❌ Closed PR [#2](https://github.com/msrajawat298/loh-frontend/pull/2) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
 <!--END_SECTION:activity-->
