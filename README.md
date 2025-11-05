@@ -197,7 +197,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#1](https://github.com/vitabletech/ludo-player-vscode/issues/1) in [vitabletech/ludo-player-vscode](https://github.com/vitabletech/ludo-player-vscode)
+1. 🗣 Commented on [#23](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn/issues/23#issuecomment-3487967290) in [ZEGOCLOUD/zego_uikit_prebuilt_call_rn](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn)
 2. 🚀 Published release [release-v0.0.1](https://github.com/vitabletech/ludo-player-vscode/releases/tag/v0.0.1) in [vitabletech/ludo-player-vscode](https://github.com/vitabletech/ludo-player-vscode)
 3. 🚀 Published release [release-v0.0.1](https://github.com/vitabletech/ludo-player-vscode/releases/tag/v0.0.1) in [vitabletech/ludo-player-vscode](https://github.com/vitabletech/ludo-player-vscode)
 4. 💪 Opened PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
