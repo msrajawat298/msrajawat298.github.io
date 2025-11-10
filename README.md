@@ -197,10 +197,10 @@
 
 <!--START_SECTION:activity-->
 
-1.  Assigned issue [#74](https://github.com/vitabletech/SnippetMaster/issues/74) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-2. ❗ Opened issue [#74](https://github.com/vitabletech/SnippetMaster/issues/74) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
-3. 🗣 Commented on [#23](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn/issues/23#issuecomment-3487967290) in [ZEGOCLOUD/zego_uikit_prebuilt_call_rn](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn)
-4. 💪 Opened PR [#3](https://github.com/msrajawat298/loh-frontend/pull/3) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+1. ❗ Opened issue [#75](https://github.com/vitabletech/SnippetMaster/issues/75) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+2.  Assigned issue [#74](https://github.com/vitabletech/SnippetMaster/issues/74) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+3. ❗ Opened issue [#74](https://github.com/vitabletech/SnippetMaster/issues/74) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+4. 🗣 Commented on [#23](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn/issues/23#issuecomment-3487967290) in [ZEGOCLOUD/zego_uikit_prebuilt_call_rn](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn)
 5. ❌ Closed PR [#2](https://github.com/msrajawat298/loh-frontend/pull/2) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
 <!--END_SECTION:activity-->
 <br/>
