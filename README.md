@@ -197,7 +197,7 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗ Opened issue [#75](https://github.com/vitabletech/SnippetMaster/issues/75) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
+1. ❗ Opened issue [#34447](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/34447) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
 2.  Assigned issue [#74](https://github.com/vitabletech/SnippetMaster/issues/74) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
 3. ❗ Opened issue [#74](https://github.com/vitabletech/SnippetMaster/issues/74) in [vitabletech/SnippetMaster](https://github.com/vitabletech/SnippetMaster)
 4. 🗣 Commented on [#23](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn/issues/23#issuecomment-3487967290) in [ZEGOCLOUD/zego_uikit_prebuilt_call_rn](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn)
