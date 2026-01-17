@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/msrajawat298/MachineCoding/pull/1) in [msrajawat298/MachineCoding](https://github.com/msrajawat298/MachineCoding)
-2. 💪 Opened PR [#1](https://github.com/msrajawat298/MachineCoding/pull/1) in [msrajawat298/MachineCoding](https://github.com/msrajawat298/MachineCoding)
-3. ❗ Opened issue [#34447](https://github.com/LeetCode-Feedback/LeetCode-Feedback/issues/34447) in [LeetCode-Feedback/LeetCode-Feedback](https://github.com/LeetCode-Feedback/LeetCode-Feedback)
-4. 🗣 Commented on [#23](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn/issues/23#issuecomment-3487967290) in [ZEGOCLOUD/zego_uikit_prebuilt_call_rn](https://github.com/ZEGOCLOUD/zego_uikit_prebuilt_call_rn)
-5. ❌ Closed PR [#2](https://github.com/msrajawat298/loh-frontend/pull/2) in [msrajawat298/loh-frontend](https://github.com/msrajawat298/loh-frontend)
+1. 💪 Opened PR [#2](https://github.com/glg-public/glg-simple-movie-app/pull/2) in [glg-public/glg-simple-movie-app](https://github.com/glg-public/glg-simple-movie-app)
+2. ❌ Closed PR [#1](https://github.com/msrajawat298/glg-simple-movie-app/pull/1) in [msrajawat298/glg-simple-movie-app](https://github.com/msrajawat298/glg-simple-movie-app)
+3. 💪 Opened PR [#1](https://github.com/msrajawat298/glg-simple-movie-app/pull/1) in [msrajawat298/glg-simple-movie-app](https://github.com/msrajawat298/glg-simple-movie-app)
+4. 🎉 Merged PR [#1](https://github.com/msrajawat298/MachineCoding/pull/1) in [msrajawat298/MachineCoding](https://github.com/msrajawat298/MachineCoding)
+5. 💪 Opened PR [#1](https://github.com/msrajawat298/MachineCoding/pull/1) in [msrajawat298/MachineCoding](https://github.com/msrajawat298/MachineCoding)
 <!--END_SECTION:activity-->
 <br/>
 
