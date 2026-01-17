@@ -164,7 +164,9 @@
 
 # 📕 Blog posts
 
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=HWYpLrPOihM"><img width="140px" src="https://i.ytimg.com/vi/HWYpLrPOihM/mqdefault.jpg"></a></td>
+<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=XxrjYXHHCC8"><img width="140px" src="https://i.ytimg.com/vi/XxrjYXHHCC8/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XxrjYXHHCC8">Record, Replay, and Measure User Flows | New Recorder Panel for Automation &amp; QA Testing</a><br/>Jan 16, 2026</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=HWYpLrPOihM"><img width="140px" src="https://i.ytimg.com/vi/HWYpLrPOihM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HWYpLrPOihM">AR camera aircraft</a><br/>Mar 5, 2025</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/shorts/xbMa_2eSGrM"><img width="140px" src="https://i.ytimg.com/vi/xbMa_2eSGrM/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xbMa_2eSGrM">React native  app development</a><br/>Apr 11, 2024</td></tr></table>
@@ -172,8 +174,6 @@
 <td><a href="https://www.youtube.com/shorts/FIcar_agOTA">Bulk Contact Import on Android: CSV File Tutorial</a><br/>Apr 11, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU"><img width="140px" src="https://i.ytimg.com/vi/-PgPCYYD0CU/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-PgPCYYD0CU">Getting to Know Mayank Singh: A Personal Chat with LLM Assistant</a><br/>Mar 6, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs"><img width="140px" src="https://i.ytimg.com/vi/jkRxXlyavNs/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jkRxXlyavNs">My First Project on Google Palm LLM - Q&amp;A Application</a><br/>Nov 26, 2023</td></tr></table>
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
