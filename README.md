@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#2](https://github.com/glg-public/glg-simple-movie-app/pull/2) in [glg-public/glg-simple-movie-app](https://github.com/glg-public/glg-simple-movie-app)
-2. ❌ Closed PR [#1](https://github.com/msrajawat298/glg-simple-movie-app/pull/1) in [msrajawat298/glg-simple-movie-app](https://github.com/msrajawat298/glg-simple-movie-app)
-3. 💪 Opened PR [#1](https://github.com/msrajawat298/glg-simple-movie-app/pull/1) in [msrajawat298/glg-simple-movie-app](https://github.com/msrajawat298/glg-simple-movie-app)
-4. 🎉 Merged PR [#1](https://github.com/msrajawat298/MachineCoding/pull/1) in [msrajawat298/MachineCoding](https://github.com/msrajawat298/MachineCoding)
-5. 💪 Opened PR [#1](https://github.com/msrajawat298/MachineCoding/pull/1) in [msrajawat298/MachineCoding](https://github.com/msrajawat298/MachineCoding)
+1. 🎉 Merged PR [#2](https://github.com/vitabletech/FrontendForge/pull/2) in [vitabletech/FrontendForge](https://github.com/vitabletech/FrontendForge)
+2. 💪 Opened PR [#2](https://github.com/vitabletech/FrontendForge/pull/2) in [vitabletech/FrontendForge](https://github.com/vitabletech/FrontendForge)
+3. 🚀 Published release [v.1.1.1](https://github.com/vitabletech/FrontendForge/releases/tag/1.1.1) in [vitabletech/FrontendForge](https://github.com/vitabletech/FrontendForge)
+4. 💪 Opened PR [#2](https://github.com/glg-public/glg-simple-movie-app/pull/2) in [glg-public/glg-simple-movie-app](https://github.com/glg-public/glg-simple-movie-app)
+5. ❌ Closed PR [#1](https://github.com/msrajawat298/glg-simple-movie-app/pull/1) in [msrajawat298/glg-simple-movie-app](https://github.com/msrajawat298/glg-simple-movie-app)
 <!--END_SECTION:activity-->
 <br/>
 
