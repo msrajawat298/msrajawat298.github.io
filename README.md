@@ -197,10 +197,10 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/vitabletech/LegalResearchDesk/pull/1) in [vitabletech/LegalResearchDesk](https://github.com/vitabletech/LegalResearchDesk)
-2. 💪 Opened PR [#1](https://github.com/vitabletech/LegalResearchDesk/pull/1) in [vitabletech/LegalResearchDesk](https://github.com/vitabletech/LegalResearchDesk)
-3. 🎉 Merged PR [#2](https://github.com/vitabletech/FrontendForge/pull/2) in [vitabletech/FrontendForge](https://github.com/vitabletech/FrontendForge)
-4. 💪 Opened PR [#2](https://github.com/vitabletech/FrontendForge/pull/2) in [vitabletech/FrontendForge](https://github.com/vitabletech/FrontendForge)
+1. 🎉 Merged PR [#2](https://github.com/vitabletech/vitabletech/pull/2) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+2. 💪 Opened PR [#2](https://github.com/vitabletech/vitabletech/pull/2) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+3. 🎉 Merged PR [#1](https://github.com/vitabletech/vitabletech/pull/1) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+4. 💪 Opened PR [#1](https://github.com/vitabletech/vitabletech/pull/1) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
 5. 🚀 Published release [v.1.1.1](https://github.com/vitabletech/FrontendForge/releases/tag/1.1.1) in [vitabletech/FrontendForge](https://github.com/vitabletech/FrontendForge)
 <!--END_SECTION:activity-->
 <br/>
