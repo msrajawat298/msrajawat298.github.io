@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#12](https://github.com/vitabletech/gbp-sdk/pull/12) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
-2. 💪 Opened PR [#12](https://github.com/vitabletech/gbp-sdk/pull/12) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
-3. 🚀 Published release [v1.1.0](https://github.com/vitabletech/gbp-sdk/releases/tag/v1.1.0) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
-4. 🎉 Merged PR [#10](https://github.com/vitabletech/gbp-sdk/pull/10) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
-5. 🔒 Closed issue [#8](https://github.com/vitabletech/gbp-sdk/issues/8) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+1. 🚀 Published release [v1.0.2](https://github.com/vitabletech/MetaSDK/releases/tag/v1.0.2) in [vitabletech/MetaSDK](https://github.com/vitabletech/MetaSDK)
+2. 🎉 Merged PR [#12](https://github.com/vitabletech/gbp-sdk/pull/12) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+3. 💪 Opened PR [#12](https://github.com/vitabletech/gbp-sdk/pull/12) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+4. 🚀 Published release [v1.1.0](https://github.com/vitabletech/gbp-sdk/releases/tag/v1.1.0) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+5. 🎉 Merged PR [#10](https://github.com/vitabletech/gbp-sdk/pull/10) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
 <!--END_SECTION:activity-->
 <br/>
 
