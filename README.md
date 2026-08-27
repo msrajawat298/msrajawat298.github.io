@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#20](https://github.com/vitabletech/vitabletech/pull/20) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
-2. 💪 Opened PR [#20](https://github.com/vitabletech/vitabletech/pull/20) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
-3. 🚀 Published release [v1.0.2](https://github.com/vitabletech/MetaSDK/releases/tag/v1.0.2) in [vitabletech/MetaSDK](https://github.com/vitabletech/MetaSDK)
-4. 🎉 Merged PR [#12](https://github.com/vitabletech/gbp-sdk/pull/12) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
-5. 💪 Opened PR [#12](https://github.com/vitabletech/gbp-sdk/pull/12) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+1. 🎉 Merged PR [#22](https://github.com/vitabletech/vitabletech/pull/22) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+2. 💪 Opened PR [#22](https://github.com/vitabletech/vitabletech/pull/22) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+3. 💪 Opened PR [#21](https://github.com/vitabletech/vitabletech/pull/21) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+4. 🎉 Merged PR [#21](https://github.com/vitabletech/vitabletech/pull/21) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+5. 🎉 Merged PR [#20](https://github.com/vitabletech/vitabletech/pull/20) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
 <!--END_SECTION:activity-->
 <br/>
 
