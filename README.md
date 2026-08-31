@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/vitabletech/BihariDesigner/pull/2) in [vitabletech/BihariDesigner](https://github.com/vitabletech/BihariDesigner)
-2. 💪 Opened PR [#2](https://github.com/vitabletech/BihariDesigner/pull/2) in [vitabletech/BihariDesigner](https://github.com/vitabletech/BihariDesigner)
-3. 🎉 Merged PR [#1](https://github.com/vitabletech/BihariDesigner/pull/1) in [vitabletech/BihariDesigner](https://github.com/vitabletech/BihariDesigner)
-4. 💪 Opened PR [#1](https://github.com/vitabletech/BihariDesigner/pull/1) in [vitabletech/BihariDesigner](https://github.com/vitabletech/BihariDesigner)
-5. 🎉 Merged PR [#22](https://github.com/vitabletech/vitabletech/pull/22) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+1. ℹ️ Labeled issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. ℹ️ Labeled issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+3. ❗ Opened issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. 🎉 Merged PR [#13](https://github.com/vitabletech/gbp-sdk/pull/13) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+5. 💪 Opened PR [#13](https://github.com/vitabletech/gbp-sdk/pull/13) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
 <!--END_SECTION:activity-->
 <br/>
 
