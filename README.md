@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ℹ️ Labeled issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-2. ℹ️ Labeled issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-3. ❗ Opened issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🎉 Merged PR [#13](https://github.com/vitabletech/gbp-sdk/pull/13) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
-5. 💪 Opened PR [#13](https://github.com/vitabletech/gbp-sdk/pull/13) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+1. 🎉 Merged PR [#23](https://github.com/vitabletech/vitabletech/pull/23) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+2. 💪 Opened PR [#23](https://github.com/vitabletech/vitabletech/pull/23) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+3. ℹ️ Labeled issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+4. ℹ️ Labeled issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+5. ❗ Opened issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 <br/>
 
