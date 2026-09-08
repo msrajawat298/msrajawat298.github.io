@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#24](https://github.com/vitabletech/vitabletech/pull/24) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
-2. 💪 Opened PR [#24](https://github.com/vitabletech/vitabletech/pull/24) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
-3. 🎉 Merged PR [#23](https://github.com/vitabletech/vitabletech/pull/23) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
-4. 💪 Opened PR [#23](https://github.com/vitabletech/vitabletech/pull/23) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
-5. ℹ️ Labeled issue [#12885](https://github.com/EclipseFdn/open-vsx.org/issues/12885) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+1. 🎉 Merged PR [#25](https://github.com/vitabletech/vitabletech/pull/25) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+2. 💪 Opened PR [#25](https://github.com/vitabletech/vitabletech/pull/25) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+3. 🎉 Merged PR [#24](https://github.com/vitabletech/vitabletech/pull/24) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+4. 💪 Opened PR [#24](https://github.com/vitabletech/vitabletech/pull/24) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+5. 🎉 Merged PR [#23](https://github.com/vitabletech/vitabletech/pull/23) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
 <!--END_SECTION:activity-->
 <br/>
 
