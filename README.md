@@ -197,11 +197,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/vitabletech/apna.design/pull/3) in [vitabletech/apna.design](https://github.com/vitabletech/apna.design)
-2. 💪 Opened PR [#3](https://github.com/vitabletech/apna.design/pull/3) in [vitabletech/apna.design](https://github.com/vitabletech/apna.design)
-3. 🎉 Merged PR [#2](https://github.com/vitabletech/apna.design/pull/2) in [vitabletech/apna.design](https://github.com/vitabletech/apna.design)
-4. 💪 Opened PR [#2](https://github.com/vitabletech/apna.design/pull/2) in [vitabletech/apna.design](https://github.com/vitabletech/apna.design)
-5. 🎉 Merged PR [#33](https://github.com/vitabletech/vitabletech/pull/33) in [vitabletech/vitabletech](https://github.com/vitabletech/vitabletech)
+1. 🎉 Merged PR [#14](https://github.com/vitabletech/gbp-sdk/pull/14) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+2. 💪 Opened PR [#14](https://github.com/vitabletech/gbp-sdk/pull/14) in [vitabletech/gbp-sdk](https://github.com/vitabletech/gbp-sdk)
+3. 🎉 Merged PR [#3](https://github.com/vitabletech/apna.design/pull/3) in [vitabletech/apna.design](https://github.com/vitabletech/apna.design)
+4. 💪 Opened PR [#3](https://github.com/vitabletech/apna.design/pull/3) in [vitabletech/apna.design](https://github.com/vitabletech/apna.design)
+5. 🎉 Merged PR [#2](https://github.com/vitabletech/apna.design/pull/2) in [vitabletech/apna.design](https://github.com/vitabletech/apna.design)
 <!--END_SECTION:activity-->
 <br/>
 
